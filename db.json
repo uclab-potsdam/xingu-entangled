@@ -1,4 +1,1 @@
-{
-  "nodes": {},
-  "edges": []
-}
+{"nodes":{"326b7cf9-b513-4570-9854-bdb6cfe9201e":{"type":"graph","label":{"en":"fdwjnkrl"},"allocations":{"d622f953-477b-4793-a64a-616efcda70cb":{"x":608,"y":400},"347e36be-5615-4265-b288-20df6e5f56a2":{"x":959.0088381666318,"y":550.9293502065481}}},"d622f953-477b-4793-a64a-616efcda70cb":{"type":"entity","label":{"en":"ddd"}},"347e36be-5615-4265-b288-20df6e5f56a2":{"type":"entity","label":{"en":"fdfd"}}},"edges":[{"nodes":["d622f953-477b-4793-a64a-616efcda70cb","347e36be-5615-4265-b288-20df6e5f56a2"],"arrow":"→","graph":"326b7cf9-b513-4570-9854-bdb6cfe9201e","id":"0fe01610-aced-4d8d-8931-3cda453f40ea"}]}
