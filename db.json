@@ -1,61 +1,85 @@
 {
   "nodes": {
-    "8fac2575-46e3-4378-ae20-3479ecbea1f7": {
+    "92300bf1-cfe7-4324-ba48-78a611441419": {
+      "type": "entity",
+      "label": {
+        "en": "Utu"
+      }
+    },
+    "68585357-ebe4-4355-bfd4-338be23c8792": {
       "type": "graph",
       "label": {
         "en": "Using Kusu"
       },
       "allocations": {
-        "a9c22a88-ab05-4948-91a2-d6645592d91f": {
-          "x": null,
-          "y": null
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
+          "x": -260,
+          "y": 20
         },
-        "a5c392a8-b10e-4931-b64d-77f24d159cbb": {
-          "x": 410.3467180480311,
-          "y": 2.6225652748365746
+        "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": {
+          "x": 100,
+          "y": 20
         },
-        "4462d708-9345-4494-ae8d-7d3a2c4f725e": {
-          "x": 500,
-          "y": -260
+        "35bdade4-522a-457e-a59c-68dae65c29c3": {
+          "x": 20,
+          "y": -160
         },
-        "afb00c92-5fec-4987-947f-4f74cc982a1d": {
-          "x": 180,
-          "y": -400
+        "bae09528-e6d7-48ea-9a15-0348481e2ce6": {
+          "x": -176.71458565503622,
+          "y": -215.94435576727074
+        },
+        "31378844-2b14-4b88-a052-a642d0879e59": {
+          "x": -420,
+          "y": -220
         }
       }
     },
-    "a9c22a88-ab05-4948-91a2-d6645592d91f": {
+    "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
       "type": "entity",
       "label": {
-        "en": "Xingu women"
-      }
+        "en": "Xingu Women"
+      },
+      "class": "0b51a780-30b9-4d53-90c1-38b34d44afac"
     },
-    "a5c392a8-b10e-4931-b64d-77f24d159cbb": {
+    "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": {
       "type": "entity",
       "label": {
         "en": "Glass Tetra"
       },
-      "class": "95b84bce-c576-4205-afea-3c58a3bb3f5a"
+      "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
     },
-    "95b84bce-c576-4205-afea-3c58a3bb3f5a": {
+    "0b51a780-30b9-4d53-90c1-38b34d44afac": {
+      "type": "entity",
+      "label": {
+        "en": "people"
+      }
+    },
+    "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": {
       "type": "entity",
       "label": {
         "en": "fish"
       }
     },
-    "4462d708-9345-4494-ae8d-7d3a2c4f725e": {
+    "35bdade4-522a-457e-a59c-68dae65c29c3": {
       "type": "entity",
       "label": {
         "en": "Oil fish"
       },
-      "class": "95b84bce-c576-4205-afea-3c58a3bb3f5a"
+      "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
     },
-    "afb00c92-5fec-4987-947f-4f74cc982a1d": {
+    "bae09528-e6d7-48ea-9a15-0348481e2ce6": {
       "type": "entity",
       "label": {
         "en": "Glass Bloodfin"
       },
-      "class": "95b84bce-c576-4205-afea-3c58a3bb3f5a"
+      "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
+    },
+    "31378844-2b14-4b88-a052-a642d0879e59": {
+      "type": "entity",
+      "label": {
+        "en": "Pike cichlids"
+      },
+      "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
     }
   },
   "edges": [
@@ -91,66 +115,69 @@
     },
     {
       "nodes": [
-        "5e547a16-b13d-40f9-9e89-a04a638316f5",
-        "b736fc25-ed82-42f3-811e-086fede4d8f6"
-      ],
-      "arrow": "→",
-      "graph": "ab89f99c-89f8-4819-ba47-53eb200a217e",
-      "id": "f6ea07e5-f71b-4a16-964a-7295e75b2781"
-    },
-    {
-      "nodes": [
-        "b736fc25-ed82-42f3-811e-086fede4d8f6",
+        "92300bf1-cfe7-4324-ba48-78a611441419",
         "d622f953-477b-4793-a64a-616efcda70cb"
       ],
-      "arrow": "→",
-      "graph": "ab89f99c-89f8-4819-ba47-53eb200a217e",
-      "id": "46c4d263-2ed5-4775-a83f-2f695d6c7a01",
+      "arrow": "←",
+      "graph": "326b7cf9-b513-4570-9854-bdb6cfe9201e",
+      "id": "3f566ab7-09cb-40fa-a438-c8cdd11bc5d2",
       "label": {
-        "en": "is part of"
+        "en": "is related to"
       }
     },
     {
       "nodes": [
-        "d622f953-477b-4793-a64a-616efcda70cb",
-        "5e547a16-b13d-40f9-9e89-a04a638316f5"
+        "92300bf1-cfe7-4324-ba48-78a611441419",
+        "347e36be-5615-4265-b288-20df6e5f56a2"
       ],
       "arrow": "→",
-      "graph": "ab89f99c-89f8-4819-ba47-53eb200a217e",
-      "id": "87c7d4d4-ce27-412d-a8d3-5c5f04bb0408"
+      "graph": "326b7cf9-b513-4570-9854-bdb6cfe9201e",
+      "id": "0f9792d7-7074-4375-af03-a56224c4f19d"
     },
     {
       "nodes": [
-        "a9c22a88-ab05-4948-91a2-d6645592d91f",
-        "a5c392a8-b10e-4931-b64d-77f24d159cbb"
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e"
       ],
       "arrow": "→",
-      "graph": "8fac2575-46e3-4378-ae20-3479ecbea1f7",
-      "id": "bece3d9f-8145-4676-b50d-6e2329eaaef0",
+      "graph": "68585357-ebe4-4355-bfd4-338be23c8792",
+      "id": "409fb62d-5cf9-4311-a442-56170250f71d",
       "label": {
         "en": "fish and gut"
       }
     },
     {
       "nodes": [
-        "a9c22a88-ab05-4948-91a2-d6645592d91f",
-        "4462d708-9345-4494-ae8d-7d3a2c4f725e"
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "35bdade4-522a-457e-a59c-68dae65c29c3"
       ],
       "arrow": "→",
-      "graph": "8fac2575-46e3-4378-ae20-3479ecbea1f7",
-      "id": "00a39bbd-52d4-44e4-8258-307b000434bb",
+      "graph": "68585357-ebe4-4355-bfd4-338be23c8792",
+      "id": "107fc0f7-38a6-46b1-98c1-2aadfc2a5290",
       "label": {
         "en": "fish"
       }
     },
     {
       "nodes": [
-        "a9c22a88-ab05-4948-91a2-d6645592d91f",
-        "afb00c92-5fec-4987-947f-4f74cc982a1d"
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "bae09528-e6d7-48ea-9a15-0348481e2ce6"
       ],
       "arrow": "→",
-      "graph": "8fac2575-46e3-4378-ae20-3479ecbea1f7",
-      "id": "cbbb89f4-de84-471f-9098-d254d645a910",
+      "graph": "68585357-ebe4-4355-bfd4-338be23c8792",
+      "id": "d0c290ac-3ccf-4e4b-91b5-41c7fddaf4a2",
+      "label": {
+        "en": "fish"
+      }
+    },
+    {
+      "nodes": [
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "31378844-2b14-4b88-a052-a642d0879e59"
+      ],
+      "arrow": "→",
+      "graph": "68585357-ebe4-4355-bfd4-338be23c8792",
+      "id": "167cd2e2-2cc8-44bf-84e3-f6e3e61b2b6c",
       "label": {
         "en": "fish"
       }
