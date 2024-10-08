@@ -1,1 +1,136 @@
-{"nodes":{"326b7cf9-b513-4570-9854-bdb6cfe9201e":{"type":"graph","label":{"en":"fdwjnkrl"},"allocations":{"d622f953-477b-4793-a64a-616efcda70cb":{"x":600,"y":400},"347e36be-5615-4265-b288-20df6e5f56a2":{"x":959.0088381666318,"y":550.9293502065481},"5e547a16-b13d-40f9-9e89-a04a638316f5":{"x":987.626271789783,"y":335.28915999909486}}},"d622f953-477b-4793-a64a-616efcda70cb":{"type":"entity","label":{"en":"ddd"}},"347e36be-5615-4265-b288-20df6e5f56a2":{"type":"entity","label":{"en":"fdfd"}},"5e547a16-b13d-40f9-9e89-a04a638316f5":{"type":"entity","label":{"en":"hey"}}},"edges":[{"nodes":["d622f953-477b-4793-a64a-616efcda70cb","347e36be-5615-4265-b288-20df6e5f56a2"],"arrow":"→","graph":"326b7cf9-b513-4570-9854-bdb6cfe9201e","id":"0fe01610-aced-4d8d-8931-3cda453f40ea"},{"nodes":["5e547a16-b13d-40f9-9e89-a04a638316f5","d622f953-477b-4793-a64a-616efcda70cb"],"arrow":"→","graph":"326b7cf9-b513-4570-9854-bdb6cfe9201e","id":"9c26cad3-d4d7-4354-a461-3530c4b8cae1"},{"nodes":["347e36be-5615-4265-b288-20df6e5f56a2","5e547a16-b13d-40f9-9e89-a04a638316f5"],"arrow":"↔","graph":"326b7cf9-b513-4570-9854-bdb6cfe9201e","id":"680a269a-b24d-4b50-9351-189b40613b87","label":{"en":"heyho"}}]}
+{
+  "nodes": {
+    "8fac2575-46e3-4378-ae20-3479ecbea1f7": {
+      "type": "graph",
+      "label": {
+        "en": "Using Kusu"
+      },
+      "allocations": {
+        "a9c22a88-ab05-4948-91a2-d6645592d91f": {
+          "x": null,
+          "y": null
+        },
+        "a5c392a8-b10e-4931-b64d-77f24d159cbb": {
+          "x": 410.3467180480311,
+          "y": 2.6225652748365746
+        },
+        "4462d708-9345-4494-ae8d-7d3a2c4f725e": {
+          "x": 500,
+          "y": -260
+        }
+      }
+    },
+    "a9c22a88-ab05-4948-91a2-d6645592d91f": {
+      "type": "entity",
+      "label": {
+        "en": "Xingu women"
+      }
+    },
+    "a5c392a8-b10e-4931-b64d-77f24d159cbb": {
+      "type": "entity",
+      "label": {
+        "en": "Glass Tetra"
+      },
+      "class": "95b84bce-c576-4205-afea-3c58a3bb3f5a"
+    },
+    "95b84bce-c576-4205-afea-3c58a3bb3f5a": {
+      "type": "entity",
+      "label": {
+        "en": "fish"
+      }
+    },
+    "4462d708-9345-4494-ae8d-7d3a2c4f725e": {
+      "type": "entity",
+      "label": {
+        "en": "Oil fish"
+      },
+      "class": "95b84bce-c576-4205-afea-3c58a3bb3f5a"
+    }
+  },
+  "edges": [
+    {
+      "nodes": [
+        "d622f953-477b-4793-a64a-616efcda70cb",
+        "347e36be-5615-4265-b288-20df6e5f56a2"
+      ],
+      "arrow": "→",
+      "graph": "326b7cf9-b513-4570-9854-bdb6cfe9201e",
+      "id": "0fe01610-aced-4d8d-8931-3cda453f40ea"
+    },
+    {
+      "nodes": [
+        "5e547a16-b13d-40f9-9e89-a04a638316f5",
+        "d622f953-477b-4793-a64a-616efcda70cb"
+      ],
+      "arrow": "→",
+      "graph": "326b7cf9-b513-4570-9854-bdb6cfe9201e",
+      "id": "9c26cad3-d4d7-4354-a461-3530c4b8cae1"
+    },
+    {
+      "nodes": [
+        "347e36be-5615-4265-b288-20df6e5f56a2",
+        "5e547a16-b13d-40f9-9e89-a04a638316f5"
+      ],
+      "arrow": "↔",
+      "graph": "326b7cf9-b513-4570-9854-bdb6cfe9201e",
+      "id": "680a269a-b24d-4b50-9351-189b40613b87",
+      "label": {
+        "en": "heyho"
+      }
+    },
+    {
+      "nodes": [
+        "5e547a16-b13d-40f9-9e89-a04a638316f5",
+        "b736fc25-ed82-42f3-811e-086fede4d8f6"
+      ],
+      "arrow": "→",
+      "graph": "ab89f99c-89f8-4819-ba47-53eb200a217e",
+      "id": "f6ea07e5-f71b-4a16-964a-7295e75b2781"
+    },
+    {
+      "nodes": [
+        "b736fc25-ed82-42f3-811e-086fede4d8f6",
+        "d622f953-477b-4793-a64a-616efcda70cb"
+      ],
+      "arrow": "→",
+      "graph": "ab89f99c-89f8-4819-ba47-53eb200a217e",
+      "id": "46c4d263-2ed5-4775-a83f-2f695d6c7a01",
+      "label": {
+        "en": "is part of"
+      }
+    },
+    {
+      "nodes": [
+        "d622f953-477b-4793-a64a-616efcda70cb",
+        "5e547a16-b13d-40f9-9e89-a04a638316f5"
+      ],
+      "arrow": "→",
+      "graph": "ab89f99c-89f8-4819-ba47-53eb200a217e",
+      "id": "87c7d4d4-ce27-412d-a8d3-5c5f04bb0408"
+    },
+    {
+      "nodes": [
+        "a9c22a88-ab05-4948-91a2-d6645592d91f",
+        "a5c392a8-b10e-4931-b64d-77f24d159cbb"
+      ],
+      "arrow": "→",
+      "graph": "8fac2575-46e3-4378-ae20-3479ecbea1f7",
+      "id": "bece3d9f-8145-4676-b50d-6e2329eaaef0",
+      "label": {
+        "en": "fish and gut"
+      }
+    },
+    {
+      "nodes": [
+        "a9c22a88-ab05-4948-91a2-d6645592d91f",
+        "4462d708-9345-4494-ae8d-7d3a2c4f725e"
+      ],
+      "arrow": "→",
+      "graph": "8fac2575-46e3-4378-ae20-3479ecbea1f7",
+      "id": "00a39bbd-52d4-44e4-8258-307b000434bb",
+      "label": {
+        "en": "fish"
+      }
+    }
+  ]
+}
