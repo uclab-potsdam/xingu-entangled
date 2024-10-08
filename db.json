@@ -17,6 +17,10 @@
         "4462d708-9345-4494-ae8d-7d3a2c4f725e": {
           "x": 500,
           "y": -260
+        },
+        "afb00c92-5fec-4987-947f-4f74cc982a1d": {
+          "x": 180,
+          "y": -400
         }
       }
     },
@@ -43,6 +47,13 @@
       "type": "entity",
       "label": {
         "en": "Oil fish"
+      },
+      "class": "95b84bce-c576-4205-afea-3c58a3bb3f5a"
+    },
+    "afb00c92-5fec-4987-947f-4f74cc982a1d": {
+      "type": "entity",
+      "label": {
+        "en": "Glass Bloodfin"
       },
       "class": "95b84bce-c576-4205-afea-3c58a3bb3f5a"
     }
@@ -128,6 +139,18 @@
       "arrow": "→",
       "graph": "8fac2575-46e3-4378-ae20-3479ecbea1f7",
       "id": "00a39bbd-52d4-44e4-8258-307b000434bb",
+      "label": {
+        "en": "fish"
+      }
+    },
+    {
+      "nodes": [
+        "a9c22a88-ab05-4948-91a2-d6645592d91f",
+        "afb00c92-5fec-4987-947f-4f74cc982a1d"
+      ],
+      "arrow": "→",
+      "graph": "8fac2575-46e3-4378-ae20-3479ecbea1f7",
+      "id": "cbbb89f4-de84-471f-9098-d254d645a910",
       "label": {
         "en": "fish"
       }
