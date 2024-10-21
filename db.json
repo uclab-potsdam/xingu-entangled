@@ -22,15 +22,15 @@
           "y": 60
         },
         "35bdade4-522a-457e-a59c-68dae65c29c3": {
-          "x": 140,
-          "y": -120
+          "x": 120,
+          "y": -180
         },
         "bae09528-e6d7-48ea-9a15-0348481e2ce6": {
-          "x": 60,
-          "y": -220
+          "x": 180,
+          "y": -100
         },
         "31378844-2b14-4b88-a052-a642d0879e59": {
-          "x": -60,
+          "x": 60,
           "y": -280
         },
         "75792baa-4747-481c-b6c1-313e0c900f2f": {
@@ -54,12 +54,12 @@
           "y": -320
         },
         "6179e5ed-e5a6-4cfb-8e11-be9a79f878d0": {
-          "x": -200,
-          "y": -360
+          "x": -320,
+          "y": -220
         },
         "6694d19a-2425-4ada-8547-04dc1137dc8a": {
-          "x": -360,
-          "y": -280
+          "x": -200,
+          "y": -300
         },
         "23018c7c-de9a-48d7-ac7f-477a871af8fa": {
           "x": 460,
@@ -76,8 +76,240 @@
         "7cce359d-0645-4eb0-89a3-e379b5ff17cc": {
           "x": -180,
           "y": 420
+        },
+        "a694ec16-831f-4fb6-8432-9efef763eee4": {
+          "x": -80,
+          "y": -220
         }
-      }
+      },
+      "media": {
+        "file": "xe:using kusu.mp4",
+        "subtitles": {
+          "en": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_ENG.srt"
+        }
+      },
+      "marker": [
+        {
+          "time": 7.389853,
+          "states": {
+            "7cce359d-0645-4eb0-89a3-e379b5ff17cc": "hide",
+            "364d310d-d6af-4d6d-bddb-962fb6a59005": "hide",
+            "d9a842a3-60a7-463b-ab0a-a561a33e91fa": "hide",
+            "23018c7c-de9a-48d7-ac7f-477a871af8fa": "hide",
+            "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": "hide",
+            "35bdade4-522a-457e-a59c-68dae65c29c3": "hide",
+            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "hide",
+            "31378844-2b14-4b88-a052-a642d0879e59": "hide",
+            "6179e5ed-e5a6-4cfb-8e11-be9a79f878d0": "hide",
+            "6694d19a-2425-4ada-8547-04dc1137dc8a": "hide",
+            "01f09646-c153-4ade-bac0-923ddf3f477c": "hide",
+            "e8993840-3457-4a63-b8ef-644a8642d320": "hide",
+            "604c66b6-d12e-419a-a3c4-c45836316dc6": "hide",
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight",
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "highlight",
+            "75792baa-4747-481c-b6c1-313e0c900f2f": "default"
+          },
+          "bounds": {
+            "x1": -870.6589334633398,
+            "y1": -345.1004354318745,
+            "x2": -27.43963444272065,
+            "y2": 340.9084858052394
+          }
+        },
+        {
+          "time": 23.072154,
+          "states": {
+            "6179e5ed-e5a6-4cfb-8e11-be9a79f878d0": "highlight",
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default"
+          },
+          "bounds": {
+            "x1": -797.2076605504137,
+            "y1": -446.1052764651463,
+            "x2": -35.44725403303686,
+            "y2": 135.45374356424895
+          }
+        },
+        {
+          "time": 30.120986,
+          "states": {
+            "6179e5ed-e5a6-4cfb-8e11-be9a79f878d0": "default"
+          }
+        },
+        {
+          "time": 42.346131,
+          "states": {
+            "604c66b6-d12e-419a-a3c4-c45836316dc6": "highlight",
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "highlight"
+          }
+        },
+        {
+          "time": 48.276482,
+          "states": {
+            "a694ec16-831f-4fb6-8432-9efef763eee4": "highlight",
+            "604c66b6-d12e-419a-a3c4-c45836316dc6": "default",
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default"
+          },
+          "bounds": {
+            "x1": -779.0191851614177,
+            "y1": -496.2552582829394,
+            "x2": 54.059709859258135,
+            "y2": 170.00565411830496
+          }
+        },
+        {
+          "time": 82.325336,
+          "states": {
+            "35bdade4-522a-457e-a59c-68dae65c29c3": "highlight",
+            "a694ec16-831f-4fb6-8432-9efef763eee4": "default"
+          },
+          "bounds": {
+            "x1": -808.4102608965725,
+            "y1": -458.9373102847358,
+            "x2": 270.1839557172209,
+            "y2": 250.63156011676085
+          }
+        },
+        {
+          "time": 101.504009,
+          "states": {
+            "a694ec16-831f-4fb6-8432-9efef763eee4": "highlight",
+            "35bdade4-522a-457e-a59c-68dae65c29c3": "default"
+          }
+        },
+        {
+          "time": 118.490393,
+          "states": {
+            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "default",
+            "31378844-2b14-4b88-a052-a642d0879e59": "highlight"
+          }
+        },
+        {
+          "time": 107.99164,
+          "states": {
+            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "highlight",
+            "a694ec16-831f-4fb6-8432-9efef763eee4": "default"
+          }
+        },
+        {
+          "time": 124.046147,
+          "states": {
+            "6694d19a-2425-4ada-8547-04dc1137dc8a": "highlight",
+            "31378844-2b14-4b88-a052-a642d0879e59": "default"
+          }
+        },
+        {
+          "time": 127.485946,
+          "states": {
+            "6694d19a-2425-4ada-8547-04dc1137dc8a": "default",
+            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "highlight"
+          }
+        },
+        {
+          "time": 131.667407,
+          "states": {
+            "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": "highlight",
+            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "default"
+          }
+        },
+        {
+          "time": 138.560592,
+          "states": {
+            "23018c7c-de9a-48d7-ac7f-477a871af8fa": "highlight"
+          },
+          "bounds": {
+            "x1": -841.5731826597056,
+            "y1": -509.92472208792253,
+            "x2": 581.2438280026631,
+            "y2": 662.9645425798116
+          }
+        },
+        {
+          "time": 144.839666,
+          "states": {
+            "364d310d-d6af-4d6d-bddb-962fb6a59005": "highlight",
+            "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": "default",
+            "23018c7c-de9a-48d7-ac7f-477a871af8fa": "default"
+          }
+        },
+        {
+          "time": 162.015447,
+          "states": {
+            "d9a842a3-60a7-463b-ab0a-a561a33e91fa": "highlight"
+          }
+        },
+        {
+          "time": 170.583265,
+          "states": {
+            "7cce359d-0645-4eb0-89a3-e379b5ff17cc": "highlight",
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "default"
+          }
+        },
+        {
+          "time": 181.954749,
+          "states": {
+            "23018c7c-de9a-48d7-ac7f-477a871af8fa": "highlight",
+            "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": "highlight",
+            "7cce359d-0645-4eb0-89a3-e379b5ff17cc": "default",
+            "d9a842a3-60a7-463b-ab0a-a561a33e91fa": "default",
+            "364d310d-d6af-4d6d-bddb-962fb6a59005": "default"
+          }
+        },
+        {
+          "time": 190.192311,
+          "states": {
+            "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": "default",
+            "23018c7c-de9a-48d7-ac7f-477a871af8fa": "default",
+            "e8993840-3457-4a63-b8ef-644a8642d320": "highlight",
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight",
+            "01f09646-c153-4ade-bac0-923ddf3f477c": "highlight"
+          }
+        },
+        {
+          "time": 195.05441,
+          "states": {
+            "7cce359d-0645-4eb0-89a3-e379b5ff17cc": "highlight",
+            "e8993840-3457-4a63-b8ef-644a8642d320": "default",
+            "01f09646-c153-4ade-bac0-923ddf3f477c": "default",
+            "364d310d-d6af-4d6d-bddb-962fb6a59005": "highlight"
+          }
+        },
+        {
+          "time": 206.386878,
+          "states": {
+            "7cce359d-0645-4eb0-89a3-e379b5ff17cc": "default",
+            "364d310d-d6af-4d6d-bddb-962fb6a59005": "default",
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "highlight"
+          }
+        },
+        {
+          "time": 0,
+          "states": {
+            "604c66b6-d12e-419a-a3c4-c45836316dc6": "hide",
+            "01f09646-c153-4ade-bac0-923ddf3f477c": "hide",
+            "6179e5ed-e5a6-4cfb-8e11-be9a79f878d0": "hide",
+            "6694d19a-2425-4ada-8547-04dc1137dc8a": "hide",
+            "a694ec16-831f-4fb6-8432-9efef763eee4": "hide",
+            "31378844-2b14-4b88-a052-a642d0879e59": "hide",
+            "35bdade4-522a-457e-a59c-68dae65c29c3": "hide",
+            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "hide",
+            "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": "hide",
+            "23018c7c-de9a-48d7-ac7f-477a871af8fa": "hide",
+            "7cce359d-0645-4eb0-89a3-e379b5ff17cc": "hide",
+            "364d310d-d6af-4d6d-bddb-962fb6a59005": "hide",
+            "d9a842a3-60a7-463b-ab0a-a561a33e91fa": "hide",
+            "e8993840-3457-4a63-b8ef-644a8642d320": "hide",
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "hide",
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight",
+            "75792baa-4747-481c-b6c1-313e0c900f2f": "highlight"
+          },
+          "bounds": {
+            "x1": -837.0500445456834,
+            "y1": -302.303922016706,
+            "x2": -38.787512049780226,
+            "y2": 415.2354330357912
+          }
+        }
+      ]
     },
     "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
       "type": "entity",
@@ -108,14 +340,14 @@
     "35bdade4-522a-457e-a59c-68dae65c29c3": {
       "type": "entity",
       "label": {
-        "en": "Oil fish"
+        "en": "Soapfish"
       },
       "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
     },
     "bae09528-e6d7-48ea-9a15-0348481e2ce6": {
       "type": "entity",
       "label": {
-        "en": "Glass Bloodfin"
+        "en": "Tetra"
       },
       "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
     },
@@ -195,7 +427,8 @@
       "type": "entity",
       "label": {
         "en": "Jopó"
-      }
+      },
+      "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
     },
     "23018c7c-de9a-48d7-ac7f-477a871af8fa": {
       "type": "entity",
@@ -2071,6 +2304,13 @@
       "label": {
         "en": "burned ceramic pots"
       }
+    },
+    "a694ec16-831f-4fb6-8432-9efef763eee4": {
+      "type": "entity",
+      "label": {
+        "en": "Black Acara"
+      },
+      "class": "5b270325-fc4e-4777-bb72-b25a8b4fa3bf"
     }
   },
   "edges": [
@@ -2134,7 +2374,7 @@
       "graph": "68585357-ebe4-4355-bfd4-338be23c8792",
       "id": "409fb62d-5cf9-4311-a442-56170250f71d",
       "label": {
-        "en": "fish and gut"
+        "en": "eat"
       }
     },
     {
@@ -4860,7 +5100,19 @@
       "label": {
         "en": "used to make"
       }
+    },
+    {
+      "nodes": [
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "a694ec16-831f-4fb6-8432-9efef763eee4"
+      ],
+      "arrow": "→",
+      "graph": "68585357-ebe4-4355-bfd4-338be23c8792",
+      "id": "da6c96ee-5a24-4f78-a227-1e0297240f00",
+      "label": {
+        "en": "fish"
+      }
     }
   ],
-  "exported": 1729071477067
+  "exported": 1729520394139
 }
