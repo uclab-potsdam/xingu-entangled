@@ -2528,9 +2528,9 @@
     "31d99c32-c971-4fdf-9b6e-b55cf309b568": {
       "type": "entity",
       "label": {
-        "en": "turmeric"
+        "en": "turmeric root"
       },
-      "class": "01682208-e739-4216-9ccf-d6feb96d9f32"
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
     },
     "01682208-e739-4216-9ccf-d6feb96d9f32": {
       "type": "entity",
@@ -2549,7 +2549,8 @@
       "type": "entity",
       "label": {
         "en": "Annatto-fruit"
-      }
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
     },
     "fe309e3c-ebc3-403a-97fc-3a844be1e30f": {
       "type": "entity",
@@ -3109,6 +3110,243 @@
       "label": {
         "en": "revenge"
       }
+    },
+    "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": {
+      "type": "graph",
+      "label": {
+        "en": "The customs and the making of mats"
+      },
+      "allocations": {
+        "8971c15c-d536-4161-b148-6983d34d8d10": {
+          "x": 60,
+          "y": 200
+        },
+        "de412fdb-02ef-421c-8c2d-1a3671b3b32d": {
+          "x": 60,
+          "y": 400
+        },
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5": {
+          "x": 360,
+          "y": 200
+        },
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
+          "x": 80,
+          "y": -140
+        },
+        "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": {
+          "x": -80,
+          "y": 0
+        },
+        "90098cf2-a0f2-488b-b2ca-85959efe57cc": {
+          "x": 240,
+          "y": 0
+        },
+        "c20a8b9d-275e-4ba4-b796-1aafb1ad4062": {
+          "x": 80,
+          "y": -280
+        },
+        "99635892-4354-4a67-b3df-2a101ade40ff": {
+          "x": 280,
+          "y": -160
+        },
+        "bca88436-a02b-48e0-a151-3e4b8bb2c684": {
+          "x": 480,
+          "y": 400
+        },
+        "059b0757-e2a1-40a8-91df-128167487f45": {
+          "x": 240,
+          "y": 400
+        },
+        "e41974fe-67f1-4ea9-8507-d8f22fc64f39": {
+          "x": 720,
+          "y": 200
+        },
+        "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": {
+          "x": 380,
+          "y": 620
+        },
+        "e354e47b-050d-4e53-8701-6db67be2783b": {
+          "x": 620,
+          "y": 360
+        },
+        "31d99c32-c971-4fdf-9b6e-b55cf309b568": {
+          "x": 720,
+          "y": 460
+        },
+        "88f452f0-1608-4726-9d7a-64160a741fbf": {
+          "x": 840,
+          "y": 360
+        },
+        "b07c04ac-5e22-4c1e-b61c-762c5c15bfc5": {
+          "x": 1140,
+          "y": 120
+        },
+        "df17c2a1-9233-47e5-88a1-467772c53251": {
+          "x": 1160,
+          "y": 280
+        },
+        "84b003c4-f7eb-475b-931f-4d86283ee119": {
+          "x": 1440,
+          "y": 120
+        },
+        "952d95d4-c5bd-4962-9b82-2b98d0fd3d20": {
+          "x": 1460,
+          "y": 280
+        },
+        "6c901eef-7ce8-44ac-b05a-3c4e343f17ed": {
+          "x": 1800,
+          "y": 180
+        },
+        "43cff938-259c-4887-bb11-9adb23c867ee": {
+          "x": 1800,
+          "y": 20
+        },
+        "69dd6f80-b97e-4452-a8ea-8e01a4de3ada": {
+          "x": 1520,
+          "y": -60
+        },
+        "b4b7ba05-97cd-4d7b-b6fc-639a97bec0f5": {
+          "x": 1600,
+          "y": -160
+        },
+        "165b01a2-d76d-47ea-bb88-c93439b362b2": {
+          "x": 1680,
+          "y": -240
+        },
+        "54c68793-6735-47f3-9640-566bd282a656": {
+          "x": 1860,
+          "y": -240
+        },
+        "1f8d4eeb-239d-4a0c-b69c-8689425df381": {
+          "x": 1980,
+          "y": -180
+        },
+        "dc15bc7d-61f3-4295-ab7e-ffb172abfbc5": {
+          "x": 2040,
+          "y": -100
+        }
+      }
+    },
+    "c20a8b9d-275e-4ba4-b796-1aafb1ad4062": {
+      "type": "entity",
+      "label": {
+        "en": "Xingu female children and adolescents"
+      }
+    },
+    "99635892-4354-4a67-b3df-2a101ade40ff": {
+      "type": "entity",
+      "label": {
+        "en": "reclusion"
+      }
+    },
+    "bca88436-a02b-48e0-a151-3e4b8bb2c684": {
+      "type": "entity",
+      "label": {
+        "en": "short splints"
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
+    },
+    "059b0757-e2a1-40a8-91df-128167487f45": {
+      "type": "entity",
+      "label": {
+        "en": "longs splints"
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
+    },
+    "e41974fe-67f1-4ea9-8507-d8f22fc64f39": {
+      "type": "entity",
+      "label": {
+        "en": "medium splints"
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
+    },
+    "e354e47b-050d-4e53-8701-6db67be2783b": {
+      "type": "entity",
+      "label": {
+        "en": "Genipap fruit"
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
+    },
+    "b07c04ac-5e22-4c1e-b61c-762c5c15bfc5": {
+      "type": "entity",
+      "label": {
+        "en": "thicker splint﻿s"
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
+    },
+    "df17c2a1-9233-47e5-88a1-467772c53251": {
+      "type": "entity",
+      "label": {
+        "en": "flexible splint﻿﻿s"
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
+    },
+    "84b003c4-f7eb-475b-931f-4d86283ee119": {
+      "type": "entity",
+      "label": {
+        "en": "Angagi"
+      },
+      "class": "83c5edf2-dee2-43a2-8290-5159abccdaae"
+    },
+    "952d95d4-c5bd-4962-9b82-2b98d0fd3d20": {
+      "type": "entity",
+      "label": {
+        "en": "Manioc squeezer mat"
+      }
+    },
+    "6c901eef-7ce8-44ac-b05a-3c4e343f17ed": {
+      "type": "entity",
+      "label": {
+        "en": "Tuahi mat"
+      }
+    },
+    "43cff938-259c-4887-bb11-9adb23c867ee": {
+      "type": "entity",
+      "label": {
+        "en": "weaving technic"
+      }
+    },
+    "69dd6f80-b97e-4452-a8ea-8e01a4de3ada": {
+      "type": "entity",
+      "label": {
+        "en": "kanikoko bird feather"
+      },
+      "class": "83152e07-d45a-4c3e-9f46-1ace09db272b"
+    },
+    "b4b7ba05-97cd-4d7b-b6fc-639a97bec0f5": {
+      "type": "entity",
+      "label": {
+        "en": "man's belt"
+      },
+      "class": "83152e07-d45a-4c3e-9f46-1ace09db272b"
+    },
+    "165b01a2-d76d-47ea-bb88-c93439b362b2": {
+      "type": "entity",
+      "label": {
+        "en": "piranha fish teeth"
+      },
+      "class": "83152e07-d45a-4c3e-9f46-1ace09db272b"
+    },
+    "54c68793-6735-47f3-9640-566bd282a656": {
+      "type": "entity",
+      "label": {
+        "en": "kuarup trunk"
+      },
+      "class": "83152e07-d45a-4c3e-9f46-1ace09db272b"
+    },
+    "1f8d4eeb-239d-4a0c-b69c-8689425df381": {
+      "type": "entity",
+      "label": {
+        "en": "butterfly armpit"
+      },
+      "class": "83152e07-d45a-4c3e-9f46-1ace09db272b"
+    },
+    "dc15bc7d-61f3-4295-ab7e-ffb172abfbc5": {
+      "type": "entity",
+      "label": {
+        "en": "agouti teeth "
+      },
+      "class": "83152e07-d45a-4c3e-9f46-1ace09db272b"
     }
   },
   "edges": [
@@ -4052,7 +4290,10 @@
       ],
       "arrow": "←",
       "graph": "656d55d6-9db7-42dc-bd1c-406168127acb",
-      "id": "642a28ee-3b57-44a5-8c62-2b18a1e5c2f9"
+      "id": "642a28ee-3b57-44a5-8c62-2b18a1e5c2f9",
+      "label": {
+        "en": "of"
+      }
     },
     {
       "nodes": [
@@ -5365,7 +5606,7 @@
       "graph": "a9038e82-1646-4339-af71-141a737827ce",
       "id": "33f4f2f9-50c5-48b3-b092-dadcebf16d40",
       "label": {
-        "en": "type of"
+        "en": "applied in"
       }
     },
     {
@@ -5377,7 +5618,7 @@
       "graph": "a9038e82-1646-4339-af71-141a737827ce",
       "id": "ede23329-ed31-47f4-b8ca-cc78621bb7c2",
       "label": {
-        "en": "type of"
+        "en": "applied in"
       }
     },
     {
@@ -5389,7 +5630,7 @@
       "graph": "a9038e82-1646-4339-af71-141a737827ce",
       "id": "fb4bfd98-75eb-4fc4-b8d9-71594b24d07e",
       "label": {
-        "en": "type of"
+        "en": "applied in"
       }
     },
     {
@@ -5399,7 +5640,10 @@
       ],
       "arrow": "→",
       "graph": "a9038e82-1646-4339-af71-141a737827ce",
-      "id": "0d7fe926-743d-4bbe-9cde-d9f57972958f"
+      "id": "0d7fe926-743d-4bbe-9cde-d9f57972958f",
+      "label": {
+        "en": "applied in"
+      }
     },
     {
       "nodes": [
@@ -6003,7 +6247,391 @@
       "label": {
         "en": "of"
       }
+    },
+    {
+      "nodes": [
+        "8971c15c-d536-4161-b148-6983d34d8d10",
+        "de412fdb-02ef-421c-8c2d-1a3671b3b32d"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "5135f056-f911-4e70-85c4-33d3b7900e50",
+      "label": {
+        "en": "divided into"
+      }
+    },
+    {
+      "nodes": [
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5",
+        "8971c15c-d536-4161-b148-6983d34d8d10"
+      ],
+      "arrow": "←",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "a0526050-ab1f-4fab-993a-4acd191bbda9",
+      "label": {
+        "en": "divided into"
+      }
+    },
+    {
+      "nodes": [
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "df37b34c-a5bd-4088-87b6-d04e9b1c923e"
+    },
+    {
+      "nodes": [
+        "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1",
+        "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "ca3c6a37-5771-4e79-9914-bdada2ecb8db"
+    },
+    {
+      "nodes": [
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "582f01e6-6180-468f-9795-a2924c4ce229",
+      "label": {
+        "en": "are"
+      }
+    },
+    {
+      "nodes": [
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "90098cf2-a0f2-488b-b2ca-85959efe57cc"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "6eab7669-99d9-46a4-9816-e943d558d258",
+      "label": {
+        "en": "are"
+      }
+    },
+    {
+      "nodes": [
+        "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1",
+        "8971c15c-d536-4161-b148-6983d34d8d10"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "43ced53e-ad93-4754-a50c-6974a893af82"
+    },
+    {
+      "nodes": [
+        "90098cf2-a0f2-488b-b2ca-85959efe57cc",
+        "8971c15c-d536-4161-b148-6983d34d8d10"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "34ba2953-5505-4c25-bb96-74b43286e76e"
+    },
+    {
+      "nodes": [
+        "09eda7fb-82fc-4989-9410-fe2e1a79ec81",
+        "c20a8b9d-275e-4ba4-b796-1aafb1ad4062"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "0ec9c06f-f58a-4412-8534-79fc127720b9",
+      "label": {
+        "en": "teach"
+      }
+    },
+    {
+      "nodes": [
+        "c20a8b9d-275e-4ba4-b796-1aafb1ad4062",
+        "c20a8b9d-275e-4ba4-b796-1aafb1ad4062"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "e8d75ca6-25f3-4906-8cba-f0b4396f4c0c"
+    },
+    {
+      "nodes": [
+        "99635892-4354-4a67-b3df-2a101ade40ff",
+        "c20a8b9d-275e-4ba4-b796-1aafb1ad4062"
+      ],
+      "arrow": "←",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "6201889a-dd2c-418b-a47f-54ac06f35c2b",
+      "label": {
+        "en": "during"
+      }
+    },
+    {
+      "nodes": [
+        "bca88436-a02b-48e0-a151-3e4b8bb2c684",
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5"
+      ],
+      "arrow": "←",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "48e4fcb5-7ebd-40ec-aeb2-b07ed1053c68",
+      "label": {
+        "en": "divided into"
+      }
+    },
+    {
+      "nodes": [
+        "059b0757-e2a1-40a8-91df-128167487f45",
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5"
+      ],
+      "arrow": "←",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "57ead869-1bed-4c02-bfc2-43e0bbaca619",
+      "label": {
+        "en": "divided into"
+      }
+    },
+    {
+      "nodes": [
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5",
+        "e41974fe-67f1-4ea9-8507-d8f22fc64f39"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "cdfad6e9-0419-40b1-852d-723b71aae18e",
+      "label": {
+        "en": "divided into"
+      }
+    },
+    {
+      "nodes": [
+        "bca88436-a02b-48e0-a151-3e4b8bb2c684",
+        "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "836db486-f252-491f-a269-82cbe04a55e0",
+      "label": {
+        "en": "used for"
+      }
+    },
+    {
+      "nodes": [
+        "059b0757-e2a1-40a8-91df-128167487f45",
+        "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "21791250-9dc8-4fbd-a20e-ecc0d906d311",
+      "label": {
+        "en": "used for"
+      }
+    },
+    {
+      "nodes": [
+        "e41974fe-67f1-4ea9-8507-d8f22fc64f39",
+        "e354e47b-050d-4e53-8701-6db67be2783b"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "64fbfd17-6d84-4d00-bcc3-57cf028d41ad",
+      "label": {
+        "en": "dyed with"
+      }
+    },
+    {
+      "nodes": [
+        "e41974fe-67f1-4ea9-8507-d8f22fc64f39",
+        "31d99c32-c971-4fdf-9b6e-b55cf309b568"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "3a6ed472-93a6-4307-a3d9-196d3108469f",
+      "label": {
+        "en": "dyed with"
+      }
+    },
+    {
+      "nodes": [
+        "e41974fe-67f1-4ea9-8507-d8f22fc64f39",
+        "88f452f0-1608-4726-9d7a-64160a741fbf"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "fc47cd65-bba9-4f3b-a312-feac814db1a5"
+    },
+    {
+      "nodes": [
+        "e41974fe-67f1-4ea9-8507-d8f22fc64f39",
+        "b07c04ac-5e22-4c1e-b61c-762c5c15bfc5"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "64d21112-94e8-4e07-a4d3-eb61a7a360d6",
+      "label": {
+        "en": "divided into"
+      }
+    },
+    {
+      "nodes": [
+        "e41974fe-67f1-4ea9-8507-d8f22fc64f39",
+        "df17c2a1-9233-47e5-88a1-467772c53251"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "192f4ebe-27b9-47fc-90c4-5d6b493bd374",
+      "label": {
+        "en": "divided into"
+      }
+    },
+    {
+      "nodes": [
+        "b07c04ac-5e22-4c1e-b61c-762c5c15bfc5",
+        "84b003c4-f7eb-475b-931f-4d86283ee119"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "331a3273-7813-45a8-b504-0c0382a12e9f",
+      "label": {
+        "en": "used for"
+      }
+    },
+    {
+      "nodes": [
+        "df17c2a1-9233-47e5-88a1-467772c53251",
+        "952d95d4-c5bd-4962-9b82-2b98d0fd3d20"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "882fd073-c806-4d3a-909f-0826fc92568c",
+      "label": {
+        "en": "used for"
+      }
+    },
+    {
+      "nodes": [
+        "84b003c4-f7eb-475b-931f-4d86283ee119",
+        "6c901eef-7ce8-44ac-b05a-3c4e343f17ed"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "3782ee1e-abdf-4690-a518-ec86ef4e397a",
+      "label": {
+        "en": "type of"
+      }
+    },
+    {
+      "nodes": [
+        "952d95d4-c5bd-4962-9b82-2b98d0fd3d20",
+        "6c901eef-7ce8-44ac-b05a-3c4e343f17ed"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "d355e82d-be85-4c76-ae97-e468e7852b6d",
+      "label": {
+        "en": "type of"
+      }
+    },
+    {
+      "nodes": [
+        "43cff938-259c-4887-bb11-9adb23c867ee",
+        "6c901eef-7ce8-44ac-b05a-3c4e343f17ed"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "4cf54364-099f-419f-83fa-c672f18f3ec1",
+      "label": {
+        "en": "applied in"
+      }
+    },
+    {
+      "nodes": [
+        "69dd6f80-b97e-4452-a8ea-8e01a4de3ada",
+        "43cff938-259c-4887-bb11-9adb23c867ee"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "4dc430dc-232e-480c-a0cc-466038244370",
+      "label": {
+        "en": "applied in"
+      }
+    },
+    {
+      "nodes": [
+        "165b01a2-d76d-47ea-bb88-c93439b362b2",
+        "43cff938-259c-4887-bb11-9adb23c867ee"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "b68e6033-254e-4ba6-b1c5-5b95929da8e9",
+      "label": {
+        "en": "applied in"
+      }
+    },
+    {
+      "nodes": [
+        "b4b7ba05-97cd-4d7b-b6fc-639a97bec0f5",
+        "43cff938-259c-4887-bb11-9adb23c867ee"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "1dc03252-0ee4-43bb-94e3-73c71a6799f4",
+      "label": {
+        "en": "applied in"
+      }
+    },
+    {
+      "nodes": [
+        "1f8d4eeb-239d-4a0c-b69c-8689425df381",
+        "43cff938-259c-4887-bb11-9adb23c867ee"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "9971350d-4f81-4438-8077-3e274b303469",
+      "label": {
+        "en": "applied in"
+      }
+    },
+    {
+      "nodes": [
+        "dc15bc7d-61f3-4295-ab7e-ffb172abfbc5",
+        "43cff938-259c-4887-bb11-9adb23c867ee"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "844e4e4e-01ab-45e8-a3ed-1eae0943f7d2",
+      "label": {
+        "en": "applied in"
+      }
+    },
+    {
+      "nodes": [
+        "54c68793-6735-47f3-9640-566bd282a656",
+        "54c68793-6735-47f3-9640-566bd282a656"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "38bcbd02-fe3b-4cb7-b159-63fac4b13bd5"
+    },
+    {
+      "nodes": [
+        "43cff938-259c-4887-bb11-9adb23c867ee",
+        "69dd6f80-b97e-4452-a8ea-8e01a4de3ada"
+      ],
+      "arrow": "→",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "dfcdbf57-6bd9-40ff-b9ba-18f4e9afea9f"
+    },
+    {
+      "nodes": [
+        "43cff938-259c-4887-bb11-9adb23c867ee",
+        "54c68793-6735-47f3-9640-566bd282a656"
+      ],
+      "arrow": "←",
+      "graph": "ac6e79eb-3efd-4843-98fa-8f74b7b959a4",
+      "id": "52680b7e-c574-47ac-89ff-115a30b9880c",
+      "label": {
+        "en": "applied in"
+      }
     }
   ],
-  "exported": 1729599801708
+  "exported": 1729606166385
 }
