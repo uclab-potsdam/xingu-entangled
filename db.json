@@ -91,9 +91,10 @@
         }
       },
       "media": {
-        "file": "xe:using kusu.mp4",
+        "file": "xe:_/using kusu/using kusu.mp4",
         "subtitles": {
-          "en": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_ENG.srt"
+          "en": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_ENG.srt",
+          "pt": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_PT.srt"
         }
       },
       "marker": [
@@ -1965,7 +1966,7 @@
     "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
       "type": "graph",
       "label": {
-        "en": "Uses of Buriti and mats"
+        "en": "Uses of Moriche and mats"
       },
       "allocations": {
         "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
@@ -2254,7 +2255,7 @@
     "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": {
       "type": "graph",
       "label": {
-        "en": "Collecting Buriti Sprouts"
+        "en": "Collecting Moriche"
       },
       "allocations": {
         "8f224ad5-7d23-42a2-ac68-a6c0705eba6d": {
@@ -2983,7 +2984,7 @@
         }
       },
       "media": {
-        "file": "xe:_/using kusu/20230710_9_tl_1080p_23,976fps_ugusipa_collecting_and_processing_buriti_and_itsotu_for_gimi (1080p).mp4"
+        "file": ""
       }
     },
     "c2dd2098-5555-4cce-84dd-dbec78390049": {
@@ -6633,5 +6634,5 @@
       }
     }
   ],
-  "exported": 1729606166385
+  "exported": 1729672942372
 }
