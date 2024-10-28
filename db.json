@@ -2204,7 +2204,7 @@
     "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
       "type": "graph",
       "label": {
-        "en": "Uses of Buriti and mats"
+        "en": "Uses of Moriche and mats"
       },
       "allocations": {
         "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
@@ -2272,12 +2272,12 @@
           "y": 20
         },
         "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": {
-          "x": -560,
-          "y": 320
+          "x": -580,
+          "y": 300
         },
         "559790a7-7b2b-496c-b977-099c46f065a9": {
-          "x": -100,
-          "y": 360
+          "x": -60,
+          "y": 400
         },
         "83c5edf2-dee2-43a2-8290-5159abccdaae": {
           "x": -340,
@@ -2316,7 +2316,7 @@
           "y": 840
         },
         "68585357-ebe4-4355-bfd4-338be23c8792": {
-          "x": -700,
+          "x": -640,
           "y": 440
         },
         "d9956bc7-4731-4323-adfb-2a1444e89b7f": {
@@ -2331,7 +2331,85 @@
           "pt": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_PT.srt"
         }
       },
-      "image": "xingu:uses of buriti/uses of buriti.jpg"
+      "image": "xingu:uses of buriti/uses of buriti.jpg",
+      "marker": [
+        {
+          "time": 0.324015,
+          "states": {
+            "8971c15c-d536-4161-b148-6983d34d8d10": "highlight",
+            "9916e322-5c1b-4563-b6ae-645b0a7a21b2": "hide",
+            "c684f9c8-9ee6-4d37-8ac7-802c4dbf8103": "hide",
+            "c4ee2f7a-c5d4-42a1-a372-57a46a5982d9": "hide",
+            "935f6ae9-5e01-47b9-a0bd-f77a19ed64c7": "hide",
+            "e792d366-0cd5-4a53-9c1f-7b2b4470f852": "hide",
+            "7fbfadc8-607a-4ec5-805b-9625242b5b1a": "hide",
+            "efdc566e-1342-46e2-a2ec-49e00197af17": "hide",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "hide",
+            "19d1712b-1299-40e1-85a4-15d8c69a4bf9": "hide",
+            "83c5edf2-dee2-43a2-8290-5159abccdaae": "hide",
+            "163b2085-599e-4a0c-aacd-b8143eb9c6c5": "hide",
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "hide",
+            "559790a7-7b2b-496c-b977-099c46f065a9": "hide",
+            "2c223c3f-2020-4b7c-8702-6271dc60aa20": "hide",
+            "0157f38a-85e0-445f-b0e5-d6fa01ea5e75": "hide",
+            "d7e6aab7-0436-4da3-ac89-cea1e71cca03": "hide",
+            "9efc33b3-ffde-42d5-88c6-deb872a871a6": "hide",
+            "a89e19f6-e824-43ff-81ba-3b40b7627fb9": "hide",
+            "ef4407c3-5a9e-44fb-9b7c-f21b18d3b615": "hide",
+            "c5707353-e8fe-4d55-a7be-a31a26efdb32": "hide",
+            "d6a6d311-df59-426f-830e-50abb0fde7ec": "hide",
+            "de412fdb-02ef-421c-8c2d-1a3671b3b32d": "hide",
+            "95adb6d6-ab9d-42ab-8431-98c0027bc3d9": "hide",
+            "1b0509c8-5c29-4f82-a3d4-3dacd5f82e2a": "hide",
+            "c6e0056f-f0be-4232-9cdd-2bb7091524e3": "hide",
+            "d9956bc7-4731-4323-adfb-2a1444e89b7f": "hide"
+          },
+          "bounds": {
+            "x1": -725.9128065395093,
+            "y1": -286.0490463215259,
+            "x2": -71.30790190735672,
+            "y2": 314.6049046321526
+          }
+        },
+        {
+          "time": 16.200783,
+          "bounds": {
+            "x1": -849.311953576876,
+            "y1": -208.77532373055968,
+            "x2": 106.24076442587656,
+            "y2": 646.4099864819757
+          },
+          "states": {
+            "83c5edf2-dee2-43a2-8290-5159abccdaae": "highlight",
+            "163b2085-599e-4a0c-aacd-b8143eb9c6c5": "highlight"
+          }
+        },
+        {
+          "time": 21.602737,
+          "states": {
+            "2c223c3f-2020-4b7c-8702-6271dc60aa20": "highlight",
+            "163b2085-599e-4a0c-aacd-b8143eb9c6c5": "default",
+            "8971c15c-d536-4161-b148-6983d34d8d10": "default"
+          }
+        },
+        {
+          "time": 62.985688,
+          "states": {
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "highlight",
+            "163b2085-599e-4a0c-aacd-b8143eb9c6c5": "highlight",
+            "83c5edf2-dee2-43a2-8290-5159abccdaae": "default",
+            "2c223c3f-2020-4b7c-8702-6271dc60aa20": "default"
+          }
+        },
+        {
+          "time": 85.710833,
+          "states": {
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
+            "19d1712b-1299-40e1-85a4-15d8c69a4bf9": "highlight",
+            "83c5edf2-dee2-43a2-8290-5159abccdaae": "highlight"
+          }
+        }
+      ]
     },
     "8971c15c-d536-4161-b148-6983d34d8d10": {
       "type": "entity",
@@ -2501,7 +2579,7 @@
     "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": {
       "type": "graph",
       "label": {
-        "en": "Collecting Buriti Sprouts"
+        "en": "Collecting Moriche Leaves"
       },
       "allocations": {
         "8f224ad5-7d23-42a2-ac68-a6c0705eba6d": {
@@ -5047,42 +5125,6 @@
     },
     {
       "nodes": [
-        "8971c15c-d536-4161-b148-6983d34d8d10",
-        "559790a7-7b2b-496c-b977-099c46f065a9"
-      ],
-      "arrow": "→",
-      "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
-      "id": "221785ac-cc24-4157-a489-10d071e2d064",
-      "label": {
-        "en": "to make"
-      }
-    },
-    {
-      "nodes": [
-        "8971c15c-d536-4161-b148-6983d34d8d10",
-        "d7e6aab7-0436-4da3-ac89-cea1e71cca03"
-      ],
-      "arrow": "→",
-      "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
-      "id": "91a68ee3-5e2c-4df8-9192-554835298560",
-      "label": {
-        "en": "to make"
-      }
-    },
-    {
-      "nodes": [
-        "8971c15c-d536-4161-b148-6983d34d8d10",
-        "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4"
-      ],
-      "arrow": "→",
-      "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
-      "id": "eb733be0-7854-45c1-8d6b-9ff2ede7a74c",
-      "label": {
-        "en": "to make"
-      }
-    },
-    {
-      "nodes": [
         "163b2085-599e-4a0c-aacd-b8143eb9c6c5",
         "83c5edf2-dee2-43a2-8290-5159abccdaae"
       ],
@@ -7072,7 +7114,43 @@
       "label": {
         "en": "is part of"
       }
+    },
+    {
+      "nodes": [
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5",
+        "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4"
+      ],
+      "arrow": "→",
+      "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
+      "id": "78a2c977-9019-4879-922c-cd6191e18ff7",
+      "label": {
+        "en": "to make"
+      }
+    },
+    {
+      "nodes": [
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5",
+        "559790a7-7b2b-496c-b977-099c46f065a9"
+      ],
+      "arrow": "→",
+      "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
+      "id": "a8ae8e88-5014-47f4-bdd6-687bf2c39c8f",
+      "label": {
+        "en": "to make"
+      }
+    },
+    {
+      "nodes": [
+        "163b2085-599e-4a0c-aacd-b8143eb9c6c5",
+        "d7e6aab7-0436-4da3-ac89-cea1e71cca03"
+      ],
+      "arrow": "→",
+      "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
+      "id": "6268ab09-9ec2-4fee-acb0-a3eb73048c11",
+      "label": {
+        "en": "to make"
+      }
     }
   ],
-  "exported": 1730119853578
+  "exported": 1730121192817
 }
