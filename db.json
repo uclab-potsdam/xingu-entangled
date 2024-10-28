@@ -91,7 +91,7 @@
         }
       },
       "media": {
-        "file": "xe:_/using kusu/using kusu.mp4",
+        "file": "xingu:using kusu/using_kusu.mp4",
         "subtitles": {
           "en": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_ENG.srt",
           "pt": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_PT.srt"
@@ -325,7 +325,7 @@
           }
         }
       ],
-      "image": "xe:using kusu.jpg"
+      "image": "xingu:using kusu/using kusu.jpg"
     },
     "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
       "type": "entity",
@@ -557,9 +557,11 @@
         }
       },
       "media": {
-        "file": "xe:collecting ambé.mp4",
+        "file": "xingu:collecting ambe/collecting ambé.mp4",
         "subtitles": {
-          "en": "xe:_/collecting ambe/20220825_1_TL_1080p_23,976fps_Collecting Ambé_ENG.srt"
+          "en": "xingu:collecting ambe/20220825_1_TL_1080p_23,976fps_Collecting Ambé_ENG.srt",
+          "pt": "xingu:collecting ambe/20220825_1_TL_1080p_23,976fps_Collecting Ambé_PT.srt",
+          "de": "xingu:collecting ambe/20220825_1_TL_1080p_23,976fps_Collecting Ambé_DE.srt"
         }
       },
       "marker": [
@@ -745,7 +747,8 @@
             "9fe13302-e9d8-44c3-bc2c-14b9d286fd5f": "default"
           }
         }
-      ]
+      ],
+      "image": "xingu:collecting ambe/collecting ambé.jpg"
     },
     "c39061bd-de63-4984-ad30-3d52dbbea062": {
       "type": "entity",
@@ -967,9 +970,11 @@
         }
       },
       "media": {
-        "file": "xe:the Story Of Uhi.mp4",
+        "file": "xingu:story of uhi/the Story Of Uhi.mp4",
         "subtitles": {
-          "en": "xe:the Story Of Uhi_en.srt"
+          "en": "xingu:story of uhi/20220901_2_TL_1080p_23,976fps_Kanu_Yamalui_The Story of Uhi_ENG.srt",
+          "pt": "xingu:story of uhi/20220901_2_TL_1080p_23,976fps_Kanu_Yamalui_The Story of Uhi_PT.srt",
+          "de": "xingu:story of uhi/20220901_2_TL_1080p_23,976fps_Kanu_Yamalui_The Story of Uhi_DE.srt"
         }
       },
       "image": "xe:the story of the fish trap - jamalui.jpg",
@@ -1884,7 +1889,15 @@
             "f08d9332-49fe-46d9-afa1-8f0e611c7692": "default"
           }
         }
-      ]
+      ],
+      "media": {
+        "file": "xingu:making the fish trap/making the fish trap.mp4",
+        "subtitles": {
+          "en": "xingu:making the fish trap/20220825_27_1_TL_1080p_23,976fps_Making the Fish Trap_ENG.srt",
+          "pt": "xingu:making the fish trap/20220825_27_1_TL_1080p_23,976fps_Making the Fish Trap_PT.srt",
+          "de": "xingu:making the fish trap/20220825_27_1_TL_1080p_23,976fps_Making the Fish Trap_DE.srt"
+        }
+      }
     },
     "90098cf2-a0f2-488b-b2ca-85959efe57cc": {
       "type": "entity",
@@ -1966,7 +1979,7 @@
     "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
       "type": "graph",
       "label": {
-        "en": "Uses of Moriche and mats"
+        "en": "Uses of Buriti and mats"
       },
       "allocations": {
         "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
@@ -2085,7 +2098,15 @@
           "x": -1080,
           "y": 660
         }
-      }
+      },
+      "media": {
+        "file": "xingu:uses of buriti/uses of buriti.mp4",
+        "subtitles": {
+          "en": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_ENG.srt",
+          "pt": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_PT.srt"
+        }
+      },
+      "image": "xingu:uses of buriti/uses of buriti.jpg"
     },
     "8971c15c-d536-4161-b148-6983d34d8d10": {
       "type": "entity",
@@ -2255,7 +2276,7 @@
     "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": {
       "type": "graph",
       "label": {
-        "en": "Collecting Moriche"
+        "en": "Collecting Buriti Sprouts"
       },
       "allocations": {
         "8f224ad5-7d23-42a2-ac68-a6c0705eba6d": {
@@ -2349,6 +2370,13 @@
         "20ac1a5d-b42e-4ce2-9d07-7c509ae01ce6": {
           "x": 700,
           "y": 600
+        }
+      },
+      "media": {
+        "file": "xingu:collecting moriche/collecting buriti sprouts.mp4",
+        "subtitles": {
+          "en": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_ENG.srt",
+          "pt": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_PT.srt"
         }
       }
     },
@@ -2524,6 +2552,13 @@
           "x": 1460,
           "y": -160
         }
+      },
+      "media": {
+        "subtitles": {
+          "en": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_ENG.srt",
+          "pt": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_PT.srt"
+        },
+        "file": "xingu:harvesting annatto/urucum saffron.mp4"
       }
     },
     "31d99c32-c971-4fdf-9b6e-b55cf309b568": {
@@ -2723,6 +2758,13 @@
         "f4faa183-ff63-416d-9be7-9096aec1179e": {
           "x": -800,
           "y": 280
+        }
+      },
+      "media": {
+        "file": "",
+        "subtitles": {
+          "en": "",
+          "pt": ""
         }
       }
     },
@@ -2984,7 +3026,11 @@
         }
       },
       "media": {
-        "file": ""
+        "file": "xingu:collecting for gimi/collecting for gimi.mp4",
+        "subtitles": {
+          "en": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_ENG.srt",
+          "pt": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_PT.srt"
+        }
       }
     },
     "c2dd2098-5555-4cce-84dd-dbec78390049": {
@@ -6634,5 +6680,5 @@
       }
     }
   ],
-  "exported": 1729672942372
+  "exported": 1730104020314
 }
