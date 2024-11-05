@@ -10,7 +10,9 @@
     "68585357-ebe4-4355-bfd4-338be23c8792": {
       "type": "graph",
       "label": {
-        "en": "Using Kusu"
+        "en": "Using Kusu",
+        "pt": "O uso de Kuso",
+        "de": "Die Verwendung von Kusu"
       },
       "allocations": {
         "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
@@ -541,7 +543,9 @@
     "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": {
       "type": "graph",
       "label": {
-        "en": "Collecting Ambe"
+        "en": "Collecting Ambe",
+        "de": "Das Sammeln von Ambe",
+        "pt": "Coletando Ambe"
       },
       "allocations": {
         "c39061bd-de63-4984-ad30-3d52dbbea062": {
@@ -938,7 +942,9 @@
     "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": {
       "type": "graph",
       "label": {
-        "en": "Story of Uhi"
+        "en": "Story of Uhi",
+        "de": "Die Geschichte von Uhi",
+        "pt": "A história de Uhi"
       },
       "allocations": {
         "53ed5094-52d8-44dc-959d-0578def009a4": {
@@ -1560,7 +1566,9 @@
     "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": {
       "type": "graph",
       "label": {
-        "en": "Using Utu"
+        "en": "Using Utu",
+        "de": "Die Verwendung von Utu",
+        "pt": "O uso de Utu"
       },
       "allocations": {
         "92300bf1-cfe7-4324-ba48-78a611441419": {
@@ -1572,11 +1580,11 @@
           "y": -380
         },
         "64962446-0a02-44bb-b6bc-e5970138ed41": {
-          "x": -420,
+          "x": -460,
           "y": -80
         },
         "e7def76d-01a3-4fe0-be8a-9507f8094a1b": {
-          "x": -640,
+          "x": -660,
           "y": -80
         },
         "341a06c6-6e06-40ea-8353-6b532bd327ee": {
@@ -1600,15 +1608,15 @@
           "y": 220
         },
         "c4a0c011-215a-444b-93a2-dc7e4f0031e2": {
-          "x": 100,
+          "x": 140,
           "y": -100
         },
         "604c66b6-d12e-419a-a3c4-c45836316dc6": {
-          "x": 300,
+          "x": 400,
           "y": -100
         },
         "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": {
-          "x": 500,
+          "x": 560,
           "y": 0
         },
         "13f03b38-91d6-4c69-a487-1a740a8b8351": {
@@ -1620,11 +1628,11 @@
           "y": -240
         },
         "68585357-ebe4-4355-bfd4-338be23c8792": {
-          "x": 540,
-          "y": 120
+          "x": 480,
+          "y": 140
         },
         "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": {
-          "x": -580,
+          "x": -600,
           "y": -220
         }
       },
@@ -1812,13 +1820,17 @@
     "9efc33b3-ffde-42d5-88c6-deb872a871a6": {
       "type": "entity",
       "label": {
-        "en": "Xingu men"
+        "en": "Xingu men",
+        "de": "Xingu Männer",
+        "pt": "homens Xingu"
       }
     },
     "341a06c6-6e06-40ea-8353-6b532bd327ee": {
       "type": "entity",
       "label": {
-        "en": "mouth"
+        "en": "mouth",
+        "de": "Mund",
+        "pt": "boca"
       },
       "class": "cc7e1cb3-e7eb-43ce-a70a-f06b92a0c68f"
     },
@@ -1831,28 +1843,36 @@
     "bcfb0cea-8799-499d-902f-35a1b5d0e461": {
       "type": "entity",
       "label": {
-        "en": "eye"
+        "en": "eye",
+        "de": "Auge",
+        "pt": "olho"
       },
       "class": "cc7e1cb3-e7eb-43ce-a70a-f06b92a0c68f"
     },
     "9fdee9d0-8395-4d4b-b626-cae246eea2b0": {
       "type": "entity",
       "label": {
-        "en": "tongue"
+        "en": "tongue",
+        "de": "Zunge",
+        "pt": "língua"
       },
       "class": "cc7e1cb3-e7eb-43ce-a70a-f06b92a0c68f"
     },
     "30f7640f-cb1a-45ff-8af9-10190103cef3": {
       "type": "entity",
       "label": {
-        "en": "ribs"
+        "en": "ribs",
+        "de": "Rippen",
+        "pt": "costelas"
       },
       "class": "cc7e1cb3-e7eb-43ce-a70a-f06b92a0c68f"
     },
     "f08d9332-49fe-46d9-afa1-8f0e611c7692": {
       "type": "entity",
       "label": {
-        "en": "buttocks"
+        "en": "buttocks",
+        "de": "Gesäß",
+        "pt": "nádegas"
       },
       "class": "cc7e1cb3-e7eb-43ce-a70a-f06b92a0c68f"
     },
@@ -1874,7 +1894,9 @@
     "9bed167f-0595-424b-974a-8ea075cf6eeb": {
       "type": "entity",
       "label": {
-        "en": "wooden stick"
+        "en": "wooden stick",
+        "de": "Holzstab",
+        "pt": "vara de madeira"
       },
       "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
@@ -1887,7 +1909,9 @@
     "656d55d6-9db7-42dc-bd1c-406168127acb": {
       "type": "graph",
       "label": {
-        "en": "Making of the fish trap"
+        "en": "Making of the fish trap",
+        "de": "Herstellung der Fischfalle",
+        "pt": "Fazendo a armadilha para peixes"
       },
       "allocations": {
         "90098cf2-a0f2-488b-b2ca-85959efe57cc": {
@@ -2302,7 +2326,9 @@
     "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
       "type": "graph",
       "label": {
-        "en": "Uses of Moriche and mats"
+        "en": "Uses of Moriche and mats",
+        "de": "Verwendung von Moriche und Matten",
+        "pt": "Uso de moriche e esteiras"
       },
       "allocations": {
         "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
@@ -2681,7 +2707,9 @@
     "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": {
       "type": "graph",
       "label": {
-        "en": "Collecting Moriche Leaves"
+        "en": "Collecting Moriche Leaves",
+        "de": "Moriche-Blätter sammeln",
+        "pt": "Coletando folhas de Moriche"
       },
       "allocations": {
         "8f224ad5-7d23-42a2-ac68-a6c0705eba6d": {
@@ -3141,7 +3169,9 @@
     "8c54c09e-e000-4878-a807-a82a19132ba1": {
       "type": "graph",
       "label": {
-        "en": "Harvesting Annatto and Turmeric"
+        "en": "Harvesting Annatto and Turmeric",
+        "de": "Annatto und Kurkuma ernten",
+        "pt": "colheita de urucum e açafrão"
       },
       "allocations": {
         "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
@@ -3532,7 +3562,8 @@
     "a9038e82-1646-4339-af71-141a737827ce": {
       "type": "graph",
       "label": {
-        "en": "On Gimi and how to make it"
+        "en": "On Gimi and how to make it",
+        "de": "Über Gimi und dessen Herstellung"
       },
       "allocations": {
         "d14ef567-a2d5-463f-8264-04a7ea0500ac": {
@@ -4030,7 +4061,9 @@
     "bf90d0bf-e307-47c7-a540-14f25fd5fa34": {
       "type": "graph",
       "label": {
-        "en": "Collecting and processing for Gimi"
+        "en": "Collecting and processing for Gimi",
+        "de": "Sammeln und Verarbeitung für Gimi",
+        "pt": "Coleta e processamento para Gimi"
       },
       "allocations": {
         "9efc33b3-ffde-42d5-88c6-deb872a871a6": {
@@ -4537,7 +4570,9 @@
     "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": {
       "type": "graph",
       "label": {
-        "en": "The customs and the making of mats"
+        "en": "The customs and the making of mats",
+        "de": "Bräuche und Herstellung von Matten",
+        "pt": "Alfândega e produção de tapetes"
       },
       "allocations": {
         "8971c15c-d536-4161-b148-6983d34d8d10": {
@@ -5336,7 +5371,9 @@
     "0e4e7592-da50-4144-a0e2-100bc760d92b": {
       "type": "graph",
       "label": {
-        "en": "The owner of Kusu"
+        "en": "The owner of Kusu",
+        "de": "Der Besitzer von Kusu",
+        "pt": "O dono de Kusu"
       },
       "image": "xingu:owner of Kusu/owner of kusu.png",
       "media": {
@@ -6273,7 +6310,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "aa27cb34-e473-4203-8118-083a62661d22",
       "label": {
-        "en": "use"
+        "en": "use",
+        "de": "verwenden",
+        "pt": "usam"
       }
     },
     {
@@ -6285,7 +6324,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "4b330a6d-f2b5-46f7-8244-103030842282",
       "label": {
-        "en": "is made of"
+        "en": "is made of",
+        "de": "ist hergestellt aus",
+        "pt": "é feito de"
       }
     },
     {
@@ -6297,7 +6338,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "0fc2a84e-371a-4057-8c52-0c21d916f0ce",
       "label": {
-        "en": "was"
+        "en": "was",
+        "de": "war",
+        "pt": "era"
       }
     },
     {
@@ -6309,7 +6352,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "3409f7d0-6163-465e-bf45-3926fbe668d0",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "de": "ist Teil von",
+        "pt": "faz parte da "
       }
     },
     {
@@ -6321,7 +6366,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "5fcc2836-d690-473d-8f02-9ceb7fdd7763",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "de": "ist Teil von",
+        "pt": "faz parte da"
       }
     },
     {
@@ -6333,7 +6380,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "52890ab9-d154-46ab-8933-53de9a046255",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "de": "ist Teil von",
+        "pt": "faz parte da"
       }
     },
     {
@@ -6345,7 +6394,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "0ef84ead-0036-4e26-9134-8543195e19dd",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "de": "ist Teil von",
+        "pt": "faz parte da"
       }
     },
     {
@@ -6357,7 +6408,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "95c5ae6f-4836-424e-9f36-c08b39c9f39a",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "de": "ist Teil von",
+        "pt": "faz parte da"
       }
     },
     {
@@ -6369,7 +6422,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "36c155b0-b19e-4a3e-8d69-d3db6299ee31",
       "label": {
-        "en": "during"
+        "en": "during",
+        "pt": "usado durante a",
+        "de": "verwendet während"
       }
     },
     {
@@ -6381,7 +6436,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "31ee660e-7deb-42a2-9fb2-d85120a66f74",
       "label": {
-        "en": "during"
+        "en": "during",
+        "de": "verwendet während",
+        "pt": "usado durante a"
       }
     },
     {
@@ -6402,7 +6459,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "3e2f96b2-7535-401e-9471-adfa900fae29",
       "label": {
-        "en": "fish"
+        "en": "fish",
+        "de": "fischen",
+        "pt": "pescam"
       }
     },
     {
@@ -6414,7 +6473,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "a6574bc2-3685-4679-9246-cfe84aac2b37",
       "label": {
-        "en": "attach it with"
+        "en": "attach it with",
+        "de": "befestigt mit",
+        "pt": "anexado com"
       }
     },
     {
@@ -6426,7 +6487,9 @@
       "graph": "3236aa1c-7bbc-4410-a4d1-8f856720f6a8",
       "id": "07ca2a88-170e-4627-9520-057a7d5d0c42",
       "label": {
-        "en": "blocks"
+        "en": "blocks",
+        "de": "blockiert",
+        "pt": "bloqueia"
       }
     },
     {
@@ -9287,5 +9350,5 @@
       }
     }
   ],
-  "exported": 1730819204787
+  "exported": 1730820414307
 }
