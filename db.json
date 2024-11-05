@@ -545,23 +545,23 @@
       },
       "allocations": {
         "c39061bd-de63-4984-ad30-3d52dbbea062": {
-          "x": -100,
+          "x": -200,
           "y": 140
         },
         "dc349228-b509-4bca-bc0e-8b6e2f3c364c": {
-          "x": -100,
+          "x": -200,
           "y": -20
         },
         "92300bf1-cfe7-4324-ba48-78a611441419": {
-          "x": -100,
+          "x": -200,
           "y": -160
         },
         "923768dc-52bf-46d8-a9d6-a17835c7bb32": {
-          "x": -100,
+          "x": -200,
           "y": 320
         },
         "5b421e87-228e-4be0-822a-502d4ef1223e": {
-          "x": 180,
+          "x": 120,
           "y": 140
         },
         "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": {
@@ -606,7 +606,7 @@
         },
         "656d55d6-9db7-42dc-bd1c-406168127acb": {
           "x": 900,
-          "y": 180
+          "y": 160
         }
       },
       "media": {
@@ -651,10 +651,10 @@
             "7b5e0e61-e37a-44d4-8c49-732bfd5038de": "default"
           },
           "bounds": {
-            "x1": -148.82729125199964,
-            "y1": -243.55433372624674,
-            "x2": 928.162699923083,
-            "y2": 549.186099660691
+            "x1": -274.83359280328995,
+            "y1": -283.9686670663578,
+            "x2": 1006.492992119773,
+            "y2": 498.4342918689638
           }
         },
         {
@@ -677,10 +677,10 @@
             "656d55d6-9db7-42dc-bd1c-406168127acb": "hide"
           },
           "bounds": {
-            "x1": -243.3814713896458,
-            "y1": -148.5068119891008,
-            "x2": 504.6185286103542,
-            "y2": 433.4931880108992
+            "x1": -375.2662707618613,
+            "y1": -245.0915014049754,
+            "x2": 480.0313737885524,
+            "y2": 441.73842527944777
           }
         },
         {
@@ -692,10 +692,10 @@
             "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "default"
           },
           "bounds": {
-            "x1": -153.29607981054443,
-            "y1": -205.64617187489367,
-            "x2": 516.8458091067256,
-            "y2": 364.98216586857126
+            "x1": -284.5528842186356,
+            "y1": -228.89268237939936,
+            "x2": 559.4055870138749,
+            "y2": 472.51618142804216
           }
         },
         {
@@ -709,10 +709,10 @@
             "eb411e00-7901-41ff-b247-3370cfac94cd": "default"
           },
           "bounds": {
-            "x1": -147.91786133351897,
-            "y1": -421.28693847636845,
-            "x2": 932.5867801119145,
-            "y2": 547.4963958772181
+            "x1": -313.71075846467244,
+            "y1": -441.0972116144452,
+            "x2": 1009.7327559248881,
+            "y2": 543.7909851405767
           }
         },
         {
@@ -762,10 +762,10 @@
         {
           "time": 214.272288,
           "bounds": {
-            "x1": -240.16595682134903,
-            "y1": -502.30593023437666,
-            "x2": 1016.7514846726621,
-            "y2": 563.8081045812266
+            "x1": -386.6054440797645,
+            "y1": -432.99780210165716,
+            "x2": 1115.0250795911322,
+            "y2": 631.2646078786871
           },
           "states": {
             "c39061bd-de63-4984-ad30-3d52dbbea062": "default",
@@ -814,50 +814,65 @@
       "type": "entity",
       "label": {
         "en": "person",
-        "pt": "pessoa"
+        "pt": "pessoa",
+        "de": "Person"
       }
     },
     "dc349228-b509-4bca-bc0e-8b6e2f3c364c": {
       "type": "entity",
       "label": {
-        "en": "Ologi (master)"
+        "en": "Ologi (master)",
+        "de": "Ologi (Meister)",
+        "pt": "Ologi (mestre)"
       },
       "class": "cf247027-b6d8-4190-927f-2fab7c932b7d"
     },
     "cf247027-b6d8-4190-927f-2fab7c932b7d": {
       "type": "entity",
       "label": {
-        "en": "role"
+        "en": "role",
+        "de": "Rolle",
+        "pt": "função"
       }
     },
     "923768dc-52bf-46d8-a9d6-a17835c7bb32": {
       "type": "entity",
       "label": {
-        "en": "father-in-law"
+        "en": "father-in-law",
+        "de": "Schwiegervater",
+        "pt": "sogro"
       }
     },
     "5b421e87-228e-4be0-822a-502d4ef1223e": {
       "type": "entity",
       "label": {
-        "en": "group of men"
+        "en": "group of men",
+        "de": "Gruppe von Männern",
+        "pt": "um grupo de homens"
       }
     },
     "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": {
       "type": "entity",
       "label": {
-        "en": "collecting"
+        "en": "collecting",
+        "de": "Sammeln",
+        "pt": "coletando"
       }
     },
     "8f224ad5-7d23-42a2-ac68-a6c0705eba6d": {
       "type": "entity",
       "label": {
-        "en": "cutting"
+        "en": "cutting",
+        "de": "Schneiden",
+        "pt": "cortar"
       }
     },
     "486943ff-8a07-4c3a-b6af-5d5335d74631": {
       "type": "entity",
       "label": {
-        "en": "transporting"
+        "en": "transporting",
+        "de": "Transportieren",
+        "pt": "transportar"
       }
     },
     "64962446-0a02-44bb-b6bc-e5970138ed41": {
@@ -865,13 +880,7 @@
       "label": {
         "en": "Tihigu"
       },
-      "class": "52fe0760-9116-4e3b-9918-92dcec16b8f8"
-    },
-    "52fe0760-9116-4e3b-9918-92dcec16b8f8": {
-      "type": "entity",
-      "label": {
-        "en": "material"
-      }
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
     },
     "74dfa8c0-c697-48e7-87eb-12f806214b1a": {
       "type": "entity",
@@ -883,13 +892,17 @@
     "87069b44-f527-4d03-ae69-7b4109625f1d": {
       "type": "entity",
       "label": {
-        "en": "village"
+        "en": "village",
+        "de": "Dorf",
+        "pt": "aldeia"
       }
     },
     "9fe13302-e9d8-44c3-bc2c-14b9d286fd5f": {
       "type": "entity",
       "label": {
-        "en": "community car"
+        "en": "community car",
+        "de": "Gemeinschaftsauto",
+        "pt": "carro da comunidade"
       }
     },
     "7b5e0e61-e37a-44d4-8c49-732bfd5038de": {
@@ -902,7 +915,9 @@
     "f8cf6364-f066-456b-953a-8b1ad6d35559": {
       "type": "entity",
       "label": {
-        "en": "gallery forest"
+        "en": "gallery forest",
+        "de": "Galeriewald",
+        "pt": "galeria floresta"
       }
     },
     "a76554dc-cdd7-4a56-b0af-3571cccfd67a": {
@@ -935,11 +950,11 @@
           "y": 160
         },
         "91ba1235-1ac8-48d2-8501-a8368697d9be": {
-          "x": -200,
+          "x": -220,
           "y": 140
         },
         "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83": {
-          "x": -200,
+          "x": -220,
           "y": 340
         },
         "694a99d5-2f9d-4b41-be6f-f3410fd5001a": {
@@ -967,8 +982,8 @@
           "y": -320
         },
         "75792baa-4747-481c-b6c1-313e0c900f2f": {
-          "x": -340,
-          "y": -320
+          "x": -400,
+          "y": -380
         },
         "1108c8a3-6af6-4c29-b490-e75c948df002": {
           "x": -700,
@@ -1003,8 +1018,8 @@
           "y": 0
         },
         "bf90d0bf-e307-47c7-a540-14f25fd5fa34": {
-          "x": -360,
-          "y": -120
+          "x": -440,
+          "y": -220
         },
         "d2471208-8856-4a5c-bdc0-d001d60d4a19": {
           "x": 740,
@@ -1413,20 +1428,25 @@
     "a8555971-920d-4e55-b46f-fb3a45a7439b": {
       "type": "entity",
       "label": {
-        "en": "Lagoon of ihumba"
+        "en": "Lagoon of ihumba",
+        "de": "Ihumba Lagune"
       },
       "class": "2d348a0b-b64f-4125-9d76-61e0e2d1e997"
     },
     "2d348a0b-b64f-4125-9d76-61e0e2d1e997": {
       "type": "entity",
       "label": {
-        "en": "place"
+        "en": "place",
+        "de": "Ort",
+        "pt": "lugar"
       }
     },
     "91ba1235-1ac8-48d2-8501-a8368697d9be": {
       "type": "entity",
       "label": {
-        "en": "Piranha"
+        "en": "piranhas",
+        "pt": "piranhas",
+        "de": "Piranhas"
       },
       "class": "78eabc38-e93a-420b-af5e-69fb2308900b"
     },
@@ -1439,45 +1459,58 @@
     "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83": {
       "type": "entity",
       "label": {
-        "en": "women"
+        "en": "women",
+        "pt": "mulheres",
+        "de": "Frauen"
       },
       "class": "da181e12-a15c-4e74-b55f-d7c8aa31a2c5"
     },
     "694a99d5-2f9d-4b41-be6f-f3410fd5001a": {
       "type": "entity",
       "label": {
-        "en": "singing and dancing"
+        "en": "singing and dancing",
+        "pt": "cantam e dançam",
+        "de": "singen und tanzen"
       }
     },
     "9e603533-67e2-4b1c-97b6-f43490c6f38e": {
       "type": "entity",
       "label": {
-        "en": "taking"
+        "en": "taking",
+        "de": "Tragen",
+        "pt": "carregam"
       }
     },
     "a40a1684-3e82-4d04-987d-d0cc30f308f5": {
       "type": "entity",
       "label": {
-        "en": "bow and arrow"
+        "en": "bow and arrow",
+        "de": "arco e flecha"
       }
     },
     "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": {
       "type": "entity",
       "label": {
-        "en": "spirit Bicudinha"
+        "en": "spirit Bicudinha",
+        "de": "Geister Bicuda",
+        "pt": "bicudinha-espírito"
       },
       "class": "618bae8d-1e7f-4dca-8f6e-f94a2a283d95"
     },
     "84ad58b7-f256-4dd5-8cdc-1ca6e28044c8": {
       "type": "entity",
       "label": {
-        "en": "killing"
+        "en": "killing",
+        "de": "Tötung",
+        "pt": "matar"
       }
     },
     "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95": {
       "type": "entity",
       "label": {
-        "en": "palm"
+        "en": "palm",
+        "de": "Palme",
+        "pt": "palma"
       }
     },
     "1108c8a3-6af6-4c29-b490-e75c948df002": {
@@ -1497,7 +1530,9 @@
     "e7def76d-01a3-4fe0-be8a-9507f8094a1b": {
       "type": "entity",
       "label": {
-        "en": "Uhi's veins"
+        "en": "Uhi's veins",
+        "de": "Uhi's Venen",
+        "pt": "as veias de Uhi"
       },
       "class": "932c8dd7-9e07-441b-9d2c-fadcc5082e6d"
     },
@@ -1510,7 +1545,9 @@
     "efbdf327-a16c-43f6-b3ef-24752e441029": {
       "type": "entity",
       "label": {
-        "en": "Uhi's shinbone"
+        "en": "Uhi's shinbone",
+        "de": "Uhi's Schienbein",
+        "pt": "a canela de Uhi"
       },
       "class": "e30d0d75-28a1-43bb-b53d-21f2d12cda26"
     },
@@ -3020,7 +3057,9 @@
     "eb411e00-7901-41ff-b247-3370cfac94cd": {
       "type": "entity",
       "label": {
-        "en": "machete"
+        "en": "machete",
+        "de": "Machete",
+        "pt": "facão"
       },
       "class": "17d095fe-dff9-407e-b66c-7976fb66b448"
     },
@@ -4475,7 +4514,9 @@
     "d2471208-8856-4a5c-bdc0-d001d60d4a19": {
       "type": "entity",
       "label": {
-        "en": "arrow head"
+        "en": "arrow head",
+        "de": "Pfeilspitze",
+        "pt": "ponta de flecha"
       }
     },
     "5f30153b-4d63-4057-a1a5-ace29575e4d9": {
@@ -4488,7 +4529,9 @@
     "92de9497-6f4a-4ebe-8382-36aacf609952": {
       "type": "entity",
       "label": {
-        "en": "revenge"
+        "en": "revenge",
+        "de": "Rache",
+        "pt": "vingança"
       }
     },
     "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": {
@@ -5751,7 +5794,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "d1131a94-31c0-4fa2-bfa9-72fb0bbbf122",
       "label": {
-        "en": "is"
+        "en": "is",
+        "de": "ist",
+        "pt": "é"
       }
     },
     {
@@ -5763,7 +5808,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "22dc223d-bf38-4620-b933-3544e68f4ae5",
       "label": {
-        "en": "of"
+        "en": "of",
+        "de": "der",
+        "pt": "da"
       }
     },
     {
@@ -5784,7 +5831,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "cb4339fa-d405-4300-b9f2-7709bd3bfd07",
       "label": {
-        "en": "learned from his"
+        "en": "learned from his",
+        "pt": "aprendi com",
+        "de": "lernte von"
       }
     },
     {
@@ -5796,7 +5845,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "b73b02a7-c00d-4916-8f19-f55d7190c047",
       "label": {
-        "en": "supervises"
+        "en": "supervises",
+        "de": "leitet an",
+        "pt": "guias"
       }
     },
     {
@@ -5808,7 +5859,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "71d3bb8c-0f26-4951-a3e5-113b9314645e",
       "label": {
-        "en": "is"
+        "en": "is",
+        "de": "ist am",
+        "pt": "está"
       }
     },
     {
@@ -5820,7 +5873,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "60eca9d8-0e07-492d-89ad-e4734dae07e4",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "pt": "faz parte da",
+        "de": "ist Teil von"
       }
     },
     {
@@ -5832,7 +5887,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "ff5ac759-883e-45fc-8154-074060a4e3bd",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "pt": "faz parte da",
+        "de": "ist Teil von"
       }
     },
     {
@@ -5880,7 +5937,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "0508340f-451b-452a-83c7-f325e27d10d0",
       "label": {
-        "en": "with"
+        "en": "with",
+        "de": "mit",
+        "pt": "com o"
       }
     },
     {
@@ -5892,7 +5951,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "70a8c04e-9338-4099-8e79-518e481c4f67",
       "label": {
-        "en": "is the aerial root of"
+        "en": "is the aerial root of",
+        "de": "ist die Luftwurzel von",
+        "pt": "é a raiz aérea de"
       }
     },
     {
@@ -5904,7 +5965,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "589fab9c-8d65-4df6-8216-6b5fc83485cf",
       "label": {
-        "en": "grows in"
+        "en": "grows in",
+        "de": "wächst im",
+        "pt": "cresce em"
       }
     },
     {
@@ -5916,7 +5979,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "ab258d36-c8d6-41ef-8110-57ba00873a25",
       "label": {
-        "en": "is part of"
+        "en": "is part of",
+        "pt": "faz parte da",
+        "de": "ist Teil von"
       }
     },
     {
@@ -5928,7 +5993,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "ec3866ca-899d-4143-aceb-3999454179e7",
       "label": {
-        "en": "to"
+        "en": "to",
+        "de": "zur",
+        "pt": "para a"
       }
     },
     {
@@ -5940,7 +6007,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "5c52c3cc-1829-4a9d-ac09-145b91d63411",
       "label": {
-        "en": "eat down to the bones"
+        "en": "eat down to the bones",
+        "de": "essen bis auf die Knochen",
+        "pt": "coma até os ossos"
       }
     },
     {
@@ -5952,7 +6021,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "3dbcbded-62d2-4b3f-b1df-fb78c8621ab0",
       "label": {
-        "en": "search for"
+        "en": "search for",
+        "de": "suchen",
+        "pt": "procuram"
       }
     },
     {
@@ -5964,7 +6035,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "2b3af38c-c53f-48d1-a033-23db03fa839b",
       "label": {
-        "en": "while"
+        "en": "while",
+        "de": "während sie",
+        "pt": "enquanto"
       }
     },
     {
@@ -5976,7 +6049,8 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "e4cec518-0bfa-488a-9a7d-6b9954151337",
       "label": {
-        "en": "are"
+        "en": "are",
+        "de": "sind am"
       }
     },
     {
@@ -5997,7 +6071,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "f683ab91-924b-485d-82cf-690cc59957e8",
       "label": {
-        "en": "uses"
+        "en": "uses",
+        "de": "verwendet",
+        "pt": "usa"
       }
     },
     {
@@ -6018,7 +6094,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "9dc234cd-2c6e-401d-b701-ed9e885e68e2",
       "label": {
-        "en": "overfishes"
+        "en": "overfishes",
+        "de": "überfischt",
+        "pt": "pesca demais"
       }
     },
     {
@@ -6030,7 +6108,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "820ec5ce-c3db-463e-a3dc-5ea4babb284e",
       "label": {
-        "en": "select"
+        "en": "select",
+        "de": "wählen aus",
+        "pt": "escolhem"
       }
     },
     {
@@ -6051,7 +6131,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "83e29aa4-2149-41d0-9274-5fc35a68e637",
       "label": {
-        "en": "for"
+        "en": "for",
+        "pt": "para",
+        "de": "zur"
       }
     },
     {
@@ -6061,7 +6143,10 @@
       ],
       "arrow": "→",
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
-      "id": "3ad40f7a-d308-47b9-831b-0d9d21bc93c6"
+      "id": "3ad40f7a-d308-47b9-831b-0d9d21bc93c6",
+      "label": {
+        "de": "von"
+      }
     },
     {
       "nodes": [
@@ -6072,7 +6157,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "486ca035-ea1b-4013-9054-a40e13a5f1c5",
       "label": {
-        "en": "is at"
+        "en": "is at",
+        "de": "ist bei der",
+        "pt": "está na"
       }
     },
     {
@@ -6093,7 +6180,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "bfb75c09-8819-413f-8516-4627545d8f42",
       "label": {
-        "en": "takes"
+        "en": "takes",
+        "de": "nimmt",
+        "pt": "pega"
       }
     },
     {
@@ -6105,7 +6194,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "8e0f01a6-2bb6-4d7d-ae15-65195d9dbe3d",
       "label": {
-        "en": "transforms"
+        "en": "transforms",
+        "de": "verwandelt",
+        "pt": "transforma"
       }
     },
     {
@@ -6117,7 +6208,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "74e67fb9-02ae-4b0d-b230-57341d024529",
       "label": {
-        "en": "transforms"
+        "en": "transforms",
+        "de": "verwandelt",
+        "pt": "transforma"
       }
     },
     {
@@ -6138,7 +6231,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "75e2b99e-f3eb-4ca7-ab22-c32d27d22715",
       "label": {
-        "en": "into"
+        "en": "into",
+        "de": "in",
+        "pt": "em"
       }
     },
     {
@@ -6150,7 +6245,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "636acb07-8cd0-44c2-a6b7-15c1747ee6fe",
       "label": {
-        "en": "into"
+        "en": "into",
+        "de": "in",
+        "pt": "em"
       }
     },
     {
@@ -6162,7 +6259,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "88b9aa17-1d5c-48c8-8a2c-ef9ac734e60d",
       "label": {
-        "en": "is made of"
+        "en": "is made of",
+        "de": "ist gemacht aus",
+        "pt": "é feito"
       }
     },
     {
@@ -8012,7 +8111,9 @@
       "graph": "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8",
       "id": "73aa7bd9-12de-49e1-b5da-f0eaa39f2ae3",
       "label": {
-        "en": "with"
+        "en": "with",
+        "de": "mit",
+        "pt": "com o "
       }
     },
     {
@@ -8059,7 +8160,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "7372c894-9178-47ba-af94-8787bdcf8ec2",
       "label": {
-        "en": "corresponds to"
+        "en": "corresponds to",
+        "de": "entspricht",
+        "pt": "corresponde a"
       }
     },
     {
@@ -8071,7 +8174,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "f6c33217-a5c8-4f5e-a120-8b214e27c9d7",
       "label": {
-        "en": "into"
+        "en": "into",
+        "de": "in",
+        "pt": "em"
       }
     },
     {
@@ -8083,7 +8188,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "759f0133-3207-4892-9740-9ff0ce341f3e",
       "label": {
-        "en": "into"
+        "en": "into",
+        "de": "in",
+        "pt": "em"
       }
     },
     {
@@ -8095,7 +8202,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "9cc3ec47-fa51-4c72-997c-28b5fd135319",
       "label": {
-        "en": "serves"
+        "en": "serves",
+        "de": "dient der",
+        "pt": "serve o"
       }
     },
     {
@@ -8107,7 +8216,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "e199261d-8023-44bd-a4ea-ba8b396bfa91",
       "label": {
-        "en": "serves"
+        "en": "serves",
+        "pt": "serve o",
+        "de": "dient der"
       }
     },
     {
@@ -8119,7 +8230,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "ac505768-1e0e-4ff8-825f-c031766f10f1",
       "label": {
-        "en": "serves"
+        "en": "serves",
+        "pt": "serve o",
+        "de": "dient der"
       }
     },
     {
@@ -8131,7 +8244,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "9ce9c5d6-98ed-45a9-97ce-e841737f511e",
       "label": {
-        "en": "serves"
+        "en": "serves",
+        "pt": "serve o",
+        "de": "dient der"
       }
     },
     {
@@ -8143,7 +8258,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "58288666-d1ac-4967-99cc-54db5ed8810d",
       "label": {
-        "en": "of"
+        "en": "of",
+        "de": "von",
+        "pt": "de"
       }
     },
     {
@@ -9170,5 +9287,5 @@
       }
     }
   ],
-  "exported": 1730812560034
+  "exported": 1730819204787
 }
