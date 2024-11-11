@@ -5514,8 +5514,8 @@
     "28c47119-1798-4f58-95ea-b25d4e7045f2": {
       "type": "graph",
       "label": {
-        "en": "Overview",
-        "de": "Übersicht"
+        "en": "Xingu Entangled",
+        "de": ""
       },
       "allocations": {
         "68585357-ebe4-4355-bfd4-338be23c8792": {
@@ -5577,7 +5577,8 @@
             "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "highlight"
           }
         }
-      ]
+      ],
+      "index": true
     },
     "fa5502bd-cc0e-4b8f-8aca-077f7f5bf25a": {
       "type": "entity",
@@ -9792,5 +9793,5 @@
       }
     }
   ],
-  "exported": 1730906752148
+  "exported": 1731335004943
 }
