@@ -138,7 +138,8 @@
             "604c66b6-d12e-419a-a3c4-c45836316dc6": "hide",
             "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight",
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "highlight",
-            "75792baa-4747-481c-b6c1-313e0c900f2f": "default"
+            "75792baa-4747-481c-b6c1-313e0c900f2f": "default",
+            "0e4e7592-da50-4144-a0e2-100bc760d92b": "default"
           },
           "bounds": {
             "x1": -870.6589334633398,
@@ -151,7 +152,8 @@
           "time": 23.072154,
           "states": {
             "6179e5ed-e5a6-4cfb-8e11-be9a79f878d0": "highlight",
-            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default"
+            "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
+            "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide"
           },
           "bounds": {
             "x1": -804.8971825971463,
@@ -176,10 +178,10 @@
             "0e4e7592-da50-4144-a0e2-100bc760d92b": "default"
           },
           "bounds": {
-            "x1": -970.1611430205318,
-            "y1": -512.2998225709398,
-            "x2": -27.941940087204383,
-            "y2": 243.19256793596506
+            "x1": -1010.7079517600033,
+            "y1": -543.9538125961625,
+            "x2": -31.334453659792125,
+            "y2": 319.9161771285938
           }
         },
         {
@@ -189,13 +191,14 @@
             "604c66b6-d12e-419a-a3c4-c45836316dc6": "default",
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
             "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
-            "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide"
+            "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide",
+            "a30dba22-474d-415f-a7ea-3515f7b61439": "hide"
           },
           "bounds": {
-            "x1": -800.6046121965389,
-            "y1": -527.3238189730657,
-            "x2": 128.73687953496625,
-            "y2": 213.14457513171317
+            "x1": -842.2653353791317,
+            "y1": -551.1727818696285,
+            "x2": 615.9664578609863,
+            "y2": 165.91149929465394
           }
         },
         {
@@ -346,7 +349,8 @@
             "75792baa-4747-481c-b6c1-313e0c900f2f": "highlight",
             "c4a0c011-215a-444b-93a2-dc7e4f0031e2": "hide",
             "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
-            "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide"
+            "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide",
+            "a30dba22-474d-415f-a7ea-3515f7b61439": "hide"
           },
           "bounds": {
             "x1": -837.0500445456834,
@@ -1539,7 +1543,12 @@
         "en": "",
         "universal": "Mauritia flexuosa"
       },
-      "class": "0467c41d-6e5d-49aa-ae50-1fcbcaf7716f"
+      "class": "0467c41d-6e5d-49aa-ae50-1fcbcaf7716f",
+      "description": {
+        "en": "A palm species found in northern South America that is of great importance as a useful plant.",
+        "de": "Eine im nördlichen Südamerika vorkommende Palmenart, die eine große Bedeutung als Nutzpflanze hat.",
+        "pt": "Espécie de palmeira encontrada no norte da América do Sul que é de grande importância como planta útil."
+      }
     },
     "592f3ffc-b9f5-44d6-a8a0-f0caef6dde48": {
       "type": "entity",
@@ -1925,7 +1934,7 @@
       "type": "graph",
       "label": {
         "en": "Making of the fish trap",
-        "de": "Herstellung der Fischfalle",
+        "de": "Die Herstellung der Fischfalle",
         "pt": "Fazendo a armadilha para peixes"
       },
       "allocations": {
@@ -1966,8 +1975,8 @@
           "y": -380
         },
         "da173968-8851-4181-9625-037dac7ef415": {
-          "x": 160,
-          "y": -60
+          "x": 120,
+          "y": -140
         },
         "92300bf1-cfe7-4324-ba48-78a611441419": {
           "x": -660,
@@ -1982,40 +1991,40 @@
           "y": 120
         },
         "341a06c6-6e06-40ea-8353-6b532bd327ee": {
-          "x": -200,
+          "x": -240,
           "y": 100
         },
         "399dbcb8-f1d2-4971-9c02-5866ba73ef32": {
-          "x": 200,
+          "x": 260,
           "y": 100
         },
         "9fdee9d0-8395-4d4b-b626-cae246eea2b0": {
-          "x": -360,
-          "y": 240
+          "x": -400,
+          "y": 340
         },
         "1a35eb15-719a-437a-9249-05ac41be3057": {
-          "x": -200,
-          "y": 280
+          "x": -240,
+          "y": 340
         },
         "0a0325cc-2917-498d-a649-dba6e0baed0c": {
-          "x": -40,
-          "y": 240
+          "x": -80,
+          "y": 340
         },
         "c1aafb68-1498-4b2e-98d6-e10fd43e7a49": {
-          "x": -360,
-          "y": 360
+          "x": -580,
+          "y": 460
         },
         "30f7640f-cb1a-45ff-8af9-10190103cef3": {
-          "x": 60,
-          "y": 320
+          "x": 80,
+          "y": 340
         },
         "cffc0e78-e957-44dc-a1f2-c768cf577267": {
-          "x": 200,
-          "y": 260
+          "x": 260,
+          "y": 340
         },
         "f08d9332-49fe-46d9-afa1-8f0e611c7692": {
-          "x": 400,
-          "y": 300
+          "x": 480,
+          "y": 340
         },
         "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": {
           "x": -460,
@@ -2083,7 +2092,7 @@
           "states": {
             "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "highlight",
             "92300bf1-cfe7-4324-ba48-78a611441419": "default",
-            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "hide"
+            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "default"
           }
         },
         {
@@ -2105,7 +2114,8 @@
           "states": {
             "c4b84f2d-05ef-452c-9f0e-1bbf60b696bd": "highlight",
             "74dfa8c0-c697-48e7-87eb-12f806214b1a": "default",
-            "64962446-0a02-44bb-b6bc-e5970138ed41": "default"
+            "64962446-0a02-44bb-b6bc-e5970138ed41": "default",
+            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "hide"
           }
         },
         {
@@ -2778,7 +2788,12 @@
       "label": {
         "en": "Moriche"
       },
-      "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95"
+      "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95",
+      "description": {
+        "pt": "Espécie de palmeira encontrada no norte da América do Sul que é de grande importância como planta útil.",
+        "de": "Eine im nördlichen Südamerika vorkommende Palmenart, die eine große Bedeutung als Nutzpflanze hat.",
+        "en": "A palm species found in northern South America that is of great importance as a useful plant."
+      }
     },
     "de412fdb-02ef-421c-8c2d-1a3671b3b32d": {
       "type": "entity",
@@ -4309,7 +4324,7 @@
       "type": "graph",
       "label": {
         "en": "Collecting and processing for Gimi",
-        "de": "Sammeln und Verarbeitung für Gimi",
+        "de": "Über das Sammeln und die Verarbeitung für Gimi",
         "pt": "Coleta e processamento para Gimi"
       },
       "allocations": {
@@ -5532,52 +5547,52 @@
       },
       "allocations": {
         "68585357-ebe4-4355-bfd4-338be23c8792": {
-          "x": -560,
-          "y": -260
+          "x": -480,
+          "y": -400
         },
         "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": {
-          "x": -1380,
-          "y": -620
+          "x": -1420,
+          "y": -740
         },
         "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": {
-          "x": -160,
-          "y": -620
+          "x": -120,
+          "y": -660
         },
         "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": {
           "x": -560,
-          "y": -620
+          "y": -780
         },
         "656d55d6-9db7-42dc-bd1c-406168127acb": {
           "x": -960,
-          "y": -620
+          "y": -640
         },
         "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
           "x": -80,
-          "y": 80
+          "y": 60
         },
         "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": {
-          "x": -940,
-          "y": 80
+          "x": -1440,
+          "y": 20
         },
         "8c54c09e-e000-4878-a807-a82a19132ba1": {
-          "x": -720,
-          "y": 360
+          "x": -1040,
+          "y": 280
         },
         "a9038e82-1646-4339-af71-141a737827ce": {
           "x": 400,
           "y": -520
         },
         "bf90d0bf-e307-47c7-a540-14f25fd5fa34": {
-          "x": 80,
-          "y": -280
+          "x": -40,
+          "y": -340
         },
         "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": {
-          "x": -500,
-          "y": 80
+          "x": -680,
+          "y": 0
         },
         "0e4e7592-da50-4144-a0e2-100bc760d92b": {
-          "x": -980,
-          "y": -260
+          "x": -960,
+          "y": -280
         }
       },
       "media": {
@@ -5587,7 +5602,16 @@
         {
           "time": 0,
           "states": {
-            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "highlight"
+            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "hide",
+            "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "hide",
+            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide",
+            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
+            "656d55d6-9db7-42dc-bd1c-406168127acb": "hide",
+            "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": "hide",
+            "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": "hide",
+            "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": "hide",
+            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "hide"
           }
         }
       ],
@@ -5627,9 +5651,9 @@
     "0e4e7592-da50-4144-a0e2-100bc760d92b": {
       "type": "graph",
       "label": {
-        "en": "The owner of Kusu",
-        "de": "Der Besitzer von Kusu",
-        "pt": "O dono de Kusu"
+        "en": "Ahasa – the owner of Kusu",
+        "de": "Ahasa – der Eigentümer von Kusu",
+        "pt": "Ahasa – O dono de Kusu"
       },
       "image": "xingu:owner of Kusu/owner of kusu.png",
       "media": {
@@ -5927,9 +5951,9 @@
       "type": "graph",
       "index": false,
       "label": {
-        "en": "The dispersal and pollination of Buriti",
-        "de": "Die Verbreitung und Bestäubung von Buriti",
-        "pt": "A distribuição e polinização do Buriti"
+        "en": "The dispersal and pollination of Moriche",
+        "de": "Die Verbreitung und Bestäubung von Moriche",
+        "pt": "A distribuição e polinização do Moriche"
       },
       "image": "xingu:Nils buriti pollination/dispersal and pollination of buriti.png",
       "media": {
@@ -6093,6 +6117,266 @@
         "en": "Buriti"
       },
       "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95"
+    },
+    "6b05d29c-c9db-4083-9a79-731ce005a7ab": {
+      "type": "graph",
+      "label": {
+        "en": "Moriche – Scientific Name and Collection History"
+      },
+      "media": {
+        "file": "xingu:Nils Buriti Scientific Name/Nils buriti scientific name.mp4",
+        "subtitles": {
+          "en": "xingu:Nils Buriti Scientific Name/20240507_4_TL_1080p_23,976fps_Nils_BGBM_Buriti_Scientific Name and Collection History_EN.srt",
+          "pt": "xingu:Nils Buriti Scientific Name/20240507_4_TL_1080p_23,976fps_Nils_BGBM_Buriti_Scientific Name and Collection History_PT.srt",
+          "de": "xingu:Nils Buriti Scientific Name/20240507_4_TL_1080p_23,976fps_Nils_BGBM_Buriti_Scientific Name and Collection History_DE.srt"
+        }
+      },
+      "image": "xingu:Nils Buriti Scientific Name/",
+      "allocations": {
+        "66ec6c88-8a75-4b24-a570-973cbf43436e": {
+          "x": -2260,
+          "y": -820
+        },
+        "1108c8a3-6af6-4c29-b490-e75c948df002": {
+          "x": -2140,
+          "y": -540
+        },
+        "20666b95-3487-4620-bf9e-a398c5a0e921": {
+          "x": -2520,
+          "y": -660
+        },
+        "f2648627-a752-47de-bd66-eebe895221ba": {
+          "x": -1840,
+          "y": -560
+        },
+        "020e34a4-5aa5-450c-8431-b41c348ec6fd": {
+          "x": -2320,
+          "y": -360
+        },
+        "c205c6d1-04cf-4e82-b7dd-2d180cab1e72": {
+          "x": -1940,
+          "y": -360
+        },
+        "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": {
+          "x": -1900,
+          "y": -220
+        },
+        "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": {
+          "x": -1740,
+          "y": -120
+        },
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe": {
+          "x": -2360,
+          "y": -200
+        },
+        "5cd02631-e1eb-4702-8255-1f8d9ca566ba": {
+          "x": -2400,
+          "y": 40
+        },
+        "b85b2812-e25a-437d-ae6b-385ac00a718f": {
+          "x": -2400,
+          "y": 200
+        },
+        "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": {
+          "x": -2000,
+          "y": -820
+        },
+        "40c3f84d-66d7-4659-9646-e034d3f2b0b9": {
+          "x": -2060,
+          "y": -40
+        },
+        "39554d8f-c4c3-4c26-b6c4-f02b91abb51a": {
+          "x": -1940,
+          "y": 100
+        },
+        "c5bfc8c3-4917-4cfb-840f-16d2e73298ca": {
+          "x": -2600,
+          "y": -340
+        },
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": {
+          "x": -2780,
+          "y": -480
+        },
+        "f035fbff-4442-4fd9-88cb-ac03185085a6": {
+          "x": -2660,
+          "y": -60
+        },
+        "46fd0e60-1fe6-4307-8b40-fad47bdad8f8": {
+          "x": -2720,
+          "y": 80
+        },
+        "520c68cf-83b3-4e4b-85d6-7fd58d51f3db": {
+          "x": -3120,
+          "y": 80
+        },
+        "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": {
+          "x": -3120,
+          "y": -140
+        },
+        "d808cf82-7154-482f-bfdf-a14b8117273f": {
+          "x": -3240,
+          "y": -340
+        }
+      }
+    },
+    "20666b95-3487-4620-bf9e-a398c5a0e921": {
+      "type": "entity",
+      "label": {
+        "de": "",
+        "universal": "Carl von Linné"
+      }
+    },
+    "f2648627-a752-47de-bd66-eebe895221ba": {
+      "type": "entity",
+      "label": {
+        "en": "1782"
+      },
+      "class": "cfd2d742-b4a2-4161-ae4d-155846a96abb"
+    },
+    "cfd2d742-b4a2-4161-ae4d-155846a96abb": {
+      "type": "entity",
+      "label": {
+        "en": "year"
+      }
+    },
+    "020e34a4-5aa5-450c-8431-b41c348ec6fd": {
+      "type": "entity",
+      "label": {
+        "en": "Mauritia"
+      },
+      "class": "2c97f074-9694-4972-b05d-e329f2c33015"
+    },
+    "2c97f074-9694-4972-b05d-e329f2c33015": {
+      "type": "entity",
+      "label": {
+        "en": "genus",
+        "de": "Gattung",
+        "pt": "gênero"
+      }
+    },
+    "41002595-a393-487e-acb8-365c1811c50a": {
+      "type": "entity",
+      "label": {
+        "en": "species",
+        "de": "Art",
+        "pt": "espécie"
+      }
+    },
+    "c205c6d1-04cf-4e82-b7dd-2d180cab1e72": {
+      "type": "entity",
+      "label": {
+        "en": "flexuosa"
+      },
+      "class": "41002595-a393-487e-acb8-365c1811c50a"
+    },
+    "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": {
+      "type": "entity",
+      "label": {
+        "en": "zigzag-shaped branches",
+        "de": "zickzackförmige Zweige",
+        "pt": "ramos em ziguezague"
+      }
+    },
+    "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": {
+      "type": "entity",
+      "label": {
+        "en": "female inflorescences",
+        "de": "weiblichen Blütenstände",
+        "pt": "inflorescências femininas"
+      }
+    },
+    "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe": {
+      "type": "entity",
+      "label": {
+        "en": "Johann Moritz von Nassau-Siegen"
+      }
+    },
+    "5cd02631-e1eb-4702-8255-1f8d9ca566ba": {
+      "type": "entity",
+      "label": {
+        "en": "Dutch colonialism",
+        "de": "niederländischen Kolonialismus",
+        "pt": "Colonialismo holandês"
+      }
+    },
+    "b85b2812-e25a-437d-ae6b-385ac00a718f": {
+      "type": "entity",
+      "label": {
+        "en": "South America",
+        "de": "Südamerika",
+        "pt": "Ámérica do Sul"
+      }
+    },
+    "40c3f84d-66d7-4659-9646-e034d3f2b0b9": {
+      "type": "entity",
+      "label": {
+        "en": "Dutch West India Company",
+        "pt": "Companhia Holandesa das Índias Ocidentais",
+        "de": "niederländische Westindien-Kompanie"
+      }
+    },
+    "39554d8f-c4c3-4c26-b6c4-f02b91abb51a": {
+      "type": "entity",
+      "label": {
+        "en": "",
+        "universal": "1636 – 1644 "
+      }
+    },
+    "c5bfc8c3-4917-4cfb-840f-16d2e73298ca": {
+      "type": "entity",
+      "label": {
+        "de": "wissenschaftlichen Erforschung",
+        "en": "scientific exploration",
+        "pt": "pesquisa científica"
+      }
+    },
+    "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": {
+      "type": "entity",
+      "label": {
+        "de": "Brasilien",
+        "pt": "Brasil",
+        "en": "Brazil"
+      }
+    },
+    "f035fbff-4442-4fd9-88cb-ac03185085a6": {
+      "type": "entity",
+      "label": {
+        "en": "economic development",
+        "de": "wirtschaftliche Entwicklung",
+        "pt": "desenvolvimento econômico"
+      }
+    },
+    "46fd0e60-1fe6-4307-8b40-fad47bdad8f8": {
+      "type": "entity",
+      "label": {
+        "en": "cultivation of sugar cane",
+        "de": "Anbau von Zuckerrohr",
+        "pt": "cultivo de cana-de-açúcar"
+      }
+    },
+    "520c68cf-83b3-4e4b-85d6-7fd58d51f3db": {
+      "type": "entity",
+      "label": {
+        "pt": "produção de açúcar",
+        "en": "sugar production",
+        "de": "Zuckerproduktion"
+      }
+    },
+    "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": {
+      "type": "entity",
+      "label": {
+        "en": "enslaved people",
+        "de": "versklavte Menschen",
+        "pt": "pessoas escravizadas"
+      }
+    },
+    "d808cf82-7154-482f-bfdf-a14b8117273f": {
+      "type": "entity",
+      "label": {
+        "en": "plantation",
+        "de": "Plantage",
+        "pt": "plantação"
+      }
     }
   },
   "edges": [
@@ -7495,7 +7779,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "ae117e32-5b11-44cc-b65e-e16bbb20203d",
       "label": {
-        "en": "belongs to"
+        "en": "part of",
+        "pt": "faz parte do",
+        "de": "ist Teil der"
       }
     },
     {
@@ -7507,7 +7793,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "7f374606-83e7-44d0-a9d4-8eee7d45f2fd",
       "label": {
-        "en": "belongs to"
+        "en": "part of",
+        "pt": "faz parte do",
+        "de": "ist Teil der"
       }
     },
     {
@@ -8103,7 +8391,9 @@
       "graph": "8c54c09e-e000-4878-a807-a82a19132ba1",
       "id": "1a6d56f8-668e-4f4b-b8db-410204ced24c",
       "label": {
-        "en": "are part of"
+        "en": "part of",
+        "de": "ist Teil der",
+        "pt": "faz parte do"
       }
     },
     {
@@ -8115,7 +8405,9 @@
       "graph": "8c54c09e-e000-4878-a807-a82a19132ba1",
       "id": "93a005be-d50f-4c80-a3bc-5e83789e5eef",
       "label": {
-        "en": "are part of"
+        "en": "part of",
+        "de": "ist Teil der",
+        "pt": "faz parte do"
       }
     },
     {
@@ -8127,7 +8419,9 @@
       "graph": "8c54c09e-e000-4878-a807-a82a19132ba1",
       "id": "b3b704c1-831d-4028-89ec-a84d640ab216",
       "label": {
-        "en": "are part of"
+        "en": "part of",
+        "de": "ist Teil der",
+        "pt": "faz parte do"
       }
     },
     {
@@ -8826,7 +9120,9 @@
       "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
       "id": "9ef3a5d2-3060-411e-a87d-869e90645ec7",
       "label": {
-        "en": "climbs on"
+        "en": "climbs on",
+        "de": "klettert auf",
+        "pt": "sobe"
       }
     },
     {
@@ -10197,7 +10493,387 @@
       "arrow": "→",
       "graph": "0a838d76-504e-4aa1-bd75-49a6791a801f",
       "id": "7a9cbe25-754d-40d2-94e3-ffe6daad6a1d"
+    },
+    {
+      "nodes": [
+        "1108c8a3-6af6-4c29-b490-e75c948df002",
+        "66ec6c88-8a75-4b24-a570-973cbf43436e"
+      ],
+      "arrow": "↔",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "d5d9e46b-a77e-414f-9dbb-5612c4f08bf0",
+      "label": {
+        "en": "corresponds to",
+        "de": "entspricht",
+        "pt": "corresponde a"
+      }
+    },
+    {
+      "nodes": [
+        "1108c8a3-6af6-4c29-b490-e75c948df002",
+        "1108c8a3-6af6-4c29-b490-e75c948df002"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "915d4514-ee2b-4b25-b81a-563830bd9a91"
+    },
+    {
+      "nodes": [
+        "20666b95-3487-4620-bf9e-a398c5a0e921",
+        "1108c8a3-6af6-4c29-b490-e75c948df002"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "7cf02d48-e86b-4080-8f65-25681111780d",
+      "label": {
+        "en": "wrote species description of",
+        "pt": "é o primeiro descritor científico",
+        "de": "ist Erstbeschreiber der"
+      }
+    },
+    {
+      "nodes": [
+        "20666b95-3487-4620-bf9e-a398c5a0e921",
+        "20666b95-3487-4620-bf9e-a398c5a0e921"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "6524271d-5466-4b38-a7a0-5bdacca137cf"
+    },
+    {
+      "nodes": [
+        "20666b95-3487-4620-bf9e-a398c5a0e921",
+        "20666b95-3487-4620-bf9e-a398c5a0e921"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "9732a4bd-dff9-4feb-b77d-c68eb9ea10f2"
+    },
+    {
+      "nodes": [
+        "1108c8a3-6af6-4c29-b490-e75c948df002",
+        "f2648627-a752-47de-bd66-eebe895221ba"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "01926ce1-a293-4288-8c84-0fc1e89bb59f",
+      "label": {
+        "en": "in the year",
+        "de": "im Jahre",
+        "pt": "no ano"
+      }
+    },
+    {
+      "nodes": [
+        "1108c8a3-6af6-4c29-b490-e75c948df002",
+        "020e34a4-5aa5-450c-8431-b41c348ec6fd"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "9581d158-d3a1-4dce-9a1a-eefdb37cd8f2",
+      "label": {
+        "de": "Name bildet sich aus",
+        "en": "name consists of ",
+        "pt": "nome se forma de"
+      }
+    },
+    {
+      "nodes": [
+        "1108c8a3-6af6-4c29-b490-e75c948df002",
+        "c205c6d1-04cf-4e82-b7dd-2d180cab1e72"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "121e0bef-0a7d-43b3-9e06-d773073fc0ad",
+      "label": {
+        "en": "name consists of ",
+        "de": "Name bildet sich aus",
+        "pt": "nome se forma de"
+      }
+    },
+    {
+      "nodes": [
+        "c205c6d1-04cf-4e82-b7dd-2d180cab1e72",
+        "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "215be0ea-7b44-41f3-8ce4-a7db8406d39a",
+      "label": {
+        "en": "refers to",
+        "de": "bezieht sich auf",
+        "pt": "refere-se a"
+      }
+    },
+    {
+      "nodes": [
+        "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9",
+        "6b1c8612-f7e2-4b27-86b9-f5f5434b8417"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "bb139741-7289-4180-b45c-e2fea05b6c3c",
+      "label": {
+        "en": "of the",
+        "de": "der",
+        "pt": "de"
+      }
+    },
+    {
+      "nodes": [
+        "020e34a4-5aa5-450c-8431-b41c348ec6fd",
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "024babda-b8c3-4591-94a8-d6be79b88887",
+      "label": {
+        "de": "zur Ehrung von",
+        "en": "honoring",
+        "pt": "em homenagem a"
+      }
+    },
+    {
+      "nodes": [
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe",
+        "5cd02631-e1eb-4702-8255-1f8d9ca566ba"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "8fb08a1d-8d97-4081-aec7-d40f2d10eca1",
+      "label": {
+        "en": "important actor of",
+        "de": "wichtiger Akteur des",
+        "pt": "importante ator do"
+      }
+    },
+    {
+      "nodes": [
+        "5cd02631-e1eb-4702-8255-1f8d9ca566ba",
+        "b85b2812-e25a-437d-ae6b-385ac00a718f"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "3834fa72-66a6-43de-b9be-57e6c20fdd45",
+      "label": {
+        "en": "in",
+        "de": "in",
+        "pt": "na"
+      }
+    },
+    {
+      "nodes": [
+        "1108c8a3-6af6-4c29-b490-e75c948df002",
+        "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278"
+      ],
+      "arrow": "↔",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "63d94e8f-c2dd-43d7-862d-37752dda9f34",
+      "label": {
+        "en": "correspond to",
+        "pt": "corresponde a",
+        "de": "entspricht"
+      }
+    },
+    {
+      "nodes": [
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe",
+        "40c3f84d-66d7-4659-9646-e034d3f2b0b9"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "dc58f7d8-c9e9-4bcc-adcb-5e7fa4f53cb1",
+      "label": {
+        "en": "was Governor General of the",
+        "de": "war Generalgouverneur der",
+        "pt": "foi governador geral"
+      }
+    },
+    {
+      "nodes": [
+        "40c3f84d-66d7-4659-9646-e034d3f2b0b9",
+        "40c3f84d-66d7-4659-9646-e034d3f2b0b9"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "1aec8ec0-b245-4fb0-a748-2351c30b2f55"
+    },
+    {
+      "nodes": [
+        "40c3f84d-66d7-4659-9646-e034d3f2b0b9",
+        "39554d8f-c4c3-4c26-b6c4-f02b91abb51a"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "9014bb63-98fa-4016-b274-573a0d2f9e92",
+      "label": {
+        "en": "from",
+        "de": "von",
+        "pt": "de"
+      }
+    },
+    {
+      "nodes": [
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe",
+        "c5bfc8c3-4917-4cfb-840f-16d2e73298ca"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "e6687cf0-75df-4400-847a-dabedc982258",
+      "label": {
+        "de": "förderte",
+        "en": "promoted",
+        "pt": "promoveu o"
+      }
+    },
+    {
+      "nodes": [
+        "c5bfc8c3-4917-4cfb-840f-16d2e73298ca",
+        "c5bfc8c3-4917-4cfb-840f-16d2e73298ca"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "985e4b98-01e5-46a4-a979-470edbdf1bce"
+    },
+    {
+      "nodes": [
+        "c5bfc8c3-4917-4cfb-840f-16d2e73298ca",
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "c68be571-0ea0-45f2-ba57-295615235f30",
+      "label": {
+        "de": "von",
+        "en": "of",
+        "pt": "do"
+      }
+    },
+    {
+      "nodes": [
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e",
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "d6c1c1de-c8af-47ea-b627-e16e1e047e01"
+    },
+    {
+      "nodes": [
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e",
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "35e38038-b9ff-4cd6-b759-47913f4cfda9"
+    },
+    {
+      "nodes": [
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe",
+        "f035fbff-4442-4fd9-88cb-ac03185085a6"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "f41d6435-4087-4442-b451-c0a0d1e623f2",
+      "label": {
+        "en": "promoted",
+        "de": "förderte",
+        "pt": "promoveu o"
+      }
+    },
+    {
+      "nodes": [
+        "f035fbff-4442-4fd9-88cb-ac03185085a6",
+        "5cd02631-e1eb-4702-8255-1f8d9ca566ba"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "f5dc3e8c-8113-40dd-a234-1c89f36c895d",
+      "label": {
+        "en": "of the",
+        "de": "des",
+        "pt": "da"
+      }
+    },
+    {
+      "nodes": [
+        "f035fbff-4442-4fd9-88cb-ac03185085a6",
+        "46fd0e60-1fe6-4307-8b40-fad47bdad8f8"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "87ce1415-460b-4fbd-9786-d4ba57c1e401",
+      "label": {
+        "en": "through the",
+        "de": "durch die",
+        "pt": "através do"
+      }
+    },
+    {
+      "nodes": [
+        "46fd0e60-1fe6-4307-8b40-fad47bdad8f8",
+        "46fd0e60-1fe6-4307-8b40-fad47bdad8f8"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "be08da65-07af-4586-ae26-c47373a836ef"
+    },
+    {
+      "nodes": [
+        "46fd0e60-1fe6-4307-8b40-fad47bdad8f8",
+        "520c68cf-83b3-4e4b-85d6-7fd58d51f3db"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "627b294c-2527-4001-b507-1b319173dd71",
+      "label": {
+        "en": "increased",
+        "de": "erhöhte",
+        "pt": "aumentou"
+      }
+    },
+    {
+      "nodes": [
+        "46fd0e60-1fe6-4307-8b40-fad47bdad8f8",
+        "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "3a49772a-993c-4c89-b6c1-0b0c43a2408c",
+      "label": {
+        "pt": "por",
+        "de": "durch",
+        "en": "by"
+      }
+    },
+    {
+      "nodes": [
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe",
+        "d808cf82-7154-482f-bfdf-a14b8117273f"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "be4752f3-e382-4310-a4bf-c380a01f2e38",
+      "label": {
+        "en": "owned a",
+        "de": "besaß",
+        "pt": "possuía uma"
+      }
+    },
+    {
+      "nodes": [
+        "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe",
+        "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94"
+      ],
+      "arrow": "→",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "28a8679e-e0f0-4056-ba25-2476a41e06d6",
+      "label": {
+        "en": "is believed to have had",
+        "de": "besaß vermutlich",
+        "pt": "provavelmente possuído"
+      }
     }
   ],
-  "exported": 1731416685877
+  "exported": 1731426781915
 }
