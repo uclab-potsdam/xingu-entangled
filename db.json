@@ -95,10 +95,6 @@
           "x": -680,
           "y": 180
         },
-        "7af84e7f-3cd9-481b-b1aa-7df8ebb0a62c": {
-          "x": 140,
-          "y": 200
-        },
         "a30dba22-474d-415f-a7ea-3515f7b61439": {
           "x": -300,
           "y": -540
@@ -108,8 +104,12 @@
           "y": -340
         },
         "1b2fa3bc-1c7e-4ac5-a7c4-e9e1ea83437a": {
-          "x": -660,
-          "y": -120
+          "x": -560,
+          "y": -80
+        },
+        "0f3f620c-1c72-4787-b87d-7a7be5ac4b20": {
+          "x": 320,
+          "y": 380
         }
       },
       "media": {
@@ -358,6 +358,12 @@
             "x2": -38.787512049780226,
             "y2": 415.2354330357912
           }
+        },
+        {
+          "time": 8.009665,
+          "states": {
+            "516fa5e8-cb8f-4618-b0ce-95a821c9144d": "hide"
+          }
         }
       ],
       "image": "xingu:using kusu/using kusu.jpg"
@@ -579,7 +585,7 @@
         },
         "923768dc-52bf-46d8-a9d6-a17835c7bb32": {
           "x": -200,
-          "y": 320
+          "y": 380
         },
         "5b421e87-228e-4be0-822a-502d4ef1223e": {
           "x": 120,
@@ -628,6 +634,22 @@
         "656d55d6-9db7-42dc-bd1c-406168127acb": {
           "x": 900,
           "y": 160
+        },
+        "1d31d5a1-7277-4e82-bf51-aac5b5e21795": {
+          "x": -20,
+          "y": 240
+        },
+        "7ad799f1-5481-4723-9765-944b9af2d461": {
+          "x": 120,
+          "y": -320
+        },
+        "a3992788-fb1c-441c-ab12-715b83c74bf4": {
+          "x": 360,
+          "y": -220
+        },
+        "6f3c9424-f2dc-4db7-9127-d485dc2342fd": {
+          "x": 200,
+          "y": 340
         }
       },
       "media": {
@@ -783,10 +805,10 @@
         {
           "time": 214.272288,
           "bounds": {
-            "x1": -386.6054440797645,
-            "y1": -432.99780210165716,
-            "x2": 1115.0250795911322,
-            "y2": 631.2646078786871
+            "x1": -403.273298433206,
+            "y1": -583.3567185217664,
+            "x2": 1144.7284606161763,
+            "y2": 718.9304755991426
           },
           "states": {
             "c39061bd-de63-4984-ad30-3d52dbbea062": "default",
@@ -5919,13 +5941,6 @@
         "pt": "invertebrados"
       }
     },
-    "7af84e7f-3cd9-481b-b1aa-7df8ebb0a62c": {
-      "type": "image",
-      "file": "xingu:using%20kusu/using%20kusu%20fish.png",
-      "label": {
-        "universal": "using%20kusu/using%20kusu%20fish"
-      }
-    },
     "a30dba22-474d-415f-a7ea-3515f7b61439": {
       "type": "image",
       "file": "xingu:using%20kusu/using%20kusu%20timbo.png",
@@ -6170,11 +6185,11 @@
           "y": -200
         },
         "5cd02631-e1eb-4702-8255-1f8d9ca566ba": {
-          "x": -2400,
+          "x": -2560,
           "y": 40
         },
         "b85b2812-e25a-437d-ae6b-385ac00a718f": {
-          "x": -2400,
+          "x": -2580,
           "y": 200
         },
         "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": {
@@ -6182,42 +6197,251 @@
           "y": -820
         },
         "40c3f84d-66d7-4659-9646-e034d3f2b0b9": {
-          "x": -2060,
-          "y": -40
+          "x": -2160,
+          "y": 40
         },
         "39554d8f-c4c3-4c26-b6c4-f02b91abb51a": {
-          "x": -1940,
-          "y": 100
+          "x": -2120,
+          "y": 200
         },
         "c5bfc8c3-4917-4cfb-840f-16d2e73298ca": {
-          "x": -2600,
-          "y": -340
+          "x": -2620,
+          "y": -380
         },
         "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": {
-          "x": -2780,
-          "y": -480
+          "x": -2620,
+          "y": -500
         },
         "f035fbff-4442-4fd9-88cb-ac03185085a6": {
-          "x": -2660,
-          "y": -60
+          "x": -2760,
+          "y": -100
         },
         "46fd0e60-1fe6-4307-8b40-fad47bdad8f8": {
-          "x": -2720,
-          "y": 80
+          "x": -2960,
+          "y": 20
         },
         "520c68cf-83b3-4e4b-85d6-7fd58d51f3db": {
-          "x": -3120,
-          "y": 80
+          "x": -3300,
+          "y": 140
         },
         "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": {
-          "x": -3120,
-          "y": -140
+          "x": -2960,
+          "y": -180
         },
         "d808cf82-7154-482f-bfdf-a14b8117273f": {
-          "x": -3240,
+          "x": -2980,
           "y": -340
+        },
+        "0a838d76-504e-4aa1-bd75-49a6791a801f": {
+          "x": -1780,
+          "y": -840
+        },
+        "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
+          "x": -2560,
+          "y": -820
         }
-      }
+      },
+      "marker": [
+        {
+          "time": 0,
+          "states": {
+            "520c68cf-83b3-4e4b-85d6-7fd58d51f3db": "hide",
+            "46fd0e60-1fe6-4307-8b40-fad47bdad8f8": "hide",
+            "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": "hide",
+            "f035fbff-4442-4fd9-88cb-ac03185085a6": "hide",
+            "5cd02631-e1eb-4702-8255-1f8d9ca566ba": "hide",
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "hide",
+            "39554d8f-c4c3-4c26-b6c4-f02b91abb51a": "hide",
+            "40c3f84d-66d7-4659-9646-e034d3f2b0b9": "hide",
+            "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe": "hide",
+            "c5bfc8c3-4917-4cfb-840f-16d2e73298ca": "hide",
+            "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": "hide",
+            "d808cf82-7154-482f-bfdf-a14b8117273f": "hide",
+            "020e34a4-5aa5-450c-8431-b41c348ec6fd": "hide",
+            "c205c6d1-04cf-4e82-b7dd-2d180cab1e72": "hide",
+            "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": "hide",
+            "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": "hide",
+            "f2648627-a752-47de-bd66-eebe895221ba": "hide",
+            "20666b95-3487-4620-bf9e-a398c5a0e921": "hide",
+            "66ec6c88-8a75-4b24-a570-973cbf43436e": "highlight",
+            "1108c8a3-6af6-4c29-b490-e75c948df002": "highlight",
+            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "hide",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide"
+          },
+          "bounds": {
+            "x1": -2686.786169564079,
+            "y1": -1015.7394693966838,
+            "x2": -1619.5817294312828,
+            "y2": -278.7344228693319
+          }
+        },
+        {
+          "time": 19.302324,
+          "states": {
+            "20666b95-3487-4620-bf9e-a398c5a0e921": "highlight",
+            "66ec6c88-8a75-4b24-a570-973cbf43436e": "default"
+          },
+          "bounds": {
+            "x1": -2676.7521423027815,
+            "y1": -986.9141549970624,
+            "x2": -1638.6320895927963,
+            "y2": -279.2089648786913
+          }
+        },
+        {
+          "time": 38.883825,
+          "states": {
+            "f2648627-a752-47de-bd66-eebe895221ba": "highlight"
+          }
+        },
+        {
+          "time": 48.123422,
+          "bounds": {
+            "x1": -2692.0693598617663,
+            "y1": -989.3235179082483,
+            "x2": -1614.2985391335956,
+            "y2": -228.54411504130437
+          },
+          "states": {
+            "020e34a4-5aa5-450c-8431-b41c348ec6fd": "highlight",
+            "20666b95-3487-4620-bf9e-a398c5a0e921": "default",
+            "f2648627-a752-47de-bd66-eebe895221ba": "default",
+            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "hide",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide"
+          }
+        },
+        {
+          "time": 52.399342,
+          "states": {
+            "c205c6d1-04cf-4e82-b7dd-2d180cab1e72": "highlight"
+          }
+        },
+        {
+          "time": 63.932755,
+          "states": {
+            "020e34a4-5aa5-450c-8431-b41c348ec6fd": "default",
+            "1108c8a3-6af6-4c29-b490-e75c948df002": "default",
+            "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": "highlight",
+            "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": "highlight"
+          },
+          "bounds": {
+            "x1": -2494.227765430402,
+            "y1": -703.0449168853679,
+            "x2": -1542.968175495694,
+            "y2": 14.601452199650529
+          }
+        },
+        {
+          "time": 71.401078,
+          "states": {
+            "020e34a4-5aa5-450c-8431-b41c348ec6fd": "highlight",
+            "c205c6d1-04cf-4e82-b7dd-2d180cab1e72": "default",
+            "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": "default",
+            "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": "default",
+            "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe": "highlight"
+          },
+          "bounds": {
+            "x1": -2654.3247802683054,
+            "y1": -728.6680923463182,
+            "x2": -1457.998138065537,
+            "y2": 246.6810172202699
+          }
+        },
+        {
+          "time": 76.410854,
+          "states": {
+            "5cd02631-e1eb-4702-8255-1f8d9ca566ba": "highlight",
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "highlight",
+            "020e34a4-5aa5-450c-8431-b41c348ec6fd": "default"
+          }
+        },
+        {
+          "time": 83.434279,
+          "states": {
+            "40c3f84d-66d7-4659-9646-e034d3f2b0b9": "highlight",
+            "39554d8f-c4c3-4c26-b6c4-f02b91abb51a": "highlight",
+            "5cd02631-e1eb-4702-8255-1f8d9ca566ba": "default",
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "default"
+          }
+        },
+        {
+          "time": 100.951771,
+          "states": {
+            "c5bfc8c3-4917-4cfb-840f-16d2e73298ca": "highlight",
+            "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": "highlight",
+            "40c3f84d-66d7-4659-9646-e034d3f2b0b9": "default",
+            "39554d8f-c4c3-4c26-b6c4-f02b91abb51a": "default"
+          },
+          "bounds": {
+            "x1": -3090.565060923578,
+            "y1": -781.5811294515911,
+            "x2": -1888.7354380081176,
+            "y2": 112.67124399735347
+          }
+        },
+        {
+          "time": 113.433088,
+          "states": {
+            "f035fbff-4442-4fd9-88cb-ac03185085a6": "highlight",
+            "c5bfc8c3-4917-4cfb-840f-16d2e73298ca": "default",
+            "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": "default"
+          }
+        },
+        {
+          "time": 117.111169,
+          "states": {
+            "5cd02631-e1eb-4702-8255-1f8d9ca566ba": "highlight"
+          }
+        },
+        {
+          "time": 121.202616,
+          "states": {
+            "46fd0e60-1fe6-4307-8b40-fad47bdad8f8": "highlight",
+            "5cd02631-e1eb-4702-8255-1f8d9ca566ba": "default"
+          }
+        },
+        {
+          "time": 124.998367,
+          "bounds": {
+            "x1": -3409.0114249445437,
+            "y1": -658.036776294258,
+            "x2": -2009.420776347018,
+            "y2": 325.9330356893333
+          },
+          "states": {
+            "520c68cf-83b3-4e4b-85d6-7fd58d51f3db": "highlight"
+          }
+        },
+        {
+          "time": 134.187862,
+          "states": {
+            "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": "highlight",
+            "520c68cf-83b3-4e4b-85d6-7fd58d51f3db": "default"
+          }
+        },
+        {
+          "time": 151.530509,
+          "states": {
+            "46fd0e60-1fe6-4307-8b40-fad47bdad8f8": "default",
+            "f035fbff-4442-4fd9-88cb-ac03185085a6": "default",
+            "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": "default",
+            "d808cf82-7154-482f-bfdf-a14b8117273f": "highlight"
+          }
+        },
+        {
+          "time": 153.084421,
+          "states": {
+            "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": "highlight"
+          }
+        },
+        {
+          "time": 11.06795,
+          "states": {
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "default",
+            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "default"
+          }
+        }
+      ]
     },
     "20666b95-3487-4620-bf9e-a398c5a0e921": {
       "type": "entity",
@@ -6376,6 +6600,41 @@
         "en": "plantation",
         "de": "Plantage",
         "pt": "plantação"
+      }
+    },
+    "0f3f620c-1c72-4787-b87d-7a7be5ac4b20": {
+      "type": "image",
+      "file": "xingu:using%20kusu/using%20kusu%20glass%20tetra.png",
+      "label": {
+        "universal": "using%20kusu/using%20kusu%20glass%20tetra"
+      }
+    },
+    "1d31d5a1-7277-4e82-bf51-aac5b5e21795": {
+      "type": "image",
+      "file": "xingu:collecting%20ambe/collectingAmbe_Masinua.png",
+      "label": {
+        "universal": "collecting%20ambe/collectingAmbe_Masinua"
+      }
+    },
+    "7ad799f1-5481-4723-9765-944b9af2d461": {
+      "type": "image",
+      "file": "xingu:collecting%20ambe/collectingAmbe_philodendron%20bw.png",
+      "label": {
+        "universal": "collecting%20ambe/collectingAmbe_philodendron%20bw"
+      }
+    },
+    "a3992788-fb1c-441c-ab12-715b83c74bf4": {
+      "type": "image",
+      "file": "xingu:collecting%20ambe/collecting%20ambe_graphic%202.png",
+      "label": {
+        "universal": "collecting%20ambe/collecting%20ambe_graphic%202"
+      }
+    },
+    "6f3c9424-f2dc-4db7-9127-d485dc2342fd": {
+      "type": "image",
+      "file": "xingu:collecting%20ambe/collecting%20ambe_graphic%201.png",
+      "label": {
+        "universal": "collecting%20ambe/collecting%20ambe_graphic%201"
       }
     }
   },
@@ -10873,7 +11132,21 @@
         "de": "besaß vermutlich",
         "pt": "provavelmente possuído"
       }
+    },
+    {
+      "nodes": [
+        "66ec6c88-8a75-4b24-a570-973cbf43436e",
+        "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278"
+      ],
+      "arrow": "↔",
+      "graph": "6b05d29c-c9db-4083-9a79-731ce005a7ab",
+      "id": "47fa1131-a8ad-4488-b12d-dc911910ecbe",
+      "label": {
+        "en": "corresponds to",
+        "de": "entspricht",
+        "pt": "corresponde a"
+      }
     }
   ],
-  "exported": 1731426781915
+  "exported": 1731508643583
 }
