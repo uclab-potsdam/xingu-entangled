@@ -5637,7 +5637,11 @@
           }
         }
       ],
-      "index": true
+      "index": true,
+      "style": {
+        "--color-background": "#1C6959",
+        "--color-edge": "white"
+      }
     },
     "fa5502bd-cc0e-4b8f-8aca-077f7f5bf25a": {
       "type": "entity",
