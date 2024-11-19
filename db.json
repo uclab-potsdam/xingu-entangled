@@ -1075,12 +1075,32 @@
           "y": -20
         },
         "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": {
-          "x": 480,
-          "y": -420
+          "x": 1280,
+          "y": -20
         },
         "92de9497-6f4a-4ebe-8382-36aacf609952": {
           "x": 780,
           "y": 180
+        },
+        "93026117-b255-4765-9aa8-a62a08bf78a6": {
+          "x": -440,
+          "y": 340
+        },
+        "3b7b34aa-421b-4056-b6e5-3b79a2797f8f": {
+          "x": 380,
+          "y": -560
+        },
+        "cb3645fc-b2f4-40c1-80d6-232d1f4486d9": {
+          "x": 320,
+          "y": 480
+        },
+        "fcbe8a8c-c399-4587-843e-5b5a0392acb6": {
+          "x": 340,
+          "y": -540
+        },
+        "c7342255-8433-48fb-aeb3-3d45007a59a8": {
+          "x": 400,
+          "y": 360
         }
       },
       "media": {
@@ -1647,7 +1667,7 @@
         },
         "30f7640f-cb1a-45ff-8af9-10190103cef3": {
           "x": -20,
-          "y": 140
+          "y": 160
         },
         "f08d9332-49fe-46d9-afa1-8f0e611c7692": {
           "x": 240,
@@ -1658,28 +1678,36 @@
           "y": -100
         },
         "604c66b6-d12e-419a-a3c4-c45836316dc6": {
-          "x": 400,
+          "x": 440,
           "y": -100
         },
         "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": {
-          "x": 560,
-          "y": 0
+          "x": 640,
+          "y": 40
         },
         "13f03b38-91d6-4c69-a487-1a740a8b8351": {
-          "x": 100,
-          "y": -380
+          "x": 220,
+          "y": -320
         },
         "9bed167f-0595-424b-974a-8ea075cf6eeb": {
-          "x": 100,
-          "y": -240
+          "x": 60,
+          "y": -200
         },
         "68585357-ebe4-4355-bfd4-338be23c8792": {
-          "x": 480,
-          "y": 140
+          "x": 380,
+          "y": 60
         },
         "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": {
           "x": -600,
           "y": -220
+        },
+        "7acd1842-1bbf-4754-ad0d-791f60590f5d": {
+          "x": 460,
+          "y": -260
+        },
+        "a9846cca-415d-456a-bcc5-654e2671f8b2": {
+          "x": -220,
+          "y": 240
         }
       },
       "media": {
@@ -1709,7 +1737,11 @@
             "9bed167f-0595-424b-974a-8ea075cf6eeb": "hide",
             "604c66b6-d12e-419a-a3c4-c45836316dc6": "hide",
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "hide",
-            "68585357-ebe4-4355-bfd4-338be23c8792": "hide"
+            "68585357-ebe4-4355-bfd4-338be23c8792": "hide",
+            "1d32124d-8d12-474a-8770-283ab5d95a80": "hide",
+            "03b88c2a-369e-4a12-bb44-08c28147ac0e": "hide",
+            "a9846cca-415d-456a-bcc5-654e2671f8b2": "hide",
+            "7acd1842-1bbf-4754-ad0d-791f60590f5d": "hide"
           },
           "bounds": {
             "x1": -457.90132036136214,
@@ -1746,13 +1778,15 @@
           "time": 49.589981,
           "states": {
             "341a06c6-6e06-40ea-8353-6b532bd327ee": "highlight",
-            "64962446-0a02-44bb-b6bc-e5970138ed41": "default"
+            "64962446-0a02-44bb-b6bc-e5970138ed41": "default",
+            "1d32124d-8d12-474a-8770-283ab5d95a80": "default",
+            "03b88c2a-369e-4a12-bb44-08c28147ac0e": "default"
           },
           "bounds": {
-            "x1": -589.2583104871075,
-            "y1": -435.4213617734816,
-            "x2": 297.641581487791,
-            "y2": 301.04565766880137
+            "x1": -596.3616831145697,
+            "y1": -461.4536608819799,
+            "x2": 350.93916734250377,
+            "y2": 396.5973573832701
           }
         },
         {
@@ -1793,10 +1827,10 @@
         {
           "time": 77.181861,
           "bounds": {
-            "x1": -302.6863574019408,
-            "y1": -438.0146641922553,
-            "x2": 680.064640545027,
-            "y2": 385.4942739021946
+            "x1": -322.6525526825978,
+            "y1": -483.4651434887736,
+            "x2": 771.1358164513358,
+            "y2": 389.8013770294476
           },
           "states": {
             "bcfb0cea-8799-499d-902f-35a1b5d0e461": "default",
@@ -6636,6 +6670,55 @@
       "label": {
         "universal": "collecting%20ambe/collecting%20ambe_graphic%201"
       }
+    },
+    "93026117-b255-4765-9aa8-a62a08bf78a6": {
+      "type": "image",
+      "file": "xe:storyOfUhi_burritipalm.png",
+      "label": {
+        "universal": "storyOfUhi_burritipalm"
+      }
+    },
+    "7acd1842-1bbf-4754-ad0d-791f60590f5d": {
+      "type": "image",
+      "file": "xingu:using%20utu/using%20utu_Bubbles.png",
+      "label": {
+        "universal": "using%20utu/using%20utu_Bubbles"
+      }
+    },
+    "a9846cca-415d-456a-bcc5-654e2671f8b2": {
+      "type": "image",
+      "file": "xingu:using%20utu/using%20utu_utu.png",
+      "label": {
+        "universal": "using%20utu/using%20utu_utu"
+      }
+    },
+    "3b7b34aa-421b-4056-b6e5-3b79a2797f8f": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_background2.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_background2"
+      }
+    },
+    "cb3645fc-b2f4-40c1-80d6-232d1f4486d9": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_background.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_background"
+      }
+    },
+    "fcbe8a8c-c399-4587-843e-5b5a0392acb6": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_fish.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_fish"
+      }
+    },
+    "c7342255-8433-48fb-aeb3-3d45007a59a8": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_piranha.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_piranha"
+      }
     }
   },
   "edges": [
@@ -11148,5 +11231,5 @@
       }
     }
   ],
-  "exported": 1731508643583
+  "exported": 1732015220408
 }
