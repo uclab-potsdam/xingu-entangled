@@ -156,7 +156,9 @@
         }
       },
       "media": {
-        "file": "xingu:using kusu/using_kusu.mp4",
+        "file": {
+          "original": "xingu:using kusu/using_kusu.mp4"
+        },
         "subtitles": {
           "en": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_ENG.srt",
           "pt": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_PT.srt"
@@ -700,7 +702,9 @@
         }
       },
       "media": {
-        "file": "xingu:collecting ambe/collecting ambé.mp4",
+        "file": {
+          "original": "xingu:collecting ambe/collecting ambé.mp4"
+        },
         "subtitles": {
           "en": "xingu:collecting ambe/20220825_1_TL_1080p_23,976fps_Collecting Ambé_ENG.srt",
           "pt": "xingu:collecting ambe/20220825_1_TL_1080p_23,976fps_Collecting Ambé_PT.srt",
@@ -1155,7 +1159,9 @@
         }
       },
       "media": {
-        "file": "xingu:story of uhi/the Story Of Uhi.mp4",
+        "file": {
+          "original": "xingu:story of uhi/the Story Of Uhi.mp4"
+        },
         "subtitles": {
           "en": "xingu:story of uhi/20220901_2_TL_1080p_23,976fps_Kanu_Yamalui_The Story of Uhi_ENG.srt",
           "pt": "xingu:story of uhi/20220901_2_TL_1080p_23,976fps_Kanu_Yamalui_The Story of Uhi_PT.srt",
@@ -1779,7 +1785,9 @@
         }
       },
       "media": {
-        "file": "xe:using utu.mp4",
+        "file": {
+          "original": "xe:using utu.mp4"
+        },
         "subtitles": {
           "en": "xingu:using utu/20230709_1_TL_1080p_23,976fps_Yahila_About Using Utu_ENG.srt",
           "pt": "xingu:using utu/20230709_1_TL_1080p_23,976fps_Yahila_About Using Utu_PT.srt",
@@ -2475,7 +2483,9 @@
         }
       ],
       "media": {
-        "file": "xingu:making the fish trap/making the fish trap.mp4",
+        "file": {
+          "original": "xingu:making the fish trap/making the fish trap.mp4"
+        },
         "subtitles": {
           "en": "xingu:making the fish trap/20220825_27_1_TL_1080p_23,976fps_Making the Fish Trap_ENG.srt",
           "pt": "xingu:making the fish trap/20220825_27_1_TL_1080p_23,976fps_Making the Fish Trap_PT.srt",
@@ -2715,7 +2725,9 @@
         }
       },
       "media": {
-        "file": "xingu:uses of buriti/20230707_10_2_tl_1080p_23,976fps_uses_of_buriti_and_mats (1080p).mp4",
+        "file": {
+          "original": "xingu:uses of buriti/20230707_10_2_tl_1080p_23,976fps_uses_of_buriti_and_mats (1080p).mp4"
+        },
         "subtitles": {
           "en": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_ENG.srt",
           "pt": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_PT.srt"
@@ -3265,7 +3277,9 @@
         }
       },
       "media": {
-        "file": "xingu:collecting moriche/collecting buriti sprouts.mp4",
+        "file": {
+          "original": "xingu:collecting moriche/collecting buriti sprouts.mp4"
+        },
         "subtitles": {
           "en": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_ENG.srt",
           "pt": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_PT.srt"
@@ -3737,7 +3751,9 @@
           "en": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_ENG.srt",
           "pt": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_PT.srt"
         },
-        "file": "xingu:harvesting annatto/urucum saffron.mp4"
+        "file": {
+          "original": "xingu:harvesting annatto/urucum saffron.mp4"
+        }
       },
       "image": "xingu:harvesting annatto/harvesting annatto and turmeric.png",
       "marker": [
@@ -4141,7 +4157,10 @@
         }
       },
       "media": {
-        "file": "xingu:on gimi/20230712-13_1_tl_1080p_23,976fps_on_gimi_and_how_to_make_it (1080p).mp4",
+        "file": {
+          "original": "xingu:on gimi/20230712-13_1_tl_1080p_23,976fps_on_gimi_and_how_to_make_it (1080p).mp4",
+          "de": "xingu:on gimi/remove-once-dubbed-media-is-available.mp4"
+        },
         "subtitles": {
           "en": "xingu:on gimi/20230712-13_1_TL_On_Gimi_And_How_To_Make_It_ENG.srt",
           "pt": "xingu:on gimi/20230712-13_1_TL_On_Gimi_And_How_To_Make_It_PT.srt"
@@ -4649,7 +4668,9 @@
         }
       },
       "media": {
-        "file": "xingu:collecting for gimi/collecting for gimi.mp4",
+        "file": {
+          "original": "xingu:collecting for gimi/collecting for gimi.mp4"
+        },
         "subtitles": {
           "en": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_ENG.srt",
           "pt": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_PT.srt"
@@ -5211,7 +5232,9 @@
       },
       "image": "xingu:customs of mats/customs of mats.png",
       "media": {
-        "file": "xingu:customs of mats/customs of mats.mp4",
+        "file": {
+          "original": "xingu:customs of mats/customs of mats.mp4"
+        },
         "subtitles": {
           "en": "xingu:customs of mats/20230707-10_TL_The_Customs_and_The_Making_of_Mats_ENG.srt",
           "pt": "xingu:customs of mats/20230707-10_TL_The_Customs_and_The_Making_of_Mats_PT.srt"
@@ -5823,7 +5846,9 @@
         }
       },
       "media": {
-        "file": "xe:places.mp4"
+        "file": {
+          "original": "xe:places.mp4"
+        }
       },
       "marker": [],
       "index": true
@@ -5868,7 +5893,9 @@
       },
       "image": "xingu:owner of Kusu/owner of kusu.png",
       "media": {
-        "file": "xingu:owner of Kusu/20230709_12_1_tl_1080p_23,976fps_kanu_and_yahugi_ahasa,_the_owner_of_kusu (1080p).mp4",
+        "file": {
+          "original": "xingu:owner of Kusu/20230709_12_1_tl_1080p_23,976fps_kanu_and_yahugi_ahasa,_the_owner_of_kusu (1080p).mp4"
+        },
         "subtitles": {
           "en": "xingu:owner of Kusu/20230709_12_1_tl_1080p_23,976fps_kanu_and_yahugi_ahasa_the_owner_of_kusu_ENG.srt",
           "pt": "xingu:owner of Kusu/20230709_12_1_tl_1080p_23,976fps_kanu_and_yahugi_ahasa_the_owner_of_kusu_PT.srt"
@@ -6250,7 +6277,9 @@
       },
       "image": "xingu:Nils Buriti pollination/dispersal and pollination of buriti.png",
       "media": {
-        "file": "xingu:Nils Buriti pollination/dispersal and pollination of buriti.mp4",
+        "file": {
+          "original": "xingu:Nils Buriti pollination/dispersal and pollination of buriti.mp4"
+        },
         "subtitles": {
           "en": "xingu:Nils Buriti pollination/20240507_1_TL_1080p_23,976fps_Nils_BGBM_Buriti_Dispersal and Pollination_ENG.srt",
           "pt": "xingu:Nils buriti pollination/20240507_1_TL_1080p_23,976fps_Nils_BGBM_Buriti_Dispersal and Pollination_PT.srt"
@@ -6558,7 +6587,9 @@
         "en": "Moriche – Scientific Name and Collection History"
       },
       "media": {
-        "file": "xingu:Nils Buriti Scientific Name/Nils buriti scientific name.mp4",
+        "file": {
+          "original": "xingu:Nils Buriti Scientific Name/Nils buriti scientific name.mp4"
+        },
         "subtitles": {
           "en": "xingu:Nils Buriti Scientific Name/20240507_4_TL_1080p_23,976fps_Nils_BGBM_Buriti_Scientific Name and Collection History_EN.srt",
           "pt": "xingu:Nils Buriti Scientific Name/20240507_4_TL_1080p_23,976fps_Nils_BGBM_Buriti_Scientific Name and Collection History_PT.srt",
@@ -12841,5 +12872,5 @@
       "id": "3e309d4a-8e1a-4a4c-8ec2-fec811e740fd"
     }
   ],
-  "exported": 1732530298177
+  "exported": 1732532705394
 }
