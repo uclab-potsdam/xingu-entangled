@@ -1,4 +1,47 @@
 {
+  "config": {
+    "languages": {
+      "text": [
+        {
+          "key": "en",
+          "label": "English",
+          "short": "en"
+        },
+        {
+          "key": "de",
+          "label": "Deutsch",
+          "short": "de"
+        },
+        {
+          "key": "pt",
+          "label": "Português",
+          "short": "pt"
+        },
+        {
+          "key": "universal",
+          "label": "universal",
+          "selectable": false,
+          "short": "♥"
+        }
+      ],
+      "video": [
+        {
+          "key": "original",
+          "label": "Kuikuro (original)",
+          "short": "original"
+        },
+        {
+          "key": "de",
+          "label": "Deutsch",
+          "short": "de"
+        }
+      ]
+    },
+    "shorthands": {
+      "xingu": "https://amazoniafuturelab.fh-potsdam.de/media/xingu-entangled/_/",
+      "xe": "https://amazoniafuturelab.fh-potsdam.de/media/xingu-entangled/"
+    }
+  },
   "nodes": {
     "92300bf1-cfe7-4324-ba48-78a611441419": {
       "type": "entity",
@@ -5782,23 +5825,7 @@
       "media": {
         "file": "xe:places.mp4"
       },
-      "marker": [
-        {
-          "time": 0,
-          "states": {
-            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "hide",
-            "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide",
-            "68585357-ebe4-4355-bfd4-338be23c8792": "hide",
-            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide",
-            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
-            "656d55d6-9db7-42dc-bd1c-406168127acb": "hide",
-            "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": "hide",
-            "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": "hide",
-            "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": "hide",
-            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "hide"
-          }
-        }
-      ],
+      "marker": [],
       "index": true
     },
     "fa5502bd-cc0e-4b8f-8aca-077f7f5bf25a": {
@@ -12814,5 +12841,5 @@
       "id": "3e309d4a-8e1a-4a4c-8ec2-fec811e740fd"
     }
   ],
-  "exported": 1732530298176
+  "exported": 1732530298177
 }
