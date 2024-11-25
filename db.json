@@ -1133,21 +1133,9 @@
           "x": 780,
           "y": 180
         },
-        "93026117-b255-4765-9aa8-a62a08bf78a6": {
-          "x": -440,
-          "y": 340
-        },
-        "3b7b34aa-421b-4056-b6e5-3b79a2797f8f": {
-          "x": -20,
-          "y": -500
-        },
-        "cb3645fc-b2f4-40c1-80d6-232d1f4486d9": {
-          "x": 320,
-          "y": 480
-        },
         "fcbe8a8c-c399-4587-843e-5b5a0392acb6": {
-          "x": 340,
-          "y": -560
+          "x": 140,
+          "y": -580
         },
         "c7342255-8433-48fb-aeb3-3d45007a59a8": {
           "x": 400,
@@ -1156,6 +1144,22 @@
         "0a838d76-504e-4aa1-bd75-49a6791a801f": {
           "x": -720,
           "y": 160
+        },
+        "86983fbe-569d-4f9c-8557-075f6e043cab": {
+          "x": -720,
+          "y": 480
+        },
+        "ccbfa981-5b97-4096-b281-b3b95929f63e": {
+          "x": -640,
+          "y": -720
+        },
+        "8c2dbcea-8d07-40c8-9bbd-0e1bacd60397": {
+          "x": 880,
+          "y": 500
+        },
+        "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": {
+          "x": -440,
+          "y": 360
         }
       },
       "media": {
@@ -1200,7 +1204,10 @@
             "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide",
             "92de9497-6f4a-4ebe-8382-36aacf609952": "hide",
             "cb3645fc-b2f4-40c1-80d6-232d1f4486d9": "default",
-            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide"
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide",
+            "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": "hide",
+            "c7342255-8433-48fb-aeb3-3d45007a59a8": "hide",
+            "fcbe8a8c-c399-4587-843e-5b5a0392acb6": "hide"
           },
           "bounds": {
             "x1": -916.3274855496278,
@@ -1224,7 +1231,8 @@
             "75792baa-4747-481c-b6c1-313e0c900f2f": "default",
             "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "default",
             "1108c8a3-6af6-4c29-b490-e75c948df002": "default",
-            "0a838d76-504e-4aa1-bd75-49a6791a801f": "default"
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "default",
+            "ccbfa981-5b97-4096-b281-b3b95929f63e": "default"
           }
         },
         {
@@ -1232,7 +1240,8 @@
           "states": {
             "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "highlight",
             "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "default",
-            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide"
+            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide",
+            "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": "default"
           }
         },
         {
@@ -1258,7 +1267,8 @@
             "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "default",
             "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": "default",
             "84ad58b7-f256-4dd5-8cdc-1ca6e28044c8": "default",
-            "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "highlight"
+            "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "highlight",
+            "fcbe8a8c-c399-4587-843e-5b5a0392acb6": "default"
           }
         },
         {
@@ -1268,7 +1278,9 @@
             "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "default",
             "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": "default",
             "84ad58b7-f256-4dd5-8cdc-1ca6e28044c8": "default",
-            "53ed5094-52d8-44dc-959d-0578def009a4": "default"
+            "53ed5094-52d8-44dc-959d-0578def009a4": "default",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "default",
+            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "default"
           }
         },
         {
@@ -1278,7 +1290,9 @@
             "84ad58b7-f256-4dd5-8cdc-1ca6e28044c8": "highlight",
             "53ed5094-52d8-44dc-959d-0578def009a4": "highlight",
             "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": "highlight",
-            "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "highlight"
+            "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "highlight",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide",
+            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide"
           },
           "bounds": {
             "x1": -432.5708146358511,
@@ -1306,7 +1320,8 @@
             "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83": "highlight",
             "9e603533-67e2-4b1c-97b6-f43490c6f38e": "highlight",
             "694a99d5-2f9d-4b41-be6f-f3410fd5001a": "hide",
-            "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "hide"
+            "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "hide",
+            "c7342255-8433-48fb-aeb3-3d45007a59a8": "default"
           },
           "bounds": {
             "x1": -390.6220813649122,
@@ -5790,59 +5805,59 @@
       "allocations": {
         "68585357-ebe4-4355-bfd4-338be23c8792": {
           "x": -480,
-          "y": -400
+          "y": -340
         },
         "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": {
-          "x": -1420,
-          "y": -740
+          "x": -1360,
+          "y": -640
         },
         "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": {
           "x": -120,
-          "y": -660
+          "y": -640
         },
         "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": {
           "x": -560,
-          "y": -780
+          "y": -640
         },
         "656d55d6-9db7-42dc-bd1c-406168127acb": {
           "x": -960,
           "y": -640
         },
         "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
-          "x": -80,
-          "y": 60
+          "x": -160,
+          "y": -40
         },
         "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": {
-          "x": -1440,
-          "y": 20
+          "x": -1060,
+          "y": -40
         },
         "8c54c09e-e000-4878-a807-a82a19132ba1": {
-          "x": -1040,
-          "y": 280
+          "x": -800,
+          "y": 240
         },
         "a9038e82-1646-4339-af71-141a737827ce": {
-          "x": 400,
-          "y": -520
+          "x": 440,
+          "y": -40
         },
         "bf90d0bf-e307-47c7-a540-14f25fd5fa34": {
-          "x": -40,
+          "x": 40,
           "y": -340
         },
         "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": {
-          "x": -680,
-          "y": 0
+          "x": -560,
+          "y": -40
         },
         "0e4e7592-da50-4144-a0e2-100bc760d92b": {
           "x": -960,
-          "y": -280
+          "y": -340
         },
         "6b05d29c-c9db-4083-9a79-731ce005a7ab": {
-          "x": 400,
-          "y": -200
+          "x": 460,
+          "y": -480
         },
         "0a838d76-504e-4aa1-bd75-49a6791a801f": {
-          "x": 320,
-          "y": 40
+          "x": 460,
+          "y": -760
         }
       },
       "media": {
@@ -6345,6 +6360,14 @@
         "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": {
           "x": 1300,
           "y": -240
+        },
+        "df935e2b-e26b-437c-a6db-1e7e20bcdc08": {
+          "x": 400,
+          "y": -120
+        },
+        "083159d6-83b4-455b-98b5-c542a4412378": {
+          "x": -160,
+          "y": -180
         }
       },
       "marker": [
@@ -6477,6 +6500,13 @@
           "states": {
             "66ec6c88-8a75-4b24-a570-973cbf43436e": "highlight",
             "85e21008-3112-4e73-93a5-f5546bfe8918": "default"
+          }
+        },
+        {
+          "time": 0,
+          "states": {
+            "df935e2b-e26b-437c-a6db-1e7e20bcdc08": "default",
+            "083159d6-83b4-455b-98b5-c542a4412378": "default"
           }
         }
       ]
@@ -7080,13 +7110,6 @@
         "universal": "collecting%20ambe/collecting%20ambe_graphic%201"
       }
     },
-    "93026117-b255-4765-9aa8-a62a08bf78a6": {
-      "type": "image",
-      "file": "xe:storyOfUhi_burritipalm.png",
-      "label": {
-        "universal": "storyOfUhi_burritipalm"
-      }
-    },
     "7acd1842-1bbf-4754-ad0d-791f60590f5d": {
       "type": "image",
       "file": "xingu:using%20utu/using%20utu_Bubbles.png",
@@ -7099,20 +7122,6 @@
       "file": "xingu:using%20utu/using%20utu_utu.png",
       "label": {
         "universal": "using%20utu/using%20utu_utu"
-      }
-    },
-    "3b7b34aa-421b-4056-b6e5-3b79a2797f8f": {
-      "type": "image",
-      "file": "xingu:story%20of%20uhi/story%20of%20uhi_background2.png",
-      "label": {
-        "universal": "story%20of%20uhi/story%20of%20uhi_background2"
-      }
-    },
-    "cb3645fc-b2f4-40c1-80d6-232d1f4486d9": {
-      "type": "image",
-      "file": "xingu:story%20of%20uhi/story%20of%20uhi_background.png",
-      "label": {
-        "universal": "story%20of%20uhi/story%20of%20uhi_background"
       }
     },
     "fcbe8a8c-c399-4587-843e-5b5a0392acb6": {
@@ -7276,7 +7285,17 @@
           "x": -240,
           "y": -400
         }
-      }
+      },
+      "media": {
+        "file": {
+          "original": "xingu:Nils Moriche Human uses/Nils Moriche Human uses.mp4"
+        },
+        "subtitles": {
+          "de": "xingu:Nils Moriche Human uses/Nils Moriche Human uses_DE.srt",
+          "pt": "xingu:Nils Moriche Human uses/Nils Moriche Human uses_PT.srt"
+        }
+      },
+      "image": "xingu:Nils Moriche Human uses/Nils Moriche Human uses.png"
     },
     "510b12e1-c208-4d00-b7f6-03bb438a3249": {
       "type": "entity",
@@ -7454,7 +7473,19 @@
           "x": -1060,
           "y": -460
         }
-      }
+      },
+      "media": {
+        "subtitles": {
+          "en": "",
+          "de": "xingu:Nils Berlin collection/Nils Berlin collection_DE.srt",
+          "pt": "xingu:Nils Berlin collection/Nils Berlin collection_PT.srt"
+        },
+        "file": {
+          "original": "xingu:Nils Berlin collection/Nils Berlin collection.mp4",
+          "de": ""
+        }
+      },
+      "image": "xingu:Nils Berlin collection/Nils Berlin collection.png"
     },
     "df2eaa63-9e93-4b8c-a6ee-5e3ef80e61e6": {
       "type": "entity",
@@ -7636,7 +7667,110 @@
           "x": -60,
           "y": -900
         }
-      }
+      },
+      "media": {
+        "file": {
+          "0": "x",
+          "1": "i",
+          "2": "n",
+          "3": "g",
+          "4": "u",
+          "5": ":",
+          "6": "N",
+          "7": "i",
+          "8": "l",
+          "9": "s",
+          "10": " ",
+          "11": "P",
+          "12": "h",
+          "13": "i",
+          "14": "l",
+          "15": "o",
+          "16": "d",
+          "17": "e",
+          "18": "n",
+          "19": "d",
+          "20": "r",
+          "21": "o",
+          "22": "n",
+          "23": " ",
+          "24": "S",
+          "25": "o",
+          "26": "l",
+          "27": "i",
+          "28": "m",
+          "29": "o",
+          "30": "i",
+          "31": "s",
+          "32": "e",
+          "33": "n",
+          "34": "s",
+          "35": "e",
+          "36": "/",
+          "37": "N",
+          "38": "i",
+          "39": "l",
+          "40": "s",
+          "41": " ",
+          "42": "P",
+          "43": "h",
+          "44": "i",
+          "45": "l",
+          "46": "o",
+          "47": "d",
+          "48": "e",
+          "49": "n",
+          "50": "d",
+          "51": "r",
+          "52": "o",
+          "53": "n",
+          "54": " ",
+          "55": "S",
+          "56": "o",
+          "57": "l",
+          "58": "i",
+          "59": "m",
+          "60": "o",
+          "61": "i",
+          "62": "s",
+          "63": "e",
+          "64": "n",
+          "65": "s",
+          "66": "e",
+          "67": ".",
+          "68": "m",
+          "69": "p",
+          "70": "4",
+          "original": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense.mp4"
+        },
+        "subtitles": {
+          "en": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_PT.srt"
+        }
+      },
+      "image": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense.png",
+      "marker": [
+        {
+          "time": 0,
+          "states": {
+            "befcab40-88f9-475d-a196-a14c4240e235": "default"
+          },
+          "bounds": {
+            "x1": -1332.9155313351498,
+            "y1": -1027.7929155313352,
+            "x2": -1332.9155313351498,
+            "y2": -1027.7929155313352
+          }
+        },
+        {
+          "time": 100.582404,
+          "bounds": {
+            "x1": -1299.9155313351498,
+            "y1": -1048.7929155313352,
+            "x2": -793.9155313351498,
+            "y2": -434.7929155313352
+          }
+        }
+      ]
     },
     "1ef8214c-6ed9-4a7f-8ce1-9ab934d573b5": {
       "type": "entity",
@@ -7732,6 +7866,48 @@
       "type": "entity",
       "label": {
         "en": "mountain range"
+      }
+    },
+    "86983fbe-569d-4f9c-8557-075f6e043cab": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Forest1.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_Forest1"
+      }
+    },
+    "ccbfa981-5b97-4096-b281-b3b95929f63e": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Forest2.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_Forest2"
+      }
+    },
+    "8c2dbcea-8d07-40c8-9bbd-0e1bacd60397": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Forest3.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_Forest3"
+      }
+    },
+    "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/storyOfUhi_burriti.png",
+      "label": {
+        "universal": "story%20of%20uhi/storyOfUhi_burriti"
+      }
+    },
+    "df935e2b-e26b-437c-a6db-1e7e20bcdc08": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_dots.png",
+      "label": {
+        "universal": "Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_dots"
+      }
+    },
+    "083159d6-83b4-455b-98b5-c542a4412378": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_MF.png",
+      "label": {
+        "universal": "Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_MF"
       }
     }
   },
@@ -12870,7 +13046,25 @@
       "arrow": "→",
       "graph": "ab6e4f78-c78d-4270-9283-d7e81dc18672",
       "id": "3e309d4a-8e1a-4a4c-8ec2-fec811e740fd"
+    },
+    {
+      "nodes": [
+        "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
+        "0a838d76-504e-4aa1-bd75-49a6791a801f"
+      ],
+      "arrow": "→",
+      "graph": "28c47119-1798-4f58-95ea-b25d4e7045f2",
+      "id": "798fea27-d957-4a82-8956-1be0a496c046"
+    },
+    {
+      "nodes": [
+        "0a838d76-504e-4aa1-bd75-49a6791a801f",
+        "6b05d29c-c9db-4083-9a79-731ce005a7ab"
+      ],
+      "arrow": "→",
+      "graph": "28c47119-1798-4f58-95ea-b25d4e7045f2",
+      "id": "7428e907-3ec2-470a-8ca2-d2c7cd8dd540"
     }
   ],
-  "exported": 1732532705394
+  "exported": 1732546719715
 }
