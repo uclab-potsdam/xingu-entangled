@@ -42,6 +42,7 @@
       "xe": "https://amazoniafuturelab.fh-potsdam.de/media/xingu-entangled/",
       "local": "./"
     },
+    "defaultShorthand": "local",
     "kiosk": false,
     "about": {
       "en": "local:about.md",
