@@ -4618,7 +4618,8 @@
         "en": "Kuikuro"
       },
       "url": [
-        "https://www.wikidata.org/wiki/Q28219780"
+        "https://www.wikidata.org/wiki/Q28219780",
+        "https://pib.socioambiental.org/en/Povo:Kuikuro"
       ],
       "description": {
         "de": "Indigener Indianer-Stamm, der in der zentralbrasilianischen Region Alto Xingu im Parque Indígena do Xingu im brasilianischen Teil des Amazonasbeckens lebt. Die Sprache der Kuikuro gehört zu den Karibischen Sprachen.",
@@ -13329,5 +13330,5 @@
       "id": "7428e907-3ec2-470a-8ca2-d2c7cd8dd540"
     }
   ],
-  "exported": 1732707666947
+  "exported": 1732708348160
 }
