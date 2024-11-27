@@ -450,7 +450,8 @@
         "en": "fish",
         "de": "Fische",
         "pt": "peixes"
-      }
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
     },
     "35bdade4-522a-457e-a59c-68dae65c29c3": {
       "type": "entity",
@@ -509,7 +510,8 @@
         "en": "fish trap",
         "pt": "armadilha para peixes",
         "de": "Reuse"
-      }
+      },
+      "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
     "e8993840-3457-4a63-b8ef-644a8642d320": {
       "type": "entity",
@@ -554,7 +556,8 @@
         "en": "Water centipede",
         "de": "Wasser-Tausendfüßler",
         "pt": "centopéia de água"
-      }
+      },
+      "class": "6db64203-35c3-4625-8ece-756b7ef40d06"
     },
     "6694d19a-2425-4ada-8547-04dc1137dc8a": {
       "type": "entity",
@@ -578,7 +581,8 @@
         "en": "fish",
         "de": "Fisch",
         "pt": "peixe"
-      }
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
     },
     "d9a842a3-60a7-463b-ab0a-a561a33e91fa": {
       "type": "entity",
@@ -595,7 +599,10 @@
         "en": "material",
         "de": "Material",
         "pt": "material"
-      }
+      },
+      "url": [
+        "https://www.wikidata.org/wiki/Q214609"
+      ]
     },
     "364d310d-d6af-4d6d-bddb-962fb6a59005": {
       "type": "entity",
@@ -980,14 +987,23 @@
       "label": {
         "en": "Tihigu"
       },
-      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e",
+      "description": {
+        "en": "Kuikuro name for the aerial roots of the ambe plant.",
+        "de": "Kuikuro-Name für die Luftwurzeln der Ambé Pflanze"
+      }
     },
     "74dfa8c0-c697-48e7-87eb-12f806214b1a": {
       "type": "entity",
       "label": {
         "en": "Ipatse"
       },
-      "class": "87069b44-f527-4d03-ae69-7b4109625f1d"
+      "class": "87069b44-f527-4d03-ae69-7b4109625f1d",
+      "description": {
+        "en": "A Kuikuro village that’s home to some 800 people inside Xingu Indigenous Park, also in the state of Mato Grosso.",
+        "de": "Ein Kuikuro-Dorf mit etwa 800 Einwohnern im Xingu-Indigenenpark, ebenfalls im Bundesstaat Mato Grosso.",
+        "pt": "Aldeia Kuikuro com cerca de 800 habitantes no Parque Indígena do Xingu, também no estado de Mato Grosso."
+      }
     },
     "87069b44-f527-4d03-ae69-7b4109625f1d": {
       "type": "entity",
@@ -1010,7 +1026,12 @@
       "label": {
         "en": "Ambé"
       },
-      "class": "0467c41d-6e5d-49aa-ae50-1fcbcaf7716f"
+      "class": "0467c41d-6e5d-49aa-ae50-1fcbcaf7716f",
+      "description": {
+        "de": "Bezeichnung der Kuikuro für Philodendron Solimoesense",
+        "en": "Name of the Kuikuro for Philodendron Solimoesense",
+        "pt": "Nome do Kuikuro para Philodendron Solimesense"
+      }
     },
     "f8cf6364-f066-456b-953a-8b1ad6d35559": {
       "type": "entity",
@@ -1150,18 +1171,6 @@
         "0a838d76-504e-4aa1-bd75-49a6791a801f": {
           "x": -720,
           "y": 160
-        },
-        "86983fbe-569d-4f9c-8557-075f6e043cab": {
-          "x": -720,
-          "y": 480
-        },
-        "ccbfa981-5b97-4096-b281-b3b95929f63e": {
-          "x": -640,
-          "y": -720
-        },
-        "8c2dbcea-8d07-40c8-9bbd-0e1bacd60397": {
-          "x": 880,
-          "y": 500
         },
         "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": {
           "x": -440,
@@ -1606,7 +1615,8 @@
       "type": "entity",
       "label": {
         "en": "spirit fish"
-      }
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
     },
     "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83": {
       "type": "entity",
@@ -1639,7 +1649,8 @@
         "en": "bow and arrow",
         "de": "Pfeil und Bogen",
         "pt": "arco e flecha"
-      }
+      },
+      "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
     "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": {
       "type": "entity",
@@ -1677,7 +1688,10 @@
         "en": "A palm species found in northern South America that is of great importance as a useful plant.",
         "de": "Eine im nördlichen Südamerika vorkommende Palmenart, die eine große Bedeutung als Nutzpflanze hat.",
         "pt": "Espécie de palmeira encontrada no norte da América do Sul que é de grande importância como planta útil."
-      }
+      },
+      "url": [
+        "https://www.gbif.org/species/5294777"
+      ]
     },
     "592f3ffc-b9f5-44d6-a8a0-f0caef6dde48": {
       "type": "entity",
@@ -1807,7 +1821,7 @@
       },
       "media": {
         "file": {
-          "original": "xe:using utu.mp4"
+          "original": "xingu:using utu/using utu.mp4"
         },
         "subtitles": {
           "en": "xingu:using utu/20230709_1_TL_1080p_23,976fps_Yahila_About Using Utu_ENG.srt",
@@ -2053,7 +2067,8 @@
         "en": "Xingu men",
         "de": "Xingu Männer",
         "pt": "homens Xingu"
-      }
+      },
+      "class": "0b51a780-30b9-4d53-90c1-38b34d44afac"
     },
     "341a06c6-6e06-40ea-8353-6b532bd327ee": {
       "type": "entity",
@@ -2253,7 +2268,7 @@
           "y": 40
         },
         "98d52143-add2-4fb1-96d7-dd62cc20329e": {
-          "x": -860,
+          "x": -880,
           "y": 100
         },
         "1dba5b89-c1c8-41b8-9073-5fd5d7493099": {
@@ -3042,9 +3057,9 @@
       },
       "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95",
       "description": {
-        "pt": "Espécie de palmeira encontrada no norte da América do Sul que é de grande importância como planta útil.",
-        "de": "Eine im nördlichen Südamerika vorkommende Palmenart, die eine große Bedeutung als Nutzpflanze hat.",
-        "en": "A palm species found in northern South America that is of great importance as a useful plant."
+        "pt": "Mauritia Flexuosa é chamada de Moriche no sul da Venezuela e na parte amazônica.",
+        "de": "Mauritia Flexuosa wird im Süden Venezuelas und im amazonischen Teil Moriche genannt.",
+        "en": "Mauritia Flexuosa is called Moriche in the south of Venezuela and in the Amazonian part."
       }
     },
     "de412fdb-02ef-421c-8c2d-1a3671b3b32d": {
@@ -3061,7 +3076,8 @@
         "en": "hammock",
         "de": "Hängematte",
         "pt": "rede"
-      }
+      },
+      "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
     "1b0509c8-5c29-4f82-a3d4-3dacd5f82e2a": {
       "type": "entity",
@@ -3133,7 +3149,8 @@
       "type": "entity",
       "label": {
         "en": "mat"
-      }
+      },
+      "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
     "19d1712b-1299-40e1-85a4-15d8c69a4bf9": {
       "type": "entity",
@@ -3241,11 +3258,11 @@
           "y": 240
         },
         "ebc27bc1-8e6c-49fc-a367-43fac78b160f": {
-          "x": -340,
+          "x": -300,
           "y": -120
         },
         "921160bd-bcc5-4143-9d30-a8f21c60aff2": {
-          "x": -40,
+          "x": -80,
           "y": -120
         },
         "40f6d448-ff59-4087-bcf1-0fb503cca861": {
@@ -3281,20 +3298,25 @@
           "y": 560
         },
         "76b1e227-8902-44bf-be81-ab5673322dd7": {
-          "x": 660,
+          "x": 700,
           "y": 420
         },
         "20ac1a5d-b42e-4ce2-9d07-7c509ae01ce6": {
-          "x": 420,
-          "y": 320
+          "x": 740,
+          "y": 680
         },
         "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
-          "x": 140,
-          "y": 80
+          "x": 760,
+          "y": 280
         },
         "6c901eef-7ce8-44ac-b05a-3c4e343f17ed": {
           "x": -160,
           "y": 660
+        },
+        "de5d7ffb-e12d-483f-8ac1-98f9130be085": {
+          "x": 240,
+          "y": 380,
+          "locked": false
         }
       },
       "media": {
@@ -3651,7 +3673,8 @@
         "en": "basket",
         "de": "Korb",
         "pt": "cesta"
-      }
+      },
+      "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
     "d9956bc7-4731-4323-adfb-2a1444e89b7f": {
       "type": "entity",
@@ -3728,7 +3751,7 @@
         },
         "46e44a6e-7373-44c4-b7cd-cc82da18e570": {
           "x": 420,
-          "y": 320
+          "y": 380
         },
         "3efec77d-8792-4320-b611-d1454a98c3a3": {
           "x": 420,
@@ -3748,11 +3771,11 @@
         },
         "2d8268cb-87c8-489f-8eeb-e4103cb7de09": {
           "x": 420,
-          "y": 20
+          "y": 120
         },
         "6c901eef-7ce8-44ac-b05a-3c4e343f17ed": {
           "x": 420,
-          "y": 200
+          "y": 240
         },
         "fdc74b6f-d42e-4f4f-9a16-549887046854": {
           "x": 420,
@@ -3765,6 +3788,22 @@
         "ac6e79eb-3efd-4843-98fa-8f74b7b959a4": {
           "x": 700,
           "y": 140
+        },
+        "8cf70d9e-0762-4314-aacc-5282433a01ac": {
+          "x": 420,
+          "y": -640
+        },
+        "2242edca-f715-4e4f-a9b2-c2bc2edc0357": {
+          "x": 520,
+          "y": -380
+        },
+        "2be41613-e740-4831-8e64-7b51e76d050d": {
+          "x": 420,
+          "y": 0
+        },
+        "7eff675e-7174-411e-9498-529028edf26a": {
+          "x": 440,
+          "y": 860
         }
       },
       "media": {
@@ -3799,7 +3838,10 @@
             "ef4407c3-5a9e-44fb-9b7c-f21b18d3b615": "default",
             "145e88a0-443e-4cd6-a141-d09c6b6d15f6": "default",
             "fe309e3c-ebc3-403a-97fc-3a844be1e30f": "hide",
-            "fdc74b6f-d42e-4f4f-9a16-549887046854": "hide"
+            "fdc74b6f-d42e-4f4f-9a16-549887046854": "hide",
+            "2be41613-e740-4831-8e64-7b51e76d050d": "hide",
+            "7eff675e-7174-411e-9498-529028edf26a": "hide",
+            "8cf70d9e-0762-4314-aacc-5282433a01ac": "hide"
           },
           "bounds": {
             "x1": 213.0893372761322,
@@ -3822,7 +3864,8 @@
             "fe309e3c-ebc3-403a-97fc-3a844be1e30f": "default",
             "a89e19f6-e824-43ff-81ba-3b40b7627fb9": "hide",
             "ef4407c3-5a9e-44fb-9b7c-f21b18d3b615": "hide",
-            "145e88a0-443e-4cd6-a141-d09c6b6d15f6": "hide"
+            "145e88a0-443e-4cd6-a141-d09c6b6d15f6": "hide",
+            "2be41613-e740-4831-8e64-7b51e76d050d": "default"
           },
           "bounds": {
             "x1": 234.5544271626742,
@@ -3912,7 +3955,8 @@
           "states": {
             "3efec77d-8792-4320-b611-d1454a98c3a3": "default",
             "fdc74b6f-d42e-4f4f-9a16-549887046854": "highlight",
-            "fe309e3c-ebc3-403a-97fc-3a844be1e30f": "highlight"
+            "fe309e3c-ebc3-403a-97fc-3a844be1e30f": "highlight",
+            "8cf70d9e-0762-4314-aacc-5282433a01ac": "default"
           },
           "bounds": {
             "x1": -86.80325639200515,
@@ -3944,7 +3988,8 @@
             "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": "default",
             "3efec77d-8792-4320-b611-d1454a98c3a3": "default",
             "cbf3ee50-8af0-477e-b479-8f84d7555ad2": "default",
-            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight"
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight",
+            "7eff675e-7174-411e-9498-529028edf26a": "default"
           },
           "bounds": {
             "x1": -217.31555325746288,
@@ -4044,7 +4089,7 @@
       "label": {
         "en": "annatto"
       },
-      "class": "ec8cfdb6-dc4a-4de8-a6f5-c0ab72040bef"
+      "class": "0467c41d-6e5d-49aa-ae50-1fcbcaf7716f"
     },
     "ec8cfdb6-dc4a-4de8-a6f5-c0ab72040bef": {
       "type": "entity",
@@ -4062,7 +4107,8 @@
       "type": "entity",
       "label": {
         "en": "craft object"
-      }
+      },
+      "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
     "46e44a6e-7373-44c4-b7cd-cc82da18e570": {
       "type": "entity",
@@ -4117,19 +4163,19 @@
           "y": 220
         },
         "cbda2472-6591-4008-91b1-7d1449233c08": {
-          "x": 520,
+          "x": 480,
           "y": 20
         },
         "09e75d73-afea-4945-8db3-c1f1880a3bcb": {
-          "x": 560,
+          "x": 520,
           "y": 140
         },
         "e305a7f8-95d7-4a95-874f-5a60d24d412d": {
-          "x": 540,
+          "x": 480,
           "y": 260
         },
         "6f6eb1d0-7654-4784-b2e3-468a94f0d9a7": {
-          "x": 560,
+          "x": 500,
           "y": 360
         },
         "dc349228-b509-4bca-bc0e-8b6e2f3c364c": {
@@ -4137,16 +4183,16 @@
           "y": 240
         },
         "1d3a9689-caf9-4c75-8eba-89f4e07a1e81": {
-          "x": -220,
-          "y": 440
+          "x": -240,
+          "y": 460
         },
         "ca660539-d08c-43a8-9efa-a526e3058fad": {
           "x": -60,
-          "y": 440
+          "y": 460
         },
         "96bf8cf1-d07a-44e9-bdfc-488248bb31bf": {
           "x": 100,
-          "y": 440
+          "y": 460
         },
         "20544d1c-3bfc-4802-a619-6574f152819c": {
           "x": -560,
@@ -4173,8 +4219,16 @@
           "y": 360
         },
         "bf90d0bf-e307-47c7-a540-14f25fd5fa34": {
-          "x": -380,
-          "y": 300
+          "x": -540,
+          "y": -200
+        },
+        "93767d53-0f42-47b5-bf28-5f5d5770eb52": {
+          "x": -360,
+          "y": 260
+        },
+        "ffbc9dcc-dfae-4796-88ca-b82698ebe638": {
+          "x": 540,
+          "y": -200
         }
       },
       "media": {
@@ -4214,7 +4268,9 @@
             "96193645-f7fe-4336-9e6c-f99031236f13": "hide",
             "f2c0bb11-bdf6-4fb3-bba3-ce708392f32d": "hide",
             "b3b5640b-c361-4f85-a571-ee591798cc66": "hide",
-            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide"
+            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide",
+            "93767d53-0f42-47b5-bf28-5f5d5770eb52": "hide",
+            "ffbc9dcc-dfae-4796-88ca-b82698ebe638": "hide"
           },
           "bounds": {
             "x1": -235.8644536652835,
@@ -4277,7 +4333,8 @@
           "time": 80.481826,
           "states": {
             "1d0cb02b-db96-4516-9ff3-ee5665224a8d": "highlight",
-            "d14ef567-a2d5-463f-8264-04a7ea0500ac": "default"
+            "d14ef567-a2d5-463f-8264-04a7ea0500ac": "default",
+            "93767d53-0f42-47b5-bf28-5f5d5770eb52": "default"
           },
           "bounds": {
             "x1": -914.5732426698619,
@@ -4327,7 +4384,8 @@
             "57549530-4bcc-4b4d-8735-e97870522062": "highlight",
             "cbda2472-6591-4008-91b1-7d1449233c08": "highlight",
             "dc349228-b509-4bca-bc0e-8b6e2f3c364c": "default",
-            "1d3a9689-caf9-4c75-8eba-89f4e07a1e81": "default"
+            "1d3a9689-caf9-4c75-8eba-89f4e07a1e81": "default",
+            "ffbc9dcc-dfae-4796-88ca-b82698ebe638": "default"
           },
           "bounds": {
             "x1": -546.1216641256725,
@@ -4549,6 +4607,14 @@
       "type": "entity",
       "label": {
         "en": "Kuikuro"
+      },
+      "url": [
+        "https://www.wikidata.org/wiki/Q28219780"
+      ],
+      "description": {
+        "de": "Indigener Indianer-Stamm, der in der zentralbrasilianischen Region Alto Xingu im Parque Indígena do Xingu im brasilianischen Teil des Amazonasbeckens lebt. Die Sprache der Kuikuro gehört zu den Karibischen Sprachen.",
+        "en": "Indigenous Indian tribe living in the central Brazilian region of Alto Xingu in the Parque Indígena do Xingu in the Brazilian part of the Amazon basin. The Kuikuro language belongs to the Caribbean languages.",
+        "pt": "Tribo indígena que vive na região central brasileira do Alto Xingu, no Parque Indígena do Xingu, na parte brasileira da Bacia Amazônica. A língua Kuikuro é uma das línguas caribenhas."
       }
     },
     "d9f1a17f-aa44-47c2-b4c4-8d9e155b3891": {
@@ -5880,7 +5946,8 @@
         "en": "annatto paste",
         "de": "Annatto Paste",
         "pt": "pasta de annatto"
-      }
+      },
+      "class": "8e79fa93-eb98-496d-93f9-460e5e82d89e"
     },
     "5510c5ff-39e1-4d5c-80e1-f853fc845569": {
       "type": "entity",
@@ -6250,7 +6317,8 @@
         "en": "insect",
         "de": "Insekt",
         "pt": "inseto"
-      }
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
     },
     "8b172be1-0554-49eb-bc07-b66f52866383": {
       "type": "entity",
@@ -6265,7 +6333,8 @@
         "en": "invertebrate",
         "de": "Wirbellose",
         "pt": "invertebrados"
-      }
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
     },
     "a30dba22-474d-415f-a7ea-3515f7b61439": {
       "type": "image",
@@ -6367,13 +6436,9 @@
           "x": 1300,
           "y": -240
         },
-        "df935e2b-e26b-437c-a6db-1e7e20bcdc08": {
-          "x": 400,
-          "y": -120
-        },
         "083159d6-83b4-455b-98b5-c542a4412378": {
-          "x": -160,
-          "y": -180
+          "x": -140,
+          "y": -140
         }
       },
       "marker": [
@@ -6608,14 +6673,24 @@
         "pt": "",
         "universal": "Aguaje"
       },
-      "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95"
+      "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95",
+      "description": {
+        "en": "Mauritia Flexuosa is called Aguaje in the Amazonian part of Peru.",
+        "de": "Mauritia Flexuosa wird im amazonischen Teil von Peru Aguaje genannt.",
+        "pt": "Mauritia Flexuosa é chamada Aguaje na parte amazônica do Peru."
+      }
     },
     "66ec6c88-8a75-4b24-a570-973cbf43436e": {
       "type": "entity",
       "label": {
         "en": "Buriti"
       },
-      "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95"
+      "class": "f77c8d5c-9c82-482f-b91f-97bb9c1d8a95",
+      "description": {
+        "en": "Mauritia Flexuosa is called Buriti in the heart of the Amazon basin, a name from the Tupi language.",
+        "de": "Mauritia Flexuosa wird im Herzen des Amazonasbeckens Buriti genannt, ein Name aus der Tupi-Sprache.",
+        "pt": "Mauritia Flexuosa, no coração da bacia amazônica, é chamada de Buriti, nome da língua tupi."
+      }
     },
     "6b05d29c-c9db-4083-9a79-731ce005a7ab": {
       "type": "graph",
@@ -6647,7 +6722,7 @@
           "y": -660
         },
         "f2648627-a752-47de-bd66-eebe895221ba": {
-          "x": -1840,
+          "x": -1760,
           "y": -560
         },
         "020e34a4-5aa5-450c-8431-b41c348ec6fd": {
@@ -6719,12 +6794,24 @@
           "y": -340
         },
         "0a838d76-504e-4aa1-bd75-49a6791a801f": {
-          "x": -1780,
-          "y": -840
+          "x": -1740,
+          "y": -700
         },
         "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
           "x": -2560,
           "y": -820
+        },
+        "c36873ea-7b90-45a5-831b-b6e2745d9a30": {
+          "x": -1760,
+          "y": -280
+        },
+        "7d7e154a-d214-46a8-a16b-a987810f3157": {
+          "x": -2220,
+          "y": -200
+        },
+        "5c61138d-5261-4011-97e2-6fdb24e0e950": {
+          "x": -1960,
+          "y": -720
         }
       },
       "marker": [
@@ -6999,6 +7086,14 @@
       "type": "entity",
       "label": {
         "en": "Johann Moritz von Nassau-Siegen"
+      },
+      "url": [
+        "https://www.wikidata.org/wiki/Q321492"
+      ],
+      "description": {
+        "en": "Dutch soldier and administrator (1604–1679)",
+        "de": "Niederländischer Soldat und Verwalter (1604-1679)",
+        "pt": "Soldado e administrador holandês (1604-1679)"
       }
     },
     "5cd02631-e1eb-4702-8255-1f8d9ca566ba": {
@@ -7046,7 +7141,8 @@
         "de": "Brasilien",
         "pt": "Brasil",
         "en": "Brazil"
-      }
+      },
+      "class": "b85b2812-e25a-437d-ae6b-385ac00a718f"
     },
     "f035fbff-4442-4fd9-88cb-ac03185085a6": {
       "type": "entity",
@@ -7208,12 +7304,12 @@
           "y": -860
         },
         "1108c8a3-6af6-4c29-b490-e75c948df002": {
-          "x": -440,
-          "y": -620
+          "x": -400,
+          "y": -580
         },
         "b85b2812-e25a-437d-ae6b-385ac00a718f": {
-          "x": -440,
-          "y": -440
+          "x": -400,
+          "y": -400
         },
         "b78e3d50-c9ad-4b92-a41e-2bac062e11ed": {
           "x": -980,
@@ -7221,75 +7317,75 @@
         },
         "8e79fa93-eb98-496d-93f9-460e5e82d89e": {
           "x": -980,
-          "y": -440
+          "y": -480
         },
         "6622a5e6-9d71-44a9-8b4d-99402d74b235": {
           "x": -1140,
           "y": -280
         },
         "f511f858-718b-4e56-9cc8-be9755fae16f": {
-          "x": -840,
+          "x": -860,
           "y": -260
         },
         "30afa74d-3a19-4a12-90b3-e5cea1c62f79": {
-          "x": -700,
-          "y": -540
+          "x": -740,
+          "y": -480
         },
         "b12f965a-7e17-4589-8511-1ca39b4bf367": {
-          "x": -660,
-          "y": -340
+          "x": -600,
+          "y": -260
         },
         "ede80140-1778-49e1-9f17-377d985a32de": {
-          "x": -840,
+          "x": -860,
           "y": -120
         },
         "7f361291-1fe4-4b55-a954-9c1db4d565e7": {
-          "x": -80,
-          "y": -580
+          "x": -60,
+          "y": -460
         },
         "559c5e79-9024-49b3-ac4d-5053db0f90b3": {
           "x": -60,
-          "y": -360
+          "y": -260
         },
         "9e96974a-cc3a-41ee-b0ec-970354c07464": {
-          "x": 140,
-          "y": -300
+          "x": 180,
+          "y": -260
         },
         "9aaa8bee-e252-4ee3-a59f-612ff3fc6a22": {
-          "x": 260,
-          "y": -420
+          "x": 220,
+          "y": -460
         },
         "0a59a941-1ff5-4402-8bf2-1f7787d850fa": {
-          "x": -180,
-          "y": -680
+          "x": -60,
+          "y": -640
         },
         "2d977bc1-9ca9-4d9f-9686-8459e01be526": {
           "x": 100,
-          "y": -720
+          "y": -660
         },
         "558127b5-333e-4d9a-9a77-f6b6a124a68d": {
-          "x": 280,
-          "y": -900
+          "x": 420,
+          "y": -880
         },
         "ad6aeb2a-9e77-461e-8ac1-6a4cd2b847e8": {
           "x": 420,
-          "y": -800
+          "y": -660
         },
         "1abe659d-bed1-43c6-9e25-a7b17d16a7ae": {
-          "x": 420,
-          "y": -620
+          "x": 400,
+          "y": -500
         },
         "84ee9337-0f98-4e54-be60-1f4b1994cbc2": {
-          "x": -20,
+          "x": -60,
           "y": -880
         },
         "573d7d4b-b1ce-4188-9382-93919ef12eff": {
-          "x": -480,
-          "y": -240
+          "x": -400,
+          "y": -260
         },
         "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": {
           "x": -240,
-          "y": -400
+          "y": -380
         }
       },
       "media": {
@@ -7307,18 +7403,34 @@
       "type": "entity",
       "label": {
         "en": "Alexander von Humboldt"
-      }
+      },
+      "description": {
+        "en": "Prussian geographer, naturalist and explorer (1769–1859)",
+        "de": "Preußischer Geograph, Naturforscher und Entdecker (1769-1859)",
+        "pt": "Geógrafo, naturalista e explorador prussiano (1769-1859)"
+      },
+      "url": [
+        "https://www.wikidata.org/wiki/Q6694"
+      ]
     },
     "a0ab05fe-f155-46d3-a3b6-b93be51e66d8": {
       "type": "entity",
       "label": {
         "en": "Aimé Bonpland"
+      },
+      "url": [
+        "https://www.wikidata.org/wiki/Q405702"
+      ],
+      "description": {
+        "en": "French physician, botanist and explorer (1773-1858)",
+        "de": "Französischer Arzt, Botaniker und Entdecker (1773-1858)",
+        "pt": "Médico, botânico e explorador francês (1773-1858)"
       }
     },
     "b78e3d50-c9ad-4b92-a41e-2bac062e11ed": {
       "type": "entity",
       "label": {
-        "en": "Indigenous Uses"
+        "en": "indigenous uses"
       }
     },
     "6622a5e6-9d71-44a9-8b4d-99402d74b235": {
@@ -7379,19 +7491,22 @@
       "type": "entity",
       "label": {
         "en": "Peru"
-      }
+      },
+      "class": "b85b2812-e25a-437d-ae6b-385ac00a718f"
     },
     "2d977bc1-9ca9-4d9f-9686-8459e01be526": {
       "type": "entity",
       "label": {
-        "en": "Nature"
+        "en": "nature"
       }
     },
     "558127b5-333e-4d9a-9a77-f6b6a124a68d": {
       "type": "entity",
       "label": {
-        "en": "wild boar"
-      }
+        "en": "wild boar",
+        "de": "Wildschwein"
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
     },
     "ad6aeb2a-9e77-461e-8ac1-6a4cd2b847e8": {
       "type": "entity",
@@ -7403,13 +7518,15 @@
       "type": "entity",
       "label": {
         "en": "turtles"
-      }
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
     },
     "84ee9337-0f98-4e54-be60-1f4b1994cbc2": {
       "type": "entity",
       "label": {
-        "en": "macawas"
-      }
+        "en": "macawa"
+      },
+      "class": "91735c49-3599-47dd-8da5-568f660c6189"
     },
     "573d7d4b-b1ce-4188-9382-93919ef12eff": {
       "type": "entity",
@@ -7420,7 +7537,7 @@
     "c6efb392-1bea-4d57-9aa7-13aaad798c33": {
       "type": "graph",
       "label": {
-        "en": "Philodendrum - Berlin Collection and Geographical Distribution"
+        "en": "Philodendron - Berlin Collection and Geographical Distribution"
       },
       "allocations": {
         "df2eaa63-9e93-4b8c-a6ee-5e3ef80e61e6": {
@@ -7512,7 +7629,13 @@
     "bf285fec-2545-403d-8da2-f55cf2395b1b": {
       "type": "entity",
       "label": {
-        "en": "Phillodendron Genus"
+        "en": "Philodendron"
+      },
+      "class": "2c97f074-9694-4972-b05d-e329f2c33015",
+      "description": {
+        "de": "Bei Philodendron-Arten handelt es sich um immergrüne, ausdauernde krautige Pflanzen, die als Wurzelkletterer, epiphytisch oder buschförmig wachsen können.",
+        "en": "Philodendron species are evergreen, perennial herbaceous plants that can grow as root climbers, epiphytic or bushy.",
+        "pt": "As espécies de Philodendron são plantas herbáceas perenes e perenes que podem crescer como trepadeiras de raízes, epífitas ou arbustos."
       }
     },
     "b7b95d19-2e7d-477e-a7d5-726e38936924": {
@@ -7527,7 +7650,8 @@
       "type": "entity",
       "label": {
         "en": "Mexico"
-      }
+      },
+      "class": "b7b95d19-2e7d-477e-a7d5-726e38936924"
     },
     "cfe39ea3-3823-47b6-a8a2-43e646a6606c": {
       "type": "entity",
@@ -7535,7 +7659,8 @@
         "en": "Uruguay",
         "de": "Uruguay",
         "pt": "Uruguai"
-      }
+      },
+      "class": "b85b2812-e25a-437d-ae6b-385ac00a718f"
     },
     "723e9bd9-fcf7-474b-9a76-f608bdd38967": {
       "type": "entity",
@@ -7552,7 +7677,8 @@
         "en": "Ecuador",
         "de": "Ecuador",
         "pt": "Equador"
-      }
+      },
+      "class": "b85b2812-e25a-437d-ae6b-385ac00a718f"
     },
     "5935aaed-190f-4841-a704-f329f23e1c8f": {
       "type": "entity",
@@ -7560,7 +7686,8 @@
         "en": "Colombia",
         "pt": "Colômbia",
         "de": "Kolumbien"
-      }
+      },
+      "class": "b85b2812-e25a-437d-ae6b-385ac00a718f"
     },
     "c61171b9-b095-4ba9-891c-54a1288d7014": {
       "type": "entity",
@@ -7568,7 +7695,8 @@
         "en": "Panama",
         "pt": "Panamá",
         "de": "Panama"
-      }
+      },
+      "class": "b7b95d19-2e7d-477e-a7d5-726e38936924"
     },
     "fb1c7bc3-3e72-440c-84f8-6be1ab85e3e3": {
       "type": "entity",
@@ -7602,7 +7730,7 @@
     "ab6e4f78-c78d-4270-9283-d7e81dc18672": {
       "type": "graph",
       "label": {
-        "en": "Philodendrum Solomoisense"
+        "en": "Philodendron Solimoesense"
       },
       "allocations": {
         "bf285fec-2545-403d-8da2-f55cf2395b1b": {
@@ -7614,7 +7742,7 @@
           "y": -780
         },
         "64962446-0a02-44bb-b6bc-e5970138ed41": {
-          "x": -320,
+          "x": 140,
           "y": -780
         },
         "738718b7-459d-43e3-bc38-2a9b35c098bb": {
@@ -7630,16 +7758,16 @@
           "y": -440
         },
         "cc4aae5f-70bb-43d8-b851-2288fe9fe7bb": {
-          "x": -380,
-          "y": -600
+          "x": -440,
+          "y": -560
         },
         "743e21a8-386d-44d6-b5a9-7b340eddbbf7": {
-          "x": 40,
-          "y": -620
+          "x": -20,
+          "y": -680
         },
         "aba7e3f4-6489-4c8e-8184-ca6e8129080c": {
-          "x": 80,
-          "y": -460
+          "x": 100,
+          "y": -520
         },
         "8f8b217b-f716-447a-9374-88521a68a941": {
           "x": -200,
@@ -7650,7 +7778,7 @@
           "y": -600
         },
         "882dc240-9783-412f-adab-59eca70083b8": {
-          "x": -380,
+          "x": -440,
           "y": -160
         },
         "2d37cd57-6332-431b-a090-9d9ec281b2cb": {
@@ -7672,6 +7800,30 @@
         "0d59982f-b849-455f-a6f0-931baf9dd692": {
           "x": -60,
           "y": -900
+        },
+        "488ddcc0-a34f-4ed4-a6bc-7b9419506969": {
+          "x": -1040,
+          "y": -320,
+          "locked": true
+        },
+        "e13035fb-2de6-4868-91bd-66f862907a84": {
+          "x": -440,
+          "y": -720,
+          "locked": true
+        },
+        "68236564-eb28-424c-a09c-3338bcde095a": {
+          "x": 300,
+          "y": -800,
+          "locked": true
+        },
+        "47fbf4f5-4809-40e0-b12f-cf7a5b134b06": {
+          "x": -500,
+          "y": -760,
+          "locked": true
+        },
+        "20d96d88-dbf9-45bc-bdc7-87479dfe72db": {
+          "x": -740,
+          "y": -1180
         }
       },
       "media": {
@@ -7754,46 +7906,37 @@
         }
       },
       "image": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense.png",
-      "marker": [
-        {
-          "time": 0,
-          "states": {
-            "befcab40-88f9-475d-a196-a14c4240e235": "default"
-          },
-          "bounds": {
-            "x1": -1332.9155313351498,
-            "y1": -1027.7929155313352,
-            "x2": -1332.9155313351498,
-            "y2": -1027.7929155313352
-          }
-        },
-        {
-          "time": 100.582404,
-          "bounds": {
-            "x1": -1299.9155313351498,
-            "y1": -1048.7929155313352,
-            "x2": -793.9155313351498,
-            "y2": -434.7929155313352
-          }
-        }
-      ]
+      "marker": []
     },
     "1ef8214c-6ed9-4a7f-8ce1-9ab934d573b5": {
       "type": "entity",
       "label": {
-        "en": "Phillodendron Solimoesense"
-      }
+        "en": "Philodendron Solimoesense"
+      },
+      "url": [
+        "https://www.gbif.org/species/2870875"
+      ]
     },
     "738718b7-459d-43e3-bc38-2a9b35c098bb": {
       "type": "entity",
       "label": {
         "en": "Solimões River"
+      },
+      "description": {
+        "en": "Name given to upper stretches of the Amazon River in Brazil from its confluence with the Rio Negro upstream to the border of Peru. ",
+        "de": "Bezeichnung für die oberen Abschnitte des Amazonas in Brasilien von der Einmündung in den Rio Negro stromaufwärts bis zur Grenze zu Peru. ",
+        "pt": "Nome dado às seções superiores da Amazônia no Brasil, desde a confluência com o Rio Negro a montante até a fronteira com o Peru."
       }
     },
     "ffa0b6d1-c0e3-42d0-8865-6d555ff14c18": {
       "type": "entity",
       "label": {
         "en": "Amazonas River"
+      },
+      "description": {
+        "de": "Zweitlängste Fluss der Welt. Befindet sich im nördlichen Teil Südamerikas.",
+        "en": "Second longest river in the world. Located in the northern part of South America.",
+        "pt": "Segundo maior rio do mundo. Localizado na parte norte da América do Sul."
       }
     },
     "8cfaa1ca-2d06-4e1c-94e0-252e41b6d385": {
@@ -7806,7 +7949,15 @@
       "type": "entity",
       "label": {
         "en": "Boris Alexander Krukoff"
-      }
+      },
+      "description": {
+        "en": "Russian-born U.S. botanist (1898–1983)",
+        "de": "In Russland geborener amerikanischer Botaniker (1898-1983)",
+        "pt": "Botânico americano nascido na Rússia (1898-1983)"
+      },
+      "url": [
+        "https://www.wikidata.org/wiki/Q5732192"
+      ]
     },
     "743e21a8-386d-44d6-b5a9-7b340eddbbf7": {
       "type": "entity",
@@ -7824,31 +7975,51 @@
       "type": "entity",
       "label": {
         "en": "United States Rubber Company"
-      }
+      },
+      "url": []
     },
     "befcab40-88f9-475d-a196-a14c4240e235": {
       "type": "entity",
       "label": {
         "en": "São Paulo de Olivença"
+      },
+      "description": {
+        "en": "São Paulo de Olivença is a community and a municipality near the western edge of the state of Amazonas near the tri-country border area in Brazil.",
+        "de": "São Paulo de Olivença ist eine Gemeinde und ein Stadtbezirk am westlichen Rand des Bundesstaates Amazonas in der Nähe des Dreiländerecks in Brasilien.",
+        "pt": "São Paulo de Olivença é um município e município do extremo oeste do estado do Amazonas, próximo ao triângulo fronteiriço do Brasil."
       }
     },
     "882dc240-9783-412f-adab-59eca70083b8": {
       "type": "entity",
       "label": {
         "en": "New York Botanical Garden"
-      }
+      },
+      "url": [
+        "https://www.nybg.org/"
+      ]
     },
     "2d37cd57-6332-431b-a090-9d9ec281b2cb": {
       "type": "entity",
       "label": {
         "en": "Albert Charles Smith"
+      },
+      "url": [
+        "https://www.wikidata.org/wiki/Q1922675"
+      ],
+      "description": {
+        "en": "American botanist (1906-1999)",
+        "de": "Amerikanischer Botaniker (1906-1999)",
+        "pt": "Botânico americano (1906-1999)"
       }
     },
     "872831d9-28c5-4c26-bfe5-c74bcbcdd180": {
       "type": "entity",
       "label": {
         "en": "Botanical Garden Berlin"
-      }
+      },
+      "url": [
+        "https://bo.berlin/"
+      ]
     },
     "18dc2229-742e-466e-8cd0-f3430f628176": {
       "type": "entity",
@@ -7874,27 +8045,6 @@
         "en": "mountain range"
       }
     },
-    "86983fbe-569d-4f9c-8557-075f6e043cab": {
-      "type": "image",
-      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Forest1.png",
-      "label": {
-        "universal": "story%20of%20uhi/story%20of%20uhi_Forest1"
-      }
-    },
-    "ccbfa981-5b97-4096-b281-b3b95929f63e": {
-      "type": "image",
-      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Forest2.png",
-      "label": {
-        "universal": "story%20of%20uhi/story%20of%20uhi_Forest2"
-      }
-    },
-    "8c2dbcea-8d07-40c8-9bbd-0e1bacd60397": {
-      "type": "image",
-      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Forest3.png",
-      "label": {
-        "universal": "story%20of%20uhi/story%20of%20uhi_Forest3"
-      }
-    },
     "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": {
       "type": "image",
       "file": "xingu:story%20of%20uhi/storyOfUhi_burriti.png",
@@ -7902,18 +8052,129 @@
         "universal": "story%20of%20uhi/storyOfUhi_burriti"
       }
     },
-    "df935e2b-e26b-437c-a6db-1e7e20bcdc08": {
-      "type": "image",
-      "file": "xingu:Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_dots.png",
-      "label": {
-        "universal": "Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_dots"
-      }
-    },
     "083159d6-83b4-455b-98b5-c542a4412378": {
       "type": "image",
       "file": "xingu:Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_MF.png",
       "label": {
         "universal": "Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_MF"
+      }
+    },
+    "91735c49-3599-47dd-8da5-568f660c6189": {
+      "type": "entity",
+      "label": {
+        "en": "bird"
+      },
+      "class": "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d"
+    },
+    "b9c6e30d-04bb-4ad7-ad48-7d8df9f3771d": {
+      "type": "entity",
+      "label": {
+        "en": "animal"
+      }
+    },
+    "488ddcc0-a34f-4ed4-a6bc-7b9419506969": {
+      "type": "image",
+      "file": "xingu:Nils%20Philodendron%20Solimoisense/AlbertCharlesSmith.png",
+      "label": {
+        "universal": "Nils%20Philodendron%20Solimoisense/AlbertCharlesSmith"
+      }
+    },
+    "e13035fb-2de6-4868-91bd-66f862907a84": {
+      "type": "image",
+      "file": "xingu:Nils%20Philodendron%20Solimoisense/AlexanderKrukoff.png",
+      "label": {
+        "universal": "Nils%20Philodendron%20Solimoisense/AlexanderKrukoff"
+      }
+    },
+    "68236564-eb28-424c-a09c-3338bcde095a": {
+      "type": "image",
+      "file": "xingu:Nils%20Philodendron%20Solimoisense/Tihigu.png",
+      "label": {
+        "universal": "Nils%20Philodendron%20Solimoisense/Tihigu"
+      }
+    },
+    "47fbf4f5-4809-40e0-b12f-cf7a5b134b06": {
+      "type": "image",
+      "file": "xingu:Nils%20Philodendron%20Solimoisense/grafic.png",
+      "label": {
+        "universal": "Nils%20Philodendron%20Solimoisense/grafic"
+      }
+    },
+    "20d96d88-dbf9-45bc-bdc7-87479dfe72db": {
+      "type": "image",
+      "file": "xingu:Nils%20Philodendron%20Solimoisense/Ambe.png",
+      "label": {
+        "universal": "Nils%20Philodendron%20Solimoisense/Ambe"
+      }
+    },
+    "de5d7ffb-e12d-483f-8ac1-98f9130be085": {
+      "type": "image",
+      "file": "xingu:collecting%20moriche/Mauritia_flexuosa.png",
+      "label": {
+        "universal": "collecting%20moriche/Mauritia_flexuosa"
+      }
+    },
+    "93767d53-0f42-47b5-bf28-5f5d5770eb52": {
+      "type": "image",
+      "file": "xingu:on%20gimi/gimi_2.png",
+      "label": {
+        "universal": "on%20gimi/gimi_2"
+      }
+    },
+    "ffbc9dcc-dfae-4796-88ca-b82698ebe638": {
+      "type": "image",
+      "file": "xingu:on%20gimi/gimi_1.png",
+      "label": {
+        "universal": "on%20gimi/gimi_1"
+      }
+    },
+    "8cf70d9e-0762-4314-aacc-5282433a01ac": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Annatto1.png",
+      "label": {
+        "universal": "harvesting%20annatto/Annatto1"
+      }
+    },
+    "2242edca-f715-4e4f-a9b2-c2bc2edc0357": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Annatto_2.png",
+      "label": {
+        "universal": "harvesting%20annatto/Annatto_2"
+      }
+    },
+    "2be41613-e740-4831-8e64-7b51e76d050d": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Annatto_3.png",
+      "label": {
+        "universal": "harvesting%20annatto/Annatto_3"
+      }
+    },
+    "7eff675e-7174-411e-9498-529028edf26a": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Turmeric.png",
+      "label": {
+        "universal": "harvesting%20annatto/Turmeric"
+      }
+    },
+    "c36873ea-7b90-45a5-831b-b6e2745d9a30": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20Scientific%20Name/zigzagshape_2.png",
+      "label": {
+        "universal": "Nils%20Buriti%20Scientific%20Name/zigzagshape_2"
+      }
+    },
+    "7d7e154a-d214-46a8-a16b-a987810f3157": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20Scientific%20Name/Johann_Moritz_von_Nassau.png",
+      "label": {
+        "universal": "Nils%20Buriti%20Scientific%20Name/Johann_Moritz_von_Nassau"
+      }
+    },
+    "5c61138d-5261-4011-97e2-6fdb24e0e950": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20Scientific%20Name/mauritia_flexuosa.png",
+      "label": {
+        "universal": "Nils%20Buriti%20Scientific%20Name/mauritia_flexuosa"
       }
     }
   },
@@ -12776,15 +13037,6 @@
     },
     {
       "nodes": [
-        "aba7e3f4-6489-4c8e-8184-ca6e8129080c",
-        "cc4aae5f-70bb-43d8-b851-2288fe9fe7bb"
-      ],
-      "arrow": "→",
-      "graph": "ab6e4f78-c78d-4270-9283-d7e81dc18672",
-      "id": "694c9a09-5d98-4578-9b12-b25538aff7cf"
-    },
-    {
-      "nodes": [
         "8cfaa1ca-2d06-4e1c-94e0-252e41b6d385",
         "8cfaa1ca-2d06-4e1c-94e0-252e41b6d385"
       ],
@@ -13028,33 +13280,6 @@
     },
     {
       "nodes": [
-        "bf285fec-2545-403d-8da2-f55cf2395b1b",
-        "f9fbf1fc-b8d4-4e72-a4c9-8727c5e7c3fb"
-      ],
-      "arrow": "→",
-      "graph": "ab6e4f78-c78d-4270-9283-d7e81dc18672",
-      "id": "4adfbc48-148c-4447-9df0-d19ac23a191c"
-    },
-    {
-      "nodes": [
-        "18dc2229-742e-466e-8cd0-f3430f628176",
-        "0d59982f-b849-455f-a6f0-931baf9dd692"
-      ],
-      "arrow": "→",
-      "graph": "ab6e4f78-c78d-4270-9283-d7e81dc18672",
-      "id": "f15fd750-6583-4f79-ac4c-2881979b0260"
-    },
-    {
-      "nodes": [
-        "872831d9-28c5-4c26-bfe5-c74bcbcdd180",
-        "18dc2229-742e-466e-8cd0-f3430f628176"
-      ],
-      "arrow": "→",
-      "graph": "ab6e4f78-c78d-4270-9283-d7e81dc18672",
-      "id": "3e309d4a-8e1a-4a4c-8ec2-fec811e740fd"
-    },
-    {
-      "nodes": [
         "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
         "0a838d76-504e-4aa1-bd75-49a6791a801f"
       ],
@@ -13072,5 +13297,5 @@
       "id": "7428e907-3ec2-470a-8ca2-d2c7cd8dd540"
     }
   ],
-  "exported": 1732546719715
+  "exported": 1732654420247
 }
