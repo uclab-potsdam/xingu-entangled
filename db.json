@@ -5770,7 +5770,10 @@
       "label": {
         "en": "Tuahi"
       },
-      "class": "83c5edf2-dee2-43a2-8290-5159abccdaae"
+      "class": "83c5edf2-dee2-43a2-8290-5159abccdaae",
+      "url": [
+        "https://recherche.smb.museum/detail/151746/siebmatte?language=de&limit=15&sort=relevance&controls=none&conditions=AND%2BtechnicalTerm%2BSiebmatte&objIdx=13"
+      ]
     },
     "43cff938-259c-4887-bb11-9adb23c867ee": {
       "type": "entity",
@@ -13326,5 +13329,5 @@
       "id": "7428e907-3ec2-470a-8ca2-d2c7cd8dd540"
     }
   ],
-  "exported": 1732704677991
+  "exported": 1732707666947
 }
