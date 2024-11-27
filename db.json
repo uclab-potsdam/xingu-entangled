@@ -62,7 +62,7 @@
       "label": {
         "en": "Using Kusu",
         "pt": "O uso de Kuso",
-        "de": "Die Verwendung von Kusu"
+        "de": "Verwendung von Kusu"
       },
       "allocations": {
         "09eda7fb-82fc-4989-9410-fe2e1a79ec81": {
@@ -626,7 +626,7 @@
       "type": "graph",
       "label": {
         "en": "Collecting Ambe",
-        "de": "Das Sammeln von Ambe",
+        "de": "Ambe sammeln",
         "pt": "Coletando Ambe"
       },
       "allocations": {
@@ -1811,14 +1811,6 @@
           "x": -660,
           "y": -240
         },
-        "7acd1842-1bbf-4754-ad0d-791f60590f5d": {
-          "x": 460,
-          "y": -300
-        },
-        "a9846cca-415d-456a-bcc5-654e2671f8b2": {
-          "x": -160,
-          "y": 300
-        },
         "0a0325cc-2917-498d-a649-dba6e0baed0c": {
           "x": -500,
           "y": 280
@@ -1826,6 +1818,22 @@
         "399dbcb8-f1d2-4971-9c02-5866ba73ef32": {
           "x": 0,
           "y": 60
+        },
+        "8cf918a4-1847-4f42-96f2-886d4aade199": {
+          "x": 500,
+          "y": -300
+        },
+        "989dc621-eaca-483e-b233-9c6c54ad8568": {
+          "x": -180,
+          "y": 340
+        },
+        "f668ac38-da82-41ed-940e-01be7ab14326": {
+          "x": -160,
+          "y": 340
+        },
+        "e16fdccf-5717-42a0-80ee-488792daca1e": {
+          "x": 500,
+          "y": -360
         }
       },
       "media": {
@@ -1863,7 +1871,9 @@
             "a9846cca-415d-456a-bcc5-654e2671f8b2": "hide",
             "7acd1842-1bbf-4754-ad0d-791f60590f5d": "hide",
             "0a0325cc-2917-498d-a649-dba6e0baed0c": "hide",
-            "399dbcb8-f1d2-4971-9c02-5866ba73ef32": "hide"
+            "399dbcb8-f1d2-4971-9c02-5866ba73ef32": "hide",
+            "e16fdccf-5717-42a0-80ee-488792daca1e": "hide",
+            "f668ac38-da82-41ed-940e-01be7ab14326": "hide"
           },
           "bounds": {
             "x1": -457.90132036136214,
@@ -1880,13 +1890,14 @@
             "64962446-0a02-44bb-b6bc-e5970138ed41": "default",
             "341a06c6-6e06-40ea-8353-6b532bd327ee": "highlight",
             "a9846cca-415d-456a-bcc5-654e2671f8b2": "default",
-            "0a0325cc-2917-498d-a649-dba6e0baed0c": "default"
+            "0a0325cc-2917-498d-a649-dba6e0baed0c": "default",
+            "f668ac38-da82-41ed-940e-01be7ab14326": "default"
           },
           "bounds": {
-            "x1": -582.1030737213247,
-            "y1": -149.2226167439885,
-            "x2": 208.58692745111955,
-            "y2": 487.81102792530874
+            "x1": -584.7251495312596,
+            "y1": -159.07164014662754,
+            "x2": 267.549569927647,
+            "y2": 565.1290094482357
           }
         },
         {
@@ -1912,13 +1923,14 @@
           "states": {
             "13f03b38-91d6-4c69-a487-1a740a8b8351": "highlight",
             "9efc33b3-ffde-42d5-88c6-deb872a871a6": "highlight",
-            "c4a0c011-215a-444b-93a2-dc7e4f0031e2": "default"
+            "c4a0c011-215a-444b-93a2-dc7e4f0031e2": "default",
+            "e16fdccf-5717-42a0-80ee-488792daca1e": "default"
           },
           "bounds": {
-            "x1": -277.8004747242609,
-            "y1": -546.4784280723973,
-            "x2": 750.316778165721,
-            "y2": 250.78220928615247
+            "x1": -305.2908152824378,
+            "y1": -687.6682557673155,
+            "x2": 852.0330523980992,
+            "y2": 297.33777245978143
           }
         },
         {
@@ -3222,7 +3234,7 @@
       "type": "graph",
       "label": {
         "en": "Collecting Moriche Leaves",
-        "de": "Sammeln von Moriche-Blätter",
+        "de": "Moriche-Blätter sammeln",
         "pt": "Coletando folhas de Moriche"
       },
       "allocations": {
@@ -3322,10 +3334,9 @@
           "x": -160,
           "y": 660
         },
-        "de5d7ffb-e12d-483f-8ac1-98f9130be085": {
-          "x": 240,
-          "y": 380,
-          "locked": false
+        "fe9c28d7-3e81-46c0-a851-cb79a39e9cdc": {
+          "x": 60,
+          "y": -40
         }
       },
       "media": {
@@ -3718,7 +3729,7 @@
       "type": "graph",
       "label": {
         "en": "Harvesting Annatto and Turmeric",
-        "de": "Ernte von Annatto und Kurkuma",
+        "de": "Annatto und Kurkuma ernten",
         "pt": "colheita de urucum e açafrão"
       },
       "allocations": {
@@ -3798,14 +3809,6 @@
           "x": 700,
           "y": 140
         },
-        "8cf70d9e-0762-4314-aacc-5282433a01ac": {
-          "x": 420,
-          "y": -640
-        },
-        "2242edca-f715-4e4f-a9b2-c2bc2edc0357": {
-          "x": 520,
-          "y": -380
-        },
         "2be41613-e740-4831-8e64-7b51e76d050d": {
           "x": 420,
           "y": 0
@@ -3813,6 +3816,26 @@
         "7eff675e-7174-411e-9498-529028edf26a": {
           "x": 440,
           "y": 860
+        },
+        "3b283c2a-65d6-46b1-b0e0-799aed1fff0a": {
+          "x": 1480.6629277021416,
+          "y": 890.8756928345817
+        },
+        "e6392b75-50a0-4548-b221-4b8a873ab9d4": {
+          "x": 320,
+          "y": -380
+        },
+        "87115017-efec-4be1-adf6-52b58c9fac83": {
+          "x": 520,
+          "y": -260
+        },
+        "7cfb0860-9139-44a2-a1cd-bb0b37b11fe6": {
+          "x": 540,
+          "y": -500
+        },
+        "94fcfd16-149e-472c-8611-03da6555990f": {
+          "x": 420,
+          "y": -660
         }
       },
       "media": {
@@ -4136,7 +4159,7 @@
       "type": "graph",
       "label": {
         "en": "On Gimi and how to make it",
-        "de": "Über Gimi und dessen Herstellung"
+        "de": "Gimi und dessen Herstellung"
       },
       "allocations": {
         "d14ef567-a2d5-463f-8264-04a7ea0500ac": {
@@ -4659,7 +4682,7 @@
       "type": "graph",
       "label": {
         "en": "Collecting and processing for Gimi",
-        "de": "Über das Sammeln und die Verarbeitung für Gimi",
+        "de": "Sammeln und Verarbeitung für Gimi",
         "pt": "Coleta e processamento para Gimi"
       },
       "allocations": {
@@ -5325,6 +5348,34 @@
         "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": {
           "x": -200,
           "y": 200
+        },
+        "77c2b609-cc05-46b7-9b79-cc123e10d801": {
+          "x": 1640,
+          "y": 440
+        },
+        "694d579a-3e8f-4df8-a488-68ebffd68e75": {
+          "x": 1280,
+          "y": 0
+        },
+        "7c6a7e39-2cca-4086-be14-9231b7d087cd": {
+          "x": 860,
+          "y": -40
+        },
+        "7f9c76c1-ad8b-4a05-8600-ddc521d7dcd3": {
+          "x": 1580,
+          "y": 80
+        },
+        "57cc2dca-c021-4368-bc2c-a31d7279ea5d": {
+          "x": 1760,
+          "y": 540
+        },
+        "57c81a8d-bdec-4109-8bf7-2b2398d44f15": {
+          "x": 920,
+          "y": -80
+        },
+        "5a7b7974-d842-4d7f-bc3a-f025ef719af8": {
+          "x": 1800,
+          "y": 440
         }
       },
       "image": "xingu:customs of mats/customs of mats.png",
@@ -6020,11 +6071,11 @@
           "y": 520
         },
         "78eabc38-e93a-420b-af5e-69fb2308900b": {
-          "x": -1260,
-          "y": 620
+          "x": -1660,
+          "y": 520
         },
         "30f27cf9-8704-43d2-88bc-14c2c7af9791": {
-          "x": -900,
+          "x": -920,
           "y": 340
         },
         "f3ec30e4-822b-4ec4-954d-8c216021f0ce": {
@@ -6032,8 +6083,8 @@
           "y": 80
         },
         "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": {
-          "x": -1480,
-          "y": 260
+          "x": -1500,
+          "y": -60
         },
         "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": {
           "x": -1060,
@@ -6064,8 +6115,20 @@
           "y": 280
         },
         "68585357-ebe4-4355-bfd4-338be23c8792": {
-          "x": -1280,
-          "y": -40
+          "x": -1460,
+          "y": -200
+        },
+        "d82bc6e6-554c-44cf-a923-1c8d28048dab": {
+          "x": -780,
+          "y": 540
+        },
+        "43943c07-27a4-43f3-a186-a958973634a4": {
+          "x": -1520,
+          "y": 420
+        },
+        "2ec6bbbe-bfeb-4e85-96f5-d3bfb48a846e": {
+          "x": -1080,
+          "y": 20
         }
       },
       "marker": [
@@ -6086,13 +6149,16 @@
             "02ffa734-94bb-4520-9694-378fd4f97935": "hide",
             "8b172be1-0554-49eb-bc07-b66f52866383": "hide",
             "96193645-f7fe-4336-9e6c-f99031236f13": "hide",
-            "81caca6f-2455-48c4-8d18-47e2e2fb6e0d": "hide"
+            "81caca6f-2455-48c4-8d18-47e2e2fb6e0d": "hide",
+            "43943c07-27a4-43f3-a186-a958973634a4": "hide",
+            "d82bc6e6-554c-44cf-a923-1c8d28048dab": "hide",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "default"
           },
           "bounds": {
-            "x1": -1720.3814713896459,
-            "y1": -155.5313351498637,
-            "x2": -848.0108991825614,
-            "y2": 546.158038147139
+            "x1": -1704.5950828327464,
+            "y1": -353.0104808669079,
+            "x2": -835.0035184576199,
+            "y2": 263.04893803645143
           }
         },
         {
@@ -6115,13 +6181,22 @@
           "states": {
             "78eabc38-e93a-420b-af5e-69fb2308900b": "highlight",
             "d301e65b-b597-4305-af41-bed66f561a87": "default",
-            "68585357-ebe4-4355-bfd4-338be23c8792": "hide"
+            "68585357-ebe4-4355-bfd4-338be23c8792": "hide",
+            "43943c07-27a4-43f3-a186-a958973634a4": "default",
+            "d82bc6e6-554c-44cf-a923-1c8d28048dab": "default"
+          },
+          "bounds": {
+            "x1": -1775.67886193698,
+            "y1": -175.30103310632347,
+            "x2": -486.6930008468744,
+            "y2": 779.5910661938834
           }
         },
         {
           "time": 30.592469,
           "states": {
-            "dc2f7c3a-10e6-4dbd-b6bf-663e27a5e8e1": "highlight"
+            "dc2f7c3a-10e6-4dbd-b6bf-663e27a5e8e1": "highlight",
+            "78eabc38-e93a-420b-af5e-69fb2308900b": "default"
           }
         },
         {
@@ -6153,12 +6228,19 @@
           "time": 139.736291,
           "states": {
             "8b172be1-0554-49eb-bc07-b66f52866383": "highlight"
+          },
+          "bounds": {
+            "x1": -1871.394812518523,
+            "y1": -480.65352677226895,
+            "x2": 35.13401258731264,
+            "y2": 822.4446197188956
           }
         },
         {
           "time": 220.807708,
           "states": {
-            "02ffa734-94bb-4520-9694-378fd4f97935": "highlight"
+            "02ffa734-94bb-4520-9694-378fd4f97935": "highlight",
+            "8b172be1-0554-49eb-bc07-b66f52866383": "default"
           }
         },
         {
@@ -6258,6 +6340,12 @@
             "81caca6f-2455-48c4-8d18-47e2e2fb6e0d": "highlight",
             "d301e65b-b597-4305-af41-bed66f561a87": "default",
             "68585357-ebe4-4355-bfd4-338be23c8792": "default"
+          },
+          "bounds": {
+            "x1": -1979.5023148563566,
+            "y1": -694.8844015367481,
+            "x2": 188.10362420635727,
+            "y2": 812.6610823978461
           }
         }
       ]
@@ -6455,9 +6543,17 @@
           "x": 1300,
           "y": -240
         },
-        "083159d6-83b4-455b-98b5-c542a4412378": {
-          "x": -140,
-          "y": -140
+        "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": {
+          "x": 900,
+          "y": -700
+        },
+        "bc73f262-59eb-4007-a15b-ccffa071ba9a": {
+          "x": 500,
+          "y": -220
+        },
+        "ec469581-8ec6-4acd-885b-fabc404be438": {
+          "x": -20,
+          "y": -320
         }
       },
       "marker": [
@@ -6478,7 +6574,9 @@
             "1108c8a3-6af6-4c29-b490-e75c948df002": "highlight",
             "0b00824f-8cef-4bf3-bf38-e15193372fea": "highlight",
             "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": "hide",
-            "6b05d29c-c9db-4083-9a79-731ce005a7ab": "hide"
+            "6b05d29c-c9db-4083-9a79-731ce005a7ab": "hide",
+            "ec469581-8ec6-4acd-885b-fabc404be438": "hide",
+            "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": "hide"
           },
           "bounds": {
             "x1": 242.09809264305179,
@@ -6545,7 +6643,14 @@
           "time": 71.850776,
           "states": {
             "6e01908e-cc89-4585-b5c7-6fccf2b4cd91": "highlight",
-            "1108c8a3-6af6-4c29-b490-e75c948df002": "default"
+            "1108c8a3-6af6-4c29-b490-e75c948df002": "default",
+            "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": "default"
+          },
+          "bounds": {
+            "x1": 293.21799300796135,
+            "y1": -907.0873181641442,
+            "x2": 1147.2994639897431,
+            "y2": -94.62422394630521
           }
         },
         {
@@ -6558,15 +6663,16 @@
         {
           "time": 90.207294,
           "bounds": {
-            "x1": 15.191272373958487,
-            "y1": -616.305600230587,
-            "x2": 1466.6534732622683,
-            "y2": 263.8205030829823
+            "x1": -279.0470187356624,
+            "y1": -925.0382557734791,
+            "x2": 1504.1020559530327,
+            "y2": 273.21721821906937
           },
           "states": {
             "c4a73dee-4406-4ecf-abf6-466158961a9f": "default",
             "9711b43d-43c9-438d-9393-77d26dfdea64": "default",
-            "1108c8a3-6af6-4c29-b490-e75c948df002": "highlight"
+            "1108c8a3-6af6-4c29-b490-e75c948df002": "highlight",
+            "ec469581-8ec6-4acd-885b-fabc404be438": "default"
           }
         },
         {
@@ -6757,7 +6863,7 @@
           "y": -220
         },
         "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": {
-          "x": -1740,
+          "x": -1680,
           "y": -120
         },
         "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe": {
@@ -6814,23 +6920,23 @@
         },
         "0a838d76-504e-4aa1-bd75-49a6791a801f": {
           "x": -1740,
-          "y": -700
+          "y": -680
         },
         "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
-          "x": -2560,
-          "y": -820
+          "x": -2500,
+          "y": -780
         },
         "c36873ea-7b90-45a5-831b-b6e2745d9a30": {
-          "x": -1760,
-          "y": -280
+          "x": -1860,
+          "y": -60
         },
         "7d7e154a-d214-46a8-a16b-a987810f3157": {
-          "x": -2220,
-          "y": -200
+          "x": -2140,
+          "y": -340
         },
         "5c61138d-5261-4011-97e2-6fdb24e0e950": {
-          "x": -1960,
-          "y": -720
+          "x": -2060,
+          "y": -560
         }
       },
       "marker": [
@@ -7229,20 +7335,6 @@
       "file": "xingu:collecting%20ambe/collecting%20ambe_graphic%201.png",
       "label": {
         "universal": "collecting%20ambe/collecting%20ambe_graphic%201"
-      }
-    },
-    "7acd1842-1bbf-4754-ad0d-791f60590f5d": {
-      "type": "image",
-      "file": "xingu:using%20utu/using%20utu_Bubbles.png",
-      "label": {
-        "universal": "using%20utu/using%20utu_Bubbles"
-      }
-    },
-    "a9846cca-415d-456a-bcc5-654e2671f8b2": {
-      "type": "image",
-      "file": "xingu:using%20utu/using%20utu_utu.png",
-      "label": {
-        "universal": "using%20utu/using%20utu_utu"
       }
     },
     "fcbe8a8c-c399-4587-843e-5b5a0392acb6": {
@@ -8071,13 +8163,6 @@
         "universal": "story%20of%20uhi/storyOfUhi_burriti"
       }
     },
-    "083159d6-83b4-455b-98b5-c542a4412378": {
-      "type": "image",
-      "file": "xingu:Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_MF.png",
-      "label": {
-        "universal": "Nils%20Buriti%20pollination/dispersal%20and%20pollination%20of%20buriti_MF"
-      }
-    },
     "91735c49-3599-47dd-8da5-568f660c6189": {
       "type": "entity",
       "label": {
@@ -8126,13 +8211,6 @@
         "universal": "Nils%20Philodendron%20Solimoisense/Ambe"
       }
     },
-    "de5d7ffb-e12d-483f-8ac1-98f9130be085": {
-      "type": "image",
-      "file": "xingu:collecting%20moriche/Mauritia_flexuosa.png",
-      "label": {
-        "universal": "collecting%20moriche/Mauritia_flexuosa"
-      }
-    },
     "93767d53-0f42-47b5-bf28-5f5d5770eb52": {
       "type": "image",
       "file": "xingu:on%20gimi/gimi_2.png",
@@ -8145,20 +8223,6 @@
       "file": "xingu:on%20gimi/gimi_1.png",
       "label": {
         "universal": "on%20gimi/gimi_1"
-      }
-    },
-    "8cf70d9e-0762-4314-aacc-5282433a01ac": {
-      "type": "image",
-      "file": "xingu:harvesting%20annatto/Annatto1.png",
-      "label": {
-        "universal": "harvesting%20annatto/Annatto1"
-      }
-    },
-    "2242edca-f715-4e4f-a9b2-c2bc2edc0357": {
-      "type": "image",
-      "file": "xingu:harvesting%20annatto/Annatto_2.png",
-      "label": {
-        "universal": "harvesting%20annatto/Annatto_2"
       }
     },
     "2be41613-e740-4831-8e64-7b51e76d050d": {
@@ -8208,6 +8272,160 @@
       "file": "xingu:story%20of%20uhi/story%20of%20uhi_Liquid_1.png",
       "label": {
         "universal": "story%20of%20uhi/story%20of%20uhi_Liquid_1"
+      }
+    },
+    "fe9c28d7-3e81-46c0-a851-cb79a39e9cdc": {
+      "type": "image",
+      "file": "xingu:collecting%20moriche/MauritiaFlexuosa.png",
+      "label": {
+        "universal": "collecting%20moriche/MauritiaFlexuosa"
+      }
+    },
+    "d82bc6e6-554c-44cf-a923-1c8d28048dab": {
+      "type": "image",
+      "file": "xingu:owner%20of%20Kusu/serpent.png",
+      "label": {
+        "universal": "owner%20of%20Kusu/serpent"
+      }
+    },
+    "43943c07-27a4-43f3-a186-a958973634a4": {
+      "type": "image",
+      "file": "xingu:owner%20of%20Kusu/piranha.png",
+      "label": {
+        "universal": "owner%20of%20Kusu/piranha"
+      }
+    },
+    "3b283c2a-65d6-46b1-b0e0-799aed1fff0a": {
+      "type": "image",
+      "file": "local:Annatto_4.png",
+      "label": {
+        "universal": ""
+      }
+    },
+    "e6392b75-50a0-4548-b221-4b8a873ab9d4": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Annatto_5.png",
+      "label": {
+        "universal": "harvesting%20annatto/Annatto_5"
+      }
+    },
+    "87115017-efec-4be1-adf6-52b58c9fac83": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Annatto_4.png",
+      "label": {
+        "universal": "harvesting%20annatto/Annatto_4"
+      }
+    },
+    "7cfb0860-9139-44a2-a1cd-bb0b37b11fe6": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Annatto_2.png",
+      "label": {
+        "universal": "harvesting%20annatto/Annatto_2"
+      }
+    },
+    "94fcfd16-149e-472c-8611-03da6555990f": {
+      "type": "image",
+      "file": "xingu:harvesting%20annatto/Annatto1.png",
+      "label": {
+        "universal": "harvesting%20annatto/Annatto1"
+      }
+    },
+    "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20pollination/Moriche_1.png",
+      "label": {
+        "universal": "Nils%20Buriti%20pollination/Moriche_1"
+      }
+    },
+    "bc73f262-59eb-4007-a15b-ccffa071ba9a": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20pollination/grafik.png",
+      "label": {
+        "universal": "Nils%20Buriti%20pollination/grafik"
+      }
+    },
+    "ec469581-8ec6-4acd-885b-fabc404be438": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20pollination/Moriche_2.png",
+      "label": {
+        "universal": "Nils%20Buriti%20pollination/Moriche_2"
+      }
+    },
+    "8cf918a4-1847-4f42-96f2-886d4aade199": {
+      "type": "image",
+      "file": "xingu:using%20utu/Screenshot%202024-11-27%20at%2017.33.14.png",
+      "label": {
+        "universal": "using%20utu/Screenshot%202024-11-27%20at%2017.33.14"
+      }
+    },
+    "989dc621-eaca-483e-b233-9c6c54ad8568": {
+      "type": "image",
+      "file": "xingu:using%20utu/Screenshot%202024-11-27%20at%2017.40.15.png",
+      "label": {
+        "universal": "using%20utu/Screenshot%202024-11-27%20at%2017.40.15"
+      }
+    },
+    "f668ac38-da82-41ed-940e-01be7ab14326": {
+      "type": "image",
+      "file": "xingu:using%20utu/bubbles%20raster%20Utu.png",
+      "label": {
+        "universal": "using%20utu/bubbles%20raster%20Utu"
+      }
+    },
+    "e16fdccf-5717-42a0-80ee-488792daca1e": {
+      "type": "image",
+      "file": "xingu:using%20utu/bubbles_raster.png",
+      "label": {
+        "universal": "using%20utu/bubbles_raster"
+      }
+    },
+    "77c2b609-cc05-46b7-9b79-cc123e10d801": {
+      "type": "image",
+      "file": "xingu:customs%20of%20mats/customs%20of%20mats_mats4.png",
+      "label": {
+        "universal": "customs%20of%20mats/customs%20of%20mats_mats4"
+      }
+    },
+    "694d579a-3e8f-4df8-a488-68ebffd68e75": {
+      "type": "image",
+      "file": "xingu:customs%20of%20mats/customs%20of%20mats_mats2.png",
+      "label": {
+        "universal": "customs%20of%20mats/customs%20of%20mats_mats2"
+      }
+    },
+    "7c6a7e39-2cca-4086-be14-9231b7d087cd": {
+      "type": "image",
+      "file": "xingu:customs%20of%20mats/customs%20of%20mats_mats1.png",
+      "label": {
+        "universal": "customs%20of%20mats/customs%20of%20mats_mats1"
+      }
+    },
+    "7f9c76c1-ad8b-4a05-8600-ddc521d7dcd3": {
+      "type": "image",
+      "file": "xingu:customs%20of%20mats/Screenshot%202024-11-27%20at%2017.51.30.png",
+      "label": {
+        "universal": "customs%20of%20mats/Screenshot%202024-11-27%20at%2017.51.30"
+      }
+    },
+    "57cc2dca-c021-4368-bc2c-a31d7279ea5d": {
+      "type": "image",
+      "file": "xingu:customs%20of%20mats/Screenshot%202024-11-27%20at%2017.49.42.png",
+      "label": {
+        "universal": "customs%20of%20mats/Screenshot%202024-11-27%20at%2017.49.42"
+      }
+    },
+    "57c81a8d-bdec-4109-8bf7-2b2398d44f15": {
+      "type": "image",
+      "file": "xingu:customs%20of%20mats/Screenshot%202024-11-27%20at%2017.49.42%20Copy.png",
+      "label": {
+        "universal": "customs%20of%20mats/Screenshot%202024-11-27%20at%2017.49.42%20Copy"
+      }
+    },
+    "5a7b7974-d842-4d7f-bc3a-f025ef719af8": {
+      "type": "image",
+      "file": "xingu:customs%20of%20mats/Mask.png",
+      "label": {
+        "universal": "customs%20of%20mats/Mask"
       }
     }
   },
@@ -13330,5 +13548,5 @@
       "id": "7428e907-3ec2-470a-8ca2-d2c7cd8dd540"
     }
   ],
-  "exported": 1732708348160
+  "exported": 1732726891630
 }
