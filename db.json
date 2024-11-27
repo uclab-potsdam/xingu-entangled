@@ -1161,8 +1161,8 @@
           "y": 180
         },
         "fcbe8a8c-c399-4587-843e-5b5a0392acb6": {
-          "x": 140,
-          "y": -580
+          "x": 200,
+          "y": -600
         },
         "c7342255-8433-48fb-aeb3-3d45007a59a8": {
           "x": 400,
@@ -1175,6 +1175,14 @@
         "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": {
           "x": -440,
           "y": 360
+        },
+        "2ec6bbbe-bfeb-4e85-96f5-d3bfb48a846e": {
+          "x": 340,
+          "y": 280
+        },
+        "ec4586be-07cd-4719-a10c-12808cad10c1": {
+          "x": 240,
+          "y": -560
         }
       },
       "media": {
@@ -6049,6 +6057,10 @@
         "8b172be1-0554-49eb-bc07-b66f52866383": {
           "x": -600,
           "y": 280
+        },
+        "68585357-ebe4-4355-bfd4-338be23c8792": {
+          "x": -1280,
+          "y": -40
         }
       },
       "marker": [
@@ -6097,7 +6109,8 @@
           "time": 24.219038,
           "states": {
             "78eabc38-e93a-420b-af5e-69fb2308900b": "highlight",
-            "d301e65b-b597-4305-af41-bed66f561a87": "default"
+            "d301e65b-b597-4305-af41-bed66f561a87": "default",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "hide"
           }
         },
         {
@@ -6238,7 +6251,8 @@
           "states": {
             "96193645-f7fe-4336-9e6c-f99031236f13": "highlight",
             "81caca6f-2455-48c4-8d18-47e2e2fb6e0d": "highlight",
-            "d301e65b-b597-4305-af41-bed66f561a87": "default"
+            "d301e65b-b597-4305-af41-bed66f561a87": "default",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "default"
           }
         }
       ]
@@ -8175,6 +8189,20 @@
       "file": "xingu:Nils%20Buriti%20Scientific%20Name/mauritia_flexuosa.png",
       "label": {
         "universal": "Nils%20Buriti%20Scientific%20Name/mauritia_flexuosa"
+      }
+    },
+    "2ec6bbbe-bfeb-4e85-96f5-d3bfb48a846e": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Liquid.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_Liquid"
+      }
+    },
+    "ec4586be-07cd-4719-a10c-12808cad10c1": {
+      "type": "image",
+      "file": "xingu:story%20of%20uhi/story%20of%20uhi_Liquid_1.png",
+      "label": {
+        "universal": "story%20of%20uhi/story%20of%20uhi_Liquid_1"
       }
     }
   },
@@ -13297,5 +13325,5 @@
       "id": "7428e907-3ec2-470a-8ca2-d2c7cd8dd540"
     }
   ],
-  "exported": 1732654420247
+  "exported": 1732704677990
 }
