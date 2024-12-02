@@ -4842,12 +4842,24 @@
           "y": -280
         },
         "a9038e82-1646-4339-af71-141a737827ce": {
-          "x": -920,
-          "y": -420
+          "x": -940,
+          "y": -500
         },
         "6d24e8f3-9832-43dd-83b9-9bb77db501cb": {
-          "x": -900,
-          "y": 280
+          "x": -460,
+          "y": 240
+        },
+        "a85079f1-4678-43df-a2ee-d2fbf3e094c4": {
+          "x": -1220,
+          "y": -160
+        },
+        "55dc73b0-3e38-4f82-827d-2de83927f4e1": {
+          "x": -1140,
+          "y": -300
+        },
+        "344c1ada-cbca-4b2c-973a-ba7c11c0bab8": {
+          "x": -860,
+          "y": 200
         }
       },
       "media": {
@@ -8519,6 +8531,27 @@
       "file": "xingu:owner%20of%20Kusu/serpiente_2.png",
       "label": {
         "universal": "owner%20of%20Kusu/serpiente_2"
+      }
+    },
+    "a85079f1-4678-43df-a2ee-d2fbf3e094c4": {
+      "type": "image",
+      "file": "xingu:collecting%20for%20gimi/Gimi.png",
+      "label": {
+        "universal": "collecting%20for%20gimi/Gimi"
+      }
+    },
+    "55dc73b0-3e38-4f82-827d-2de83927f4e1": {
+      "type": "image",
+      "file": "xingu:collecting%20for%20gimi/Gimi2.png",
+      "label": {
+        "universal": "collecting%20for%20gimi/Gimi2"
+      }
+    },
+    "344c1ada-cbca-4b2c-973a-ba7c11c0bab8": {
+      "type": "image",
+      "file": "xingu:collecting%20for%20gimi/Gimi3.png",
+      "label": {
+        "universal": "collecting%20for%20gimi/Gimi3"
       }
     }
   },
@@ -13693,5 +13726,5 @@
       }
     }
   ],
-  "exported": 1733144510978
+  "exported": 1733149456175
 }
