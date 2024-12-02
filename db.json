@@ -167,8 +167,9 @@
           "original": "xingu:using kusu/using_kusu.mp4"
         },
         "subtitles": {
-          "en": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_ENG.srt",
-          "pt": "xe:_/using kusu/20230713_1_TL_1080p_23,976fps_Ipi, Yawapa and Kaisu_Using Kusu_PT.srt"
+          "en": "xingu:using kusu/Using Kusu_ENG.srt",
+          "pt": "xingu:using kusu/Using Kusu_PT.srt",
+          "de": "xingu:using kusu/Using Kusu_DE.srt"
         }
       },
       "marker": [
@@ -244,7 +245,8 @@
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
             "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
             "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide",
-            "a30dba22-474d-415f-a7ea-3515f7b61439": "hide"
+            "a30dba22-474d-415f-a7ea-3515f7b61439": "hide",
+            "ef2e8af9-e56f-4e44-8a7d-5c414fa88e56": "default"
           },
           "bounds": {
             "x1": -842.2653353791317,
@@ -305,7 +307,8 @@
           "time": 131.667407,
           "states": {
             "1d2e6a21-5d51-4e8c-9ed3-a4fda454a84e": "highlight",
-            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "default"
+            "bae09528-e6d7-48ea-9a15-0348481e2ce6": "default",
+            "0f3f620c-1c72-4787-b87d-7a7be5ac4b20": "default"
           }
         },
         {
@@ -402,19 +405,15 @@
             "c4a0c011-215a-444b-93a2-dc7e4f0031e2": "hide",
             "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
             "0e4e7592-da50-4144-a0e2-100bc760d92b": "hide",
-            "a30dba22-474d-415f-a7ea-3515f7b61439": "hide"
+            "a30dba22-474d-415f-a7ea-3515f7b61439": "hide",
+            "0f3f620c-1c72-4787-b87d-7a7be5ac4b20": "hide",
+            "ef2e8af9-e56f-4e44-8a7d-5c414fa88e56": "hide"
           },
           "bounds": {
             "x1": -837.0500445456834,
             "y1": -302.303922016706,
             "x2": -38.787512049780226,
             "y2": 415.2354330357912
-          }
-        },
-        {
-          "time": 8.009665,
-          "states": {
-            "516fa5e8-cb8f-4618-b0ce-95a821c9144d": "hide"
           }
         }
       ],
@@ -442,7 +441,8 @@
       "type": "entity",
       "label": {
         "en": "people",
-        "de": "pessoas"
+        "de": "Personen",
+        "pt": "pessoas"
       }
     },
     "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": {
@@ -699,8 +699,9 @@
           "y": 240
         },
         "a3992788-fb1c-441c-ab12-715b83c74bf4": {
-          "x": 360,
-          "y": -300
+          "x": 340,
+          "y": -200,
+          "locked": false
         },
         "6f3c9424-f2dc-4db7-9127-d485dc2342fd": {
           "x": 200,
@@ -710,9 +711,9 @@
           "x": -237.46239008838614,
           "y": 900.3374594756926
         },
-        "3eef2223-2415-4fe6-9bbe-abc9a8d76201": {
-          "x": 160,
-          "y": -420
+        "39c3cfb2-868c-4daf-a5e5-e0bc89dc7aa8": {
+          "x": 120,
+          "y": -200
         }
       },
       "media": {
@@ -782,7 +783,9 @@
             "74dfa8c0-c697-48e7-87eb-12f806214b1a": "hide",
             "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "hide",
             "5b421e87-228e-4be0-822a-502d4ef1223e": "default",
-            "656d55d6-9db7-42dc-bd1c-406168127acb": "hide"
+            "656d55d6-9db7-42dc-bd1c-406168127acb": "hide",
+            "3eef2223-2415-4fe6-9bbe-abc9a8d76201": "hide",
+            "39c3cfb2-868c-4daf-a5e5-e0bc89dc7aa8": "hide"
           },
           "bounds": {
             "x1": -375.2662707618613,
@@ -797,7 +800,8 @@
             "7b5e0e61-e37a-44d4-8c49-732bfd5038de": "highlight",
             "f8cf6364-f066-456b-953a-8b1ad6d35559": "hide",
             "5b421e87-228e-4be0-822a-502d4ef1223e": "default",
-            "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "default"
+            "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "default",
+            "39c3cfb2-868c-4daf-a5e5-e0bc89dc7aa8": "default"
           },
           "bounds": {
             "x1": -284.5528842186356,
@@ -1073,10 +1077,6 @@
           "x": 240,
           "y": 160
         },
-        "91ba1235-1ac8-48d2-8501-a8368697d9be": {
-          "x": -220,
-          "y": 140
-        },
         "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83": {
           "x": -220,
           "y": 340
@@ -1184,6 +1184,10 @@
         "ec4586be-07cd-4719-a10c-12808cad10c1": {
           "x": 240,
           "y": -560
+        },
+        "e2b31ad2-8c3b-46a2-960e-5f3af54c11a3": {
+          "x": -220,
+          "y": 60
         }
       },
       "media": {
@@ -1234,10 +1238,10 @@
             "fcbe8a8c-c399-4587-843e-5b5a0392acb6": "hide"
           },
           "bounds": {
-            "x1": -916.3274855496278,
-            "y1": -649.2818290687616,
-            "x2": 194.76055133044474,
-            "y2": 320.4351653454569
+            "x1": -956.4203373859823,
+            "y1": -462.0061440151651,
+            "x2": 140.4992717973338,
+            "y2": 547.6832775591397
           }
         },
         {
@@ -1256,7 +1260,8 @@
             "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "default",
             "1108c8a3-6af6-4c29-b490-e75c948df002": "default",
             "0a838d76-504e-4aa1-bd75-49a6791a801f": "default",
-            "ccbfa981-5b97-4096-b281-b3b95929f63e": "default"
+            "ccbfa981-5b97-4096-b281-b3b95929f63e": "default",
+            "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": "default"
           }
         },
         {
@@ -1265,7 +1270,8 @@
             "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "highlight",
             "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "default",
             "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide",
-            "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": "default"
+            "2b0a90fe-6b3f-4bd8-80b4-07ef6abb0b39": "default",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide"
           }
         },
         {
@@ -1305,6 +1311,12 @@
             "53ed5094-52d8-44dc-959d-0578def009a4": "default",
             "0a838d76-504e-4aa1-bd75-49a6791a801f": "default",
             "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "default"
+          },
+          "bounds": {
+            "x1": -542.2922917596643,
+            "y1": -852.2315993189254,
+            "x2": 701.1388331585999,
+            "y2": 154.97357076100465
           }
         },
         {
@@ -1326,26 +1338,21 @@
           }
         },
         {
-          "time": 124.913094,
-          "states": {
-            "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": "highlight"
-          }
-        },
-        {
           "time": 186.376267,
           "states": {
-            "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "hide",
-            "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": "hide",
-            "84ad58b7-f256-4dd5-8cdc-1ca6e28044c8": "hide",
-            "a40a1684-3e82-4d04-987d-d0cc30f308f5": "hide",
-            "75792baa-4747-481c-b6c1-313e0c900f2f": "hide",
+            "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "default",
+            "ae01cb40-5cf1-4b33-8bbc-90a1b24978bc": "default",
+            "84ad58b7-f256-4dd5-8cdc-1ca6e28044c8": "default",
+            "a40a1684-3e82-4d04-987d-d0cc30f308f5": "default",
+            "75792baa-4747-481c-b6c1-313e0c900f2f": "default",
             "1108c8a3-6af6-4c29-b490-e75c948df002": "hide",
             "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "hide",
             "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83": "highlight",
             "9e603533-67e2-4b1c-97b6-f43490c6f38e": "highlight",
             "694a99d5-2f9d-4b41-be6f-f3410fd5001a": "hide",
             "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "hide",
-            "c7342255-8433-48fb-aeb3-3d45007a59a8": "default"
+            "c7342255-8433-48fb-aeb3-3d45007a59a8": "default",
+            "91ba1235-1ac8-48d2-8501-a8368697d9be": "hide"
           },
           "bounds": {
             "x1": -390.6220813649122,
@@ -1393,7 +1400,8 @@
             "64962446-0a02-44bb-b6bc-e5970138ed41": "highlight",
             "92300bf1-cfe7-4324-ba48-78a611441419": "highlight",
             "dc15ec16-cf0f-4f61-b3c3-844050125d01": "default",
-            "53ed5094-52d8-44dc-959d-0578def009a4": "default"
+            "53ed5094-52d8-44dc-959d-0578def009a4": "default",
+            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "default"
           }
         },
         {
@@ -1402,7 +1410,8 @@
             "efbdf327-a16c-43f6-b3ef-24752e441029": "highlight",
             "64962446-0a02-44bb-b6bc-e5970138ed41": "default",
             "92300bf1-cfe7-4324-ba48-78a611441419": "default",
-            "e7def76d-01a3-4fe0-be8a-9507f8094a1b": "default"
+            "e7def76d-01a3-4fe0-be8a-9507f8094a1b": "default",
+            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide"
           }
         },
         {
@@ -1513,7 +1522,8 @@
             "91ba1235-1ac8-48d2-8501-a8368697d9be": "highlight",
             "9e603533-67e2-4b1c-97b6-f43490c6f38e": "default",
             "694a99d5-2f9d-4b41-be6f-f3410fd5001a": "default",
-            "53ed5094-52d8-44dc-959d-0578def009a4": "default"
+            "53ed5094-52d8-44dc-959d-0578def009a4": "highlight",
+            "e2b31ad2-8c3b-46a2-960e-5f3af54c11a3": "highlight"
           }
         },
         {
@@ -1525,10 +1535,10 @@
         {
           "time": 399.304652,
           "bounds": {
-            "x1": -837.9279490199989,
-            "y1": -809.6465702316763,
-            "x2": 1145.277713607732,
-            "y2": 596.3147928992224
+            "x1": -840.8195973245921,
+            "y1": -844.4439304781013,
+            "x2": 1409.8166976736024,
+            "y2": 658.5761558009697
           },
           "states": {
             "a40a1684-3e82-4d04-987d-d0cc30f308f5": "default",
@@ -1550,7 +1560,9 @@
             "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83": "default",
             "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "default",
             "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "default",
-            "92de9497-6f4a-4ebe-8382-36aacf609952": "default"
+            "92de9497-6f4a-4ebe-8382-36aacf609952": "default",
+            "bf90d0bf-e307-47c7-a540-14f25fd5fa34": "default",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "default"
           }
         },
         {
@@ -1610,15 +1622,6 @@
         "de": "Ort",
         "pt": "lugar"
       }
-    },
-    "91ba1235-1ac8-48d2-8501-a8368697d9be": {
-      "type": "entity",
-      "label": {
-        "en": "piranhas",
-        "pt": "piranhas",
-        "de": "Piranhas"
-      },
-      "class": "78eabc38-e93a-420b-af5e-69fb2308900b"
     },
     "78eabc38-e93a-420b-af5e-69fb2308900b": {
       "type": "entity",
@@ -2032,7 +2035,8 @@
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "highlight",
             "13f03b38-91d6-4c69-a487-1a740a8b8351": "default",
             "9efc33b3-ffde-42d5-88c6-deb872a871a6": "default",
-            "92300bf1-cfe7-4324-ba48-78a611441419": "default"
+            "92300bf1-cfe7-4324-ba48-78a611441419": "default",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "default"
           }
         },
         {
@@ -2041,7 +2045,8 @@
             "bcfb0cea-8799-499d-902f-35a1b5d0e461": "highlight",
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
             "7acd1842-1bbf-4754-ad0d-791f60590f5d": "default",
-            "604c66b6-d12e-419a-a3c4-c45836316dc6": "default"
+            "604c66b6-d12e-419a-a3c4-c45836316dc6": "default",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "hide"
           },
           "bounds": {
             "x1": -519.3946072571547,
@@ -2070,7 +2075,9 @@
             "9bed167f-0595-424b-974a-8ea075cf6eeb": "default",
             "604c66b6-d12e-419a-a3c4-c45836316dc6": "default",
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
-            "7acd1842-1bbf-4754-ad0d-791f60590f5d": "default"
+            "7acd1842-1bbf-4754-ad0d-791f60590f5d": "default",
+            "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": "default",
+            "68585357-ebe4-4355-bfd4-338be23c8792": "default"
           },
           "bounds": {
             "x1": -806.6231870462619,
@@ -2333,24 +2340,27 @@
             "e5a3e201-20b4-4a8a-829f-1b4576d3473d": "hide"
           },
           "bounds": {
-            "x1": -992.6398289491071,
-            "y1": -170.8839665699952,
-            "x2": -421.8572038233576,
-            "y2": 282.99137389144425
+            "x1": -1095.0149547227466,
+            "y1": -330.3120881671398,
+            "x2": -469.26951761259147,
+            "y2": 57.473816520843656
           }
         },
         {
           "time": 28.54609,
           "states": {
-            "92300bf1-cfe7-4324-ba48-78a611441419": "highlight"
+            "92300bf1-cfe7-4324-ba48-78a611441419": "highlight",
+            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "default",
+            "98d52143-add2-4fb1-96d7-dd62cc20329e": "default"
           }
         },
         {
           "time": 37.406783,
           "states": {
             "64962446-0a02-44bb-b6bc-e5970138ed41": "highlight",
-            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "default",
-            "1dba5b89-c1c8-41b8-9073-5fd5d7493099": "default"
+            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "hide",
+            "1dba5b89-c1c8-41b8-9073-5fd5d7493099": "default",
+            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide"
           },
           "bounds": {
             "x1": -1181.1395525035148,
@@ -2373,7 +2383,8 @@
             "90098cf2-a0f2-488b-b2ca-85959efe57cc": "highlight",
             "74dfa8c0-c697-48e7-87eb-12f806214b1a": "highlight",
             "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "default",
-            "e5a3e201-20b4-4a8a-829f-1b4576d3473d": "default"
+            "e5a3e201-20b4-4a8a-829f-1b4576d3473d": "default",
+            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "hide"
           },
           "bounds": {
             "x1": -693.988840243814,
@@ -2420,7 +2431,7 @@
             "9fdee9d0-8395-4d4b-b626-cae246eea2b0": "highlight",
             "341a06c6-6e06-40ea-8353-6b532bd327ee": "highlight",
             "90098cf2-a0f2-488b-b2ca-85959efe57cc": "default",
-            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "default",
+            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
             "370bd454-8dcc-4e09-b36c-ab5dea85bba3": "default",
             "c8253b96-c675-41e8-872f-59257417ca7a": "default",
             "98d52143-add2-4fb1-96d7-dd62cc20329e": "default"
@@ -2516,8 +2527,8 @@
           "states": {
             "399dbcb8-f1d2-4971-9c02-5866ba73ef32": "default",
             "f08d9332-49fe-46d9-afa1-8f0e611c7692": "default",
-            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "hide",
-            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "hide",
+            "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": "default",
+            "2e89c3bf-96bc-4dbf-81fe-e2d8445ac7c8": "default",
             "92300bf1-cfe7-4324-ba48-78a611441419": "highlight",
             "e9ce8eff-0947-44a7-b70e-fe3c266f9622": "highlight"
           },
@@ -2670,14 +2681,14 @@
         },
         "d6a6d311-df59-426f-830e-50abb0fde7ec": {
           "x": -740,
-          "y": 60
+          "y": 80
         },
         "c5707353-e8fe-4d55-a7be-a31a26efdb32": {
-          "x": -960,
+          "x": -980,
           "y": 0
         },
         "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": {
-          "x": -620,
+          "x": -640,
           "y": 60
         },
         "de412fdb-02ef-421c-8c2d-1a3671b3b32d": {
@@ -2689,11 +2700,11 @@
           "y": 520
         },
         "1b0509c8-5c29-4f82-a3d4-3dacd5f82e2a": {
-          "x": -1000,
+          "x": -1020,
           "y": 240
         },
         "95adb6d6-ab9d-42ab-8431-98c0027bc3d9": {
-          "x": -1180,
+          "x": -1260,
           "y": 240
         },
         "ef4407c3-5a9e-44fb-9b7c-f21b18d3b615": {
@@ -2725,11 +2736,11 @@
           "y": -20
         },
         "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": {
-          "x": -580,
+          "x": -620,
           "y": 300
         },
         "559790a7-7b2b-496c-b977-099c46f065a9": {
-          "x": -60,
+          "x": -20,
           "y": 440
         },
         "83c5edf2-dee2-43a2-8290-5159abccdaae": {
@@ -2787,7 +2798,8 @@
         },
         "subtitles": {
           "en": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_ENG.srt",
-          "pt": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_PT.srt"
+          "pt": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_PT.srt",
+          "de": "xingu:uses of buriti/20230707-10_TL_Uses_of_Buriti_and Mats_DE.srt"
         }
       },
       "image": "xingu:uses of buriti/uses of buriti.png",
@@ -2966,10 +2978,10 @@
         {
           "time": 304.486635,
           "states": {
-            "de412fdb-02ef-421c-8c2d-1a3671b3b32d": "highlight",
+            "de412fdb-02ef-421c-8c2d-1a3671b3b32d": "default",
             "c6e0056f-f0be-4232-9cdd-2bb7091524e3": "highlight",
             "d9956bc7-4731-4323-adfb-2a1444e89b7f": "highlight",
-            "8971c15c-d536-4161-b148-6983d34d8d10": "highlight",
+            "8971c15c-d536-4161-b148-6983d34d8d10": "default",
             "2c223c3f-2020-4b7c-8702-6271dc60aa20": "default",
             "0157f38a-85e0-445f-b0e5-d6fa01ea5e75": "default",
             "d7e6aab7-0436-4da3-ac89-cea1e71cca03": "default",
@@ -2988,7 +3000,8 @@
             "c5707353-e8fe-4d55-a7be-a31a26efdb32": "highlight",
             "c6e0056f-f0be-4232-9cdd-2bb7091524e3": "default",
             "d9956bc7-4731-4323-adfb-2a1444e89b7f": "default",
-            "8971c15c-d536-4161-b148-6983d34d8d10": "default"
+            "8971c15c-d536-4161-b148-6983d34d8d10": "default",
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight"
           }
         },
         {
@@ -3016,7 +3029,8 @@
           "states": {
             "c6e0056f-f0be-4232-9cdd-2bb7091524e3": "highlight",
             "d6a6d311-df59-426f-830e-50abb0fde7ec": "default",
-            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "default"
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "default",
+            "de412fdb-02ef-421c-8c2d-1a3671b3b32d": "highlight"
           }
         },
         {
@@ -3145,62 +3159,82 @@
     "0157f38a-85e0-445f-b0e5-d6fa01ea5e75": {
       "type": "entity",
       "label": {
-        "en": "carrying"
+        "en": "carrying",
+        "de": "tragen",
+        "pt": "carregar"
       }
     },
     "2c223c3f-2020-4b7c-8702-6271dc60aa20": {
       "type": "entity",
       "label": {
-        "en": "manioc"
+        "en": "manioc",
+        "de": "Maniok",
+        "pt": "mandioca"
       }
     },
     "d7e6aab7-0436-4da3-ac89-cea1e71cca03": {
       "type": "entity",
       "label": {
-        "en": "Tatohöngö basket"
+        "en": "Tatohöngö basket",
+        "de": "Tatohöngö Korb",
+        "pt": "Tatohöngö cesta"
       }
     },
     "559790a7-7b2b-496c-b977-099c46f065a9": {
       "type": "entity",
       "label": {
-        "en": "Kanagitahu basket"
+        "en": "Kanagitahu basket",
+        "de": "Kanagitahu Korb",
+        "pt": "cesta Kanagitahu"
       }
     },
     "83c5edf2-dee2-43a2-8290-5159abccdaae": {
       "type": "entity",
       "label": {
-        "en": "mat"
+        "en": "mat",
+        "de": "Matte",
+        "pt": "esteira"
       },
       "class": "83911c18-3e77-4c45-bbbf-f019953e278d"
     },
     "19d1712b-1299-40e1-85a4-15d8c69a4bf9": {
       "type": "entity",
       "label": {
-        "en": "grits"
+        "en": "grits",
+        "de": "Grütze",
+        "pt": "mingau"
       }
     },
     "7fbfadc8-607a-4ec5-805b-9625242b5b1a": {
       "type": "entity",
       "label": {
-        "en": "food"
+        "en": "food",
+        "de": "Nahrung",
+        "pt": "comida"
       }
     },
     "efdc566e-1342-46e2-a2ec-49e00197af17": {
       "type": "entity",
       "label": {
-        "en": "Beiju (manioc bread)"
+        "en": "Beiju (manioc bread)",
+        "de": "Beiju (Maniokbrot)",
+        "pt": "Beiju (pão de mandioca)"
       }
     },
     "e792d366-0cd5-4a53-9c1f-7b2b4470f852": {
       "type": "entity",
       "label": {
-        "en": "the dead"
+        "en": "the dead",
+        "de": "die Toten",
+        "pt": "os mortos"
       }
     },
     "c4ee2f7a-c5d4-42a1-a372-57a46a5982d9": {
       "type": "entity",
       "label": {
-        "en": "rituals"
+        "en": "rituals",
+        "de": "Rituale",
+        "pt": "rituais"
       }
     },
     "9916e322-5c1b-4563-b6ae-645b0a7a21b2": {
@@ -3213,7 +3247,9 @@
     "5a958d30-07b7-487f-b196-c004e1ae93d1": {
       "type": "entity",
       "label": {
-        "en": "ritual"
+        "en": "ritual",
+        "de": "Ritual",
+        "pt": "ritual"
       }
     },
     "c684f9c8-9ee6-4d37-8ac7-802c4dbf8103": {
@@ -3335,8 +3371,8 @@
           "y": 660
         },
         "fe9c28d7-3e81-46c0-a851-cb79a39e9cdc": {
-          "x": 60,
-          "y": -40
+          "x": 80,
+          "y": -120
         }
       },
       "media": {
@@ -3345,7 +3381,8 @@
         },
         "subtitles": {
           "en": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_ENG.srt",
-          "pt": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_PT.srt"
+          "pt": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_PT.srt",
+          "de": "xingu:collecting moriche/20230708_1_TL_1080p_23,976fps_Collecting Buriti Sprouts_DE.srt"
         }
       },
       "image": "xingu:collecting moriche/collecting moriche.png",
@@ -3380,10 +3417,10 @@
             "6c901eef-7ce8-44ac-b05a-3c4e343f17ed": "hide"
           },
           "bounds": {
-            "x1": -660.7015413775259,
-            "y1": -215.09197775447151,
-            "x2": 108.54315930635984,
-            "y2": 438.8520630953643
+            "x1": -455.11475944615233,
+            "y1": -198.13112942099775,
+            "x2": -26.18791780581546,
+            "y2": 184.4252428528162
           }
         },
         {
@@ -3391,6 +3428,12 @@
           "states": {
             "8971c15c-d536-4161-b148-6983d34d8d10": "highlight",
             "ebc27bc1-8e6c-49fc-a367-43fac78b160f": "default"
+          },
+          "bounds": {
+            "x1": -401.0158785185423,
+            "y1": -153.69276294474662,
+            "x2": 89.73825561049182,
+            "y2": 315.8082393912978
           }
         },
         {
@@ -3408,10 +3451,10 @@
             "aea72283-4adc-470d-9372-c261f991bece": "hide"
           },
           "bounds": {
-            "x1": -1146.6662036930006,
-            "y1": -378.3917576199918,
-            "x2": 417.1817411079118,
-            "y2": 704.2722041652553
+            "x1": -1061.7950669914935,
+            "y1": -232.90898144588994,
+            "x2": 78.14563826886103,
+            "y2": 480.03698506439974
           }
         },
         {
@@ -3448,6 +3491,12 @@
             "40f6d448-ff59-4087-bcf1-0fb503cca861": "highlight",
             "9efc33b3-ffde-42d5-88c6-deb872a871a6": "highlight",
             "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "default"
+          },
+          "bounds": {
+            "x1": -701.8997896384996,
+            "y1": -19.992008682303492,
+            "x2": 417.0108968639722,
+            "y2": 809.4263852137793
           }
         },
         {
@@ -3476,6 +3525,12 @@
             "eb411e00-7901-41ff-b247-3370cfac94cd": "highlight",
             "cbf3ee50-8af0-477e-b479-8f84d7555ad2": "default",
             "9dc5aee7-5bc4-4ea0-bb30-95cc99aa4278": "default"
+          },
+          "bounds": {
+            "x1": -933.9531352991764,
+            "y1": -72.83583987235863,
+            "x2": 474.44984380968435,
+            "y2": 807.1288273359509
           }
         },
         {
@@ -3558,10 +3613,10 @@
             "c5707353-e8fe-4d55-a7be-a31a26efdb32": "highlight"
           },
           "bounds": {
-            "x1": -239.32475547377447,
-            "y1": 18.490719919812285,
-            "x2": 730.3996817352324,
-            "y2": 748.8684130848659
+            "x1": -389.4659750050265,
+            "y1": -83.11346566133062,
+            "x2": 875.2264882943864,
+            "y2": 834.5597241717799
           }
         },
         {
@@ -3576,7 +3631,8 @@
             "40f6d448-ff59-4087-bcf1-0fb503cca861": "default",
             "c6e0056f-f0be-4232-9cdd-2bb7091524e3": "default",
             "c5707353-e8fe-4d55-a7be-a31a26efdb32": "default",
-            "76b1e227-8902-44bf-be81-ab5673322dd7": "default"
+            "76b1e227-8902-44bf-be81-ab5673322dd7": "default",
+            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "default"
           }
         },
         {
@@ -3609,10 +3665,10 @@
             "c5707353-e8fe-4d55-a7be-a31a26efdb32": "default"
           },
           "bounds": {
-            "x1": -1053.5971836645438,
-            "y1": -257.8684072237215,
-            "x2": 747.6721271817033,
-            "y2": 748.8684130848659
+            "x1": -1041.5201637473947,
+            "y1": -691.6430539592737,
+            "x2": 979.4598055540907,
+            "y2": 822.3314875035114
           }
         },
         {
@@ -3699,7 +3755,9 @@
     "d9956bc7-4731-4323-adfb-2a1444e89b7f": {
       "type": "entity",
       "label": {
-        "en": "tight weaving"
+        "en": "tight weaving",
+        "de": "engen Webart",
+        "pt": "tecido apertado"
       }
     },
     "2da727ff-b147-454b-90de-bdbdc3d8891d": {
@@ -3817,17 +3875,13 @@
           "x": 440,
           "y": 860
         },
-        "3b283c2a-65d6-46b1-b0e0-799aed1fff0a": {
-          "x": 1480.6629277021416,
-          "y": 890.8756928345817
-        },
         "e6392b75-50a0-4548-b221-4b8a873ab9d4": {
           "x": 320,
           "y": -380
         },
         "87115017-efec-4be1-adf6-52b58c9fac83": {
-          "x": 520,
-          "y": -260
+          "x": 500,
+          "y": -240
         },
         "7cfb0860-9139-44a2-a1cd-bb0b37b11fe6": {
           "x": 540,
@@ -3841,7 +3895,8 @@
       "media": {
         "subtitles": {
           "en": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_ENG.srt",
-          "pt": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_PT.srt"
+          "pt": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_PT.srt",
+          "de": "xingu:harvesting annatto/20230708_2__tl_1080p_23,976fps_urucum_saffron_DE.srt"
         },
         "file": {
           "original": "xingu:harvesting annatto/urucum saffron.mp4"
@@ -3873,7 +3928,10 @@
             "fdc74b6f-d42e-4f4f-9a16-549887046854": "hide",
             "2be41613-e740-4831-8e64-7b51e76d050d": "hide",
             "7eff675e-7174-411e-9498-529028edf26a": "hide",
-            "8cf70d9e-0762-4314-aacc-5282433a01ac": "hide"
+            "8cf70d9e-0762-4314-aacc-5282433a01ac": "hide",
+            "e6392b75-50a0-4548-b221-4b8a873ab9d4": "hide",
+            "7cfb0860-9139-44a2-a1cd-bb0b37b11fe6": "hide",
+            "94fcfd16-149e-472c-8611-03da6555990f": "hide"
           },
           "bounds": {
             "x1": 213.0893372761322,
@@ -3886,7 +3944,8 @@
           "time": 15.860638,
           "states": {
             "fe309e3c-ebc3-403a-97fc-3a844be1e30f": "highlight",
-            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "default"
+            "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "default",
+            "e6392b75-50a0-4548-b221-4b8a873ab9d4": "default"
           }
         },
         {
@@ -3988,7 +4047,9 @@
             "3efec77d-8792-4320-b611-d1454a98c3a3": "default",
             "fdc74b6f-d42e-4f4f-9a16-549887046854": "highlight",
             "fe309e3c-ebc3-403a-97fc-3a844be1e30f": "highlight",
-            "8cf70d9e-0762-4314-aacc-5282433a01ac": "default"
+            "8cf70d9e-0762-4314-aacc-5282433a01ac": "default",
+            "94fcfd16-149e-472c-8611-03da6555990f": "default",
+            "7cfb0860-9139-44a2-a1cd-bb0b37b11fe6": "default"
           },
           "bounds": {
             "x1": -86.80325639200515,
@@ -4017,7 +4078,7 @@
           "time": 178.618298,
           "states": {
             "31d99c32-c971-4fdf-9b6e-b55cf309b568": "highlight",
-            "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": "default",
+            "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": "hide",
             "3efec77d-8792-4320-b611-d1454a98c3a3": "default",
             "cbf3ee50-8af0-477e-b479-8f84d7555ad2": "default",
             "09eda7fb-82fc-4989-9410-fe2e1a79ec81": "highlight",
@@ -4065,10 +4126,10 @@
             "31d99c32-c971-4fdf-9b6e-b55cf309b568": "default"
           },
           "bounds": {
-            "x1": -441.5407654199987,
-            "y1": -576.8459460254088,
-            "x2": 1419.3491887434027,
-            "y2": 977.7484566763147
+            "x1": -503.27385784912525,
+            "y1": -859.7343388618519,
+            "x2": 1554.124295578692,
+            "y2": 1143.317448249004
           }
         },
         {
@@ -4270,7 +4331,8 @@
         },
         "subtitles": {
           "en": "xingu:on gimi/20230712-13_1_TL_On_Gimi_And_How_To_Make_It_ENG.srt",
-          "pt": "xingu:on gimi/20230712-13_1_TL_On_Gimi_And_How_To_Make_It_PT.srt"
+          "pt": "xingu:on gimi/20230712-13_1_TL_On_Gimi_And_How_To_Make_It_PT.srt",
+          "de": "xingu:on gimi/20230712-13_1_TL_On_Gimi_And_How_To_Make_It_DE.srt"
         }
       },
       "image": "xingu:on gimi/on gimi.png",
@@ -4358,7 +4420,8 @@
           "time": 75.433069,
           "states": {
             "20544d1c-3bfc-4802-a619-6574f152819c": "highlight",
-            "42c11a54-a482-49a7-b1bd-0f59f2e3a73a": "default"
+            "42c11a54-a482-49a7-b1bd-0f59f2e3a73a": "default",
+            "93767d53-0f42-47b5-bf28-5f5d5770eb52": "default"
           }
         },
         {
@@ -4682,7 +4745,7 @@
       "type": "graph",
       "label": {
         "en": "Collecting and processing for Gimi",
-        "de": "Sammeln und Verarbeitung für Gimi",
+        "de": "Sammeln und verarbeiten für Gimi",
         "pt": "Coleta e processamento para Gimi"
       },
       "allocations": {
@@ -4793,7 +4856,8 @@
         },
         "subtitles": {
           "en": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_ENG.srt",
-          "pt": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_PT.srt"
+          "pt": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_PT.srt",
+          "de": "xingu:collecting for gimi/20230710_9_TL_Ugusipa_Collecting_and_Processing_for_Gimi_DE.srt"
         }
       },
       "image": "xingu:collecting for gimi/collecting for gimi.png",
@@ -4910,7 +4974,8 @@
             "d54465a5-d6ea-45e6-83e9-ee89f2e1597f": "default",
             "a9038e82-1646-4339-af71-141a737827ce": "default",
             "9efc33b3-ffde-42d5-88c6-deb872a871a6": "default",
-            "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "default"
+            "323af7b4-dfd8-4a5d-a6f8-8beddfbab4a1": "default",
+            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "hide"
           }
         },
         {
@@ -4947,7 +5012,8 @@
           "states": {
             "d883a771-c4c2-42de-823e-51699e0248e1": "highlight",
             "94930ea4-b85a-4c96-9c88-cff133a8904e": "highlight",
-            "d14ef567-a2d5-463f-8264-04a7ea0500ac": "default"
+            "d14ef567-a2d5-463f-8264-04a7ea0500ac": "default",
+            "a9038e82-1646-4339-af71-141a737827ce": "hide"
           },
           "bounds": {
             "x1": -1185.2322129063816,
@@ -5350,32 +5416,28 @@
           "y": 200
         },
         "77c2b609-cc05-46b7-9b79-cc123e10d801": {
-          "x": 1640,
-          "y": 440
+          "x": 1380,
+          "y": 460
         },
         "694d579a-3e8f-4df8-a488-68ebffd68e75": {
-          "x": 1280,
-          "y": 0
+          "x": 1800,
+          "y": 340
         },
         "7c6a7e39-2cca-4086-be14-9231b7d087cd": {
-          "x": 860,
+          "x": 1360,
           "y": -40
         },
         "7f9c76c1-ad8b-4a05-8600-ddc521d7dcd3": {
-          "x": 1580,
-          "y": 80
+          "x": 1100,
+          "y": 460
         },
         "57cc2dca-c021-4368-bc2c-a31d7279ea5d": {
-          "x": 1760,
-          "y": 540
+          "x": 1080,
+          "y": -40
         },
         "57c81a8d-bdec-4109-8bf7-2b2398d44f15": {
-          "x": 920,
-          "y": -80
-        },
-        "5a7b7974-d842-4d7f-bc3a-f025ef719af8": {
-          "x": 1800,
-          "y": 440
+          "x": 1900,
+          "y": 400
         }
       },
       "image": "xingu:customs of mats/customs of mats.png",
@@ -5385,7 +5447,8 @@
         },
         "subtitles": {
           "en": "xingu:customs of mats/20230707-10_TL_The_Customs_and_The_Making_of_Mats_ENG.srt",
-          "pt": "xingu:customs of mats/20230707-10_TL_The_Customs_and_The_Making_of_Mats_PT.srt"
+          "pt": "xingu:customs of mats/20230707-10_TL_The_Customs_and_The_Making_of_Mats_PT.srt",
+          "de": "xingu:customs of mats/120230707-10_TL_The_Customs_and_The_Making_of_Mats_DE.srt"
         }
       },
       "marker": [
@@ -5427,7 +5490,11 @@
             "8971c15c-d536-4161-b148-6983d34d8d10": "hide",
             "2d928e25-3e3b-4c0a-84f1-502df3ddbf60": "hide",
             "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": "hide",
-            "6c901eef-7ce8-44ac-b05a-3c4e343f17ed": "highlight"
+            "6c901eef-7ce8-44ac-b05a-3c4e343f17ed": "highlight",
+            "7f9c76c1-ad8b-4a05-8600-ddc521d7dcd3": "hide",
+            "77c2b609-cc05-46b7-9b79-cc123e10d801": "hide",
+            "7c6a7e39-2cca-4086-be14-9231b7d087cd": "hide",
+            "57cc2dca-c021-4368-bc2c-a31d7279ea5d": "hide"
           },
           "bounds": {
             "x1": 1311.6182572614105,
@@ -5546,7 +5613,8 @@
             "d28e4555-6cb2-4506-aeee-d208ce6cc36b": "hide",
             "aa78942b-50eb-4ccd-b619-f9647a094f30": "hide",
             "13cb586e-b9c0-4115-bef6-84b02bab32d7": "hide",
-            "1cbb8e4a-8ae0-4484-b40c-f10d163caf61": "hide"
+            "1cbb8e4a-8ae0-4484-b40c-f10d163caf61": "hide",
+            "57cc2dca-c021-4368-bc2c-a31d7279ea5d": "hide"
           },
           "bounds": {
             "x1": -351.3605577417369,
@@ -5571,7 +5639,11 @@
             "84b003c4-f7eb-475b-931f-4d86283ee119": "highlight",
             "bca88436-a02b-48e0-a151-3e4b8bb2c684": "default",
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
-            "163b2085-599e-4a0c-aacd-b8143eb9c6c5": "default"
+            "163b2085-599e-4a0c-aacd-b8143eb9c6c5": "default",
+            "7f9c76c1-ad8b-4a05-8600-ddc521d7dcd3": "default",
+            "77c2b609-cc05-46b7-9b79-cc123e10d801": "default",
+            "7c6a7e39-2cca-4086-be14-9231b7d087cd": "default",
+            "57cc2dca-c021-4368-bc2c-a31d7279ea5d": "default"
           },
           "bounds": {
             "x1": -380.5716584468323,
@@ -6049,8 +6121,9 @@
           "original": "xingu:owner of Kusu/20230709_12_1_tl_1080p_23,976fps_kanu_and_yahugi_ahasa,_the_owner_of_kusu (1080p).mp4"
         },
         "subtitles": {
-          "en": "xingu:owner of Kusu/20230709_12_1_tl_1080p_23,976fps_kanu_and_yahugi_ahasa_the_owner_of_kusu_ENG.srt",
-          "pt": "xingu:owner of Kusu/20230709_12_1_tl_1080p_23,976fps_kanu_and_yahugi_ahasa_the_owner_of_kusu_PT.srt"
+          "en": "xingu:owner of Kusu/ahasa_the_owner_of_kusu_ENG.srt",
+          "pt": "xingu:owner of Kusu/ahasa_the_owner_of_kusu_PT.srt",
+          "de": "xingu:owner of Kusu/ahasa_the_owner_of_kusu_DE.srt"
         }
       },
       "allocations": {
@@ -6118,17 +6191,17 @@
           "x": -1460,
           "y": -200
         },
-        "d82bc6e6-554c-44cf-a923-1c8d28048dab": {
-          "x": -780,
-          "y": 540
-        },
         "43943c07-27a4-43f3-a186-a958973634a4": {
           "x": -1520,
           "y": 420
         },
         "2ec6bbbe-bfeb-4e85-96f5-d3bfb48a846e": {
-          "x": -1080,
-          "y": 20
+          "x": -1040,
+          "y": 60
+        },
+        "41893065-2d27-437c-b6ef-f72e52330c5c": {
+          "x": -820,
+          "y": 500
         }
       },
       "marker": [
@@ -6152,7 +6225,8 @@
             "81caca6f-2455-48c4-8d18-47e2e2fb6e0d": "hide",
             "43943c07-27a4-43f3-a186-a958973634a4": "hide",
             "d82bc6e6-554c-44cf-a923-1c8d28048dab": "hide",
-            "68585357-ebe4-4355-bfd4-338be23c8792": "default"
+            "68585357-ebe4-4355-bfd4-338be23c8792": "default",
+            "41893065-2d27-437c-b6ef-f72e52330c5c": "hide"
           },
           "bounds": {
             "x1": -1704.5950828327464,
@@ -6167,7 +6241,8 @@
             "841a6fcd-7352-44b5-9245-5a7f1e8d2ba7": "highlight",
             "30f27cf9-8704-43d2-88bc-14c2c7af9791": "default",
             "110ac9e0-dc25-46b0-bb6d-4bdfd4ecd4f4": "default",
-            "f3ec30e4-822b-4ec4-954d-8c216021f0ce": "default"
+            "f3ec30e4-822b-4ec4-954d-8c216021f0ce": "default",
+            "41893065-2d27-437c-b6ef-f72e52330c5c": "default"
           },
           "bounds": {
             "x1": -1660.6797393468144,
@@ -6347,6 +6422,12 @@
             "x2": 188.10362420635727,
             "y2": 812.6610823978461
           }
+        },
+        {
+          "time": 106.816194,
+          "states": {
+            "d82bc6e6-554c-44cf-a923-1c8d28048dab": "default"
+          }
         }
       ]
     },
@@ -6479,7 +6560,8 @@
         },
         "subtitles": {
           "en": "xingu:Nils Buriti pollination/20240507_1_TL_1080p_23,976fps_Nils_BGBM_Buriti_Dispersal and Pollination_ENG.srt",
-          "pt": "xingu:Nils buriti pollination/20240507_1_TL_1080p_23,976fps_Nils_BGBM_Buriti_Dispersal and Pollination_PT.srt"
+          "pt": "xingu:Nils Buriti pollination/Buriti_Dispersal and Pollination_PT.srt",
+          "de": "xingu:Nils Buriti pollination/20240507_1_TL_1080p_23,976fps_Nils_BGBM_Buriti_Dispersal and Pollination_DE.srt"
         }
       },
       "allocations": {
@@ -6543,17 +6625,18 @@
           "x": 1300,
           "y": -240
         },
-        "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": {
-          "x": 900,
-          "y": -700
+        "db0e95d9-f660-413e-a88e-1b7a9ef22d52": {
+          "x": 480,
+          "y": -200,
+          "locked": true
         },
-        "bc73f262-59eb-4007-a15b-ccffa071ba9a": {
-          "x": 500,
-          "y": -220
+        "f9dffd5f-3ee8-4b76-b2b3-7498151593d5": {
+          "x": 720,
+          "y": -640
         },
-        "ec469581-8ec6-4acd-885b-fabc404be438": {
-          "x": -20,
-          "y": -320
+        "3ba996a8-a5b7-4759-afd4-081c10a0728d": {
+          "x": 220,
+          "y": 100
         }
       },
       "marker": [
@@ -6576,7 +6659,9 @@
             "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": "hide",
             "6b05d29c-c9db-4083-9a79-731ce005a7ab": "hide",
             "ec469581-8ec6-4acd-885b-fabc404be438": "hide",
-            "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": "hide"
+            "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": "hide",
+            "f9dffd5f-3ee8-4b76-b2b3-7498151593d5": "hide",
+            "3ba996a8-a5b7-4759-afd4-081c10a0728d": "hide"
           },
           "bounds": {
             "x1": 242.09809264305179,
@@ -6590,7 +6675,8 @@
           "states": {
             "68ef0e38-aebb-4691-a26e-b1bcf553aecd": "highlight",
             "0b00824f-8cef-4bf3-bf38-e15193372fea": "default",
-            "787b6464-cadd-434a-9b40-bce236fba95b": "default"
+            "787b6464-cadd-434a-9b40-bce236fba95b": "default",
+            "3ba996a8-a5b7-4759-afd4-081c10a0728d": "default"
           },
           "bounds": {
             "x1": -85.80654201339887,
@@ -6615,14 +6701,15 @@
         {
           "time": 42.268182,
           "bounds": {
-            "x1": 161.38170987350048,
-            "y1": -604.3716869653182,
-            "x2": 943.0530287486026,
-            "y2": -91.21341655876257
+            "x1": 95.14316919862935,
+            "y1": -842.3477339263684,
+            "x2": 929.9623035366154,
+            "y2": -92.99817762774748
           },
           "states": {
             "d4bcdb82-9b21-44f3-8d34-d2b3fff303b0": "default",
-            "6de75dd3-c2e2-4800-be0d-67b345b86709": "highlight"
+            "6de75dd3-c2e2-4800-be0d-67b345b86709": "highlight",
+            "f9dffd5f-3ee8-4b76-b2b3-7498151593d5": "default"
           }
         },
         {
@@ -6699,10 +6786,9 @@
           }
         },
         {
-          "time": 0,
+          "time": 89.380209,
           "states": {
-            "df935e2b-e26b-437c-a6db-1e7e20bcdc08": "default",
-            "083159d6-83b4-455b-98b5-c542a4412378": "default"
+            "db0e95d9-f660-413e-a88e-1b7a9ef22d52": "default"
           }
         }
       ]
@@ -6964,7 +7050,9 @@
             "66ec6c88-8a75-4b24-a570-973cbf43436e": "highlight",
             "1108c8a3-6af6-4c29-b490-e75c948df002": "highlight",
             "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "hide",
-            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide"
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide",
+            "c36873ea-7b90-45a5-831b-b6e2745d9a30": "hide",
+            "7d7e154a-d214-46a8-a16b-a987810f3157": "hide"
           },
           "bounds": {
             "x1": -2686.786169564079,
@@ -7020,7 +7108,8 @@
             "020e34a4-5aa5-450c-8431-b41c348ec6fd": "default",
             "1108c8a3-6af6-4c29-b490-e75c948df002": "default",
             "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": "highlight",
-            "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": "highlight"
+            "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": "highlight",
+            "c36873ea-7b90-45a5-831b-b6e2745d9a30": "default"
           },
           "bounds": {
             "x1": -2494.227765430402,
@@ -7036,7 +7125,8 @@
             "c205c6d1-04cf-4e82-b7dd-2d180cab1e72": "default",
             "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": "default",
             "6b1c8612-f7e2-4b27-86b9-f5f5434b8417": "default",
-            "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe": "highlight"
+            "97e8d6fa-66f4-43c0-9967-2a5aa8cfdebe": "highlight",
+            "7d7e154a-d214-46a8-a16b-a987810f3157": "default"
           },
           "bounds": {
             "x1": -2654.3247802683054,
@@ -7123,7 +7213,15 @@
             "46fd0e60-1fe6-4307-8b40-fad47bdad8f8": "default",
             "f035fbff-4442-4fd9-88cb-ac03185085a6": "default",
             "21b3f51b-5536-4e9b-9643-8cc4b9ba2a94": "default",
-            "d808cf82-7154-482f-bfdf-a14b8117273f": "highlight"
+            "d808cf82-7154-482f-bfdf-a14b8117273f": "highlight",
+            "6d24e8f3-9832-43dd-83b9-9bb77db501cb": "default",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "default"
+          },
+          "bounds": {
+            "x1": -3437.3991781473555,
+            "y1": -1049.888082413391,
+            "x2": -1279.5598667502763,
+            "y2": 393.8911956041033
           }
         },
         {
@@ -7356,13 +7454,6 @@
       "file": "xingu:collecting%20ambe/collectingAmbe_root.png",
       "label": {
         "universal": "collecting%20ambe/collectingAmbe_root"
-      }
-    },
-    "3eef2223-2415-4fe6-9bbe-abc9a8d76201": {
-      "type": "image",
-      "file": "xingu:collecting%20ambe/collectingAmbe_philodendron%20collage.png",
-      "label": {
-        "universal": "collecting%20ambe/collectingAmbe_philodendron%20collage"
       }
     },
     "370bd454-8dcc-4e09-b36c-ab5dea85bba3": {
@@ -8013,7 +8104,9 @@
           "original": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense.mp4"
         },
         "subtitles": {
-          "en": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_PT.srt"
+          "en": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_ENG.srt",
+          "pt": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_PT.srt",
+          "de": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_DE.srt"
         }
       },
       "image": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense.png",
@@ -8281,25 +8374,11 @@
         "universal": "collecting%20moriche/MauritiaFlexuosa"
       }
     },
-    "d82bc6e6-554c-44cf-a923-1c8d28048dab": {
-      "type": "image",
-      "file": "xingu:owner%20of%20Kusu/serpent.png",
-      "label": {
-        "universal": "owner%20of%20Kusu/serpent"
-      }
-    },
     "43943c07-27a4-43f3-a186-a958973634a4": {
       "type": "image",
       "file": "xingu:owner%20of%20Kusu/piranha.png",
       "label": {
         "universal": "owner%20of%20Kusu/piranha"
-      }
-    },
-    "3b283c2a-65d6-46b1-b0e0-799aed1fff0a": {
-      "type": "image",
-      "file": "local:Annatto_4.png",
-      "label": {
-        "universal": ""
       }
     },
     "e6392b75-50a0-4548-b221-4b8a873ab9d4": {
@@ -8328,27 +8407,6 @@
       "file": "xingu:harvesting%20annatto/Annatto1.png",
       "label": {
         "universal": "harvesting%20annatto/Annatto1"
-      }
-    },
-    "fcbf1004-88ff-4dd4-a9b8-aa9ecd458a53": {
-      "type": "image",
-      "file": "xingu:Nils%20Buriti%20pollination/Moriche_1.png",
-      "label": {
-        "universal": "Nils%20Buriti%20pollination/Moriche_1"
-      }
-    },
-    "bc73f262-59eb-4007-a15b-ccffa071ba9a": {
-      "type": "image",
-      "file": "xingu:Nils%20Buriti%20pollination/grafik.png",
-      "label": {
-        "universal": "Nils%20Buriti%20pollination/grafik"
-      }
-    },
-    "ec469581-8ec6-4acd-885b-fabc404be438": {
-      "type": "image",
-      "file": "xingu:Nils%20Buriti%20pollination/Moriche_2.png",
-      "label": {
-        "universal": "Nils%20Buriti%20pollination/Moriche_2"
       }
     },
     "8cf918a4-1847-4f42-96f2-886d4aade199": {
@@ -8421,11 +8479,46 @@
         "universal": "customs%20of%20mats/Screenshot%202024-11-27%20at%2017.49.42%20Copy"
       }
     },
-    "5a7b7974-d842-4d7f-bc3a-f025ef719af8": {
+    "db0e95d9-f660-413e-a88e-1b7a9ef22d52": {
       "type": "image",
-      "file": "xingu:customs%20of%20mats/Mask.png",
+      "file": "xingu:Nils%20Buriti%20pollination/grafik_dots.png",
       "label": {
-        "universal": "customs%20of%20mats/Mask"
+        "universal": "Nils%20Buriti%20pollination/grafik_dots"
+      }
+    },
+    "f9dffd5f-3ee8-4b76-b2b3-7498151593d5": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20pollination/MF.png",
+      "label": {
+        "universal": "Nils%20Buriti%20pollination/MF"
+      }
+    },
+    "3ba996a8-a5b7-4759-afd4-081c10a0728d": {
+      "type": "image",
+      "file": "xingu:Nils%20Buriti%20pollination/insect_leave.png",
+      "label": {
+        "universal": "Nils%20Buriti%20pollination/insect_leave"
+      }
+    },
+    "39c3cfb2-868c-4daf-a5e5-e0bc89dc7aa8": {
+      "type": "image",
+      "file": "xingu:collecting%20ambe/Ambe%20collage.png",
+      "label": {
+        "universal": "collecting%20ambe/Ambe%20collage"
+      }
+    },
+    "e2b31ad2-8c3b-46a2-960e-5f3af54c11a3": {
+      "type": "entity",
+      "label": {
+        "en": "piranhas"
+      },
+      "class": "78eabc38-e93a-420b-af5e-69fb2308900b"
+    },
+    "41893065-2d27-437c-b6ef-f72e52330c5c": {
+      "type": "image",
+      "file": "xingu:owner%20of%20Kusu/serpiente_2.png",
+      "label": {
+        "universal": "owner%20of%20Kusu/serpiente_2"
       }
     }
   },
@@ -8929,34 +9022,6 @@
         "en": "to",
         "de": "zur",
         "pt": "para a"
-      }
-    },
-    {
-      "nodes": [
-        "91ba1235-1ac8-48d2-8501-a8368697d9be",
-        "53ed5094-52d8-44dc-959d-0578def009a4"
-      ],
-      "arrow": "→",
-      "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
-      "id": "5c52c3cc-1829-4a9d-ac09-145b91d63411",
-      "label": {
-        "en": "eat down to the bones",
-        "de": "essen bis auf die Knochen",
-        "pt": "coma até os ossos"
-      }
-    },
-    {
-      "nodes": [
-        "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83",
-        "91ba1235-1ac8-48d2-8501-a8368697d9be"
-      ],
-      "arrow": "→",
-      "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
-      "id": "3dbcbded-62d2-4b3f-b1df-fb78c8621ab0",
-      "label": {
-        "en": "search for",
-        "de": "suchen",
-        "pt": "procuram"
       }
     },
     {
@@ -9523,7 +9588,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "9fafd105-5bdb-471e-9d22-dca7d8d9669a",
       "label": {
-        "en": "collect"
+        "en": "collect",
+        "de": "sammeln",
+        "pt": "coletam"
       }
     },
     {
@@ -9535,7 +9602,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "271d8664-6a40-43d9-8561-60423c767242",
       "label": {
-        "en": "used by"
+        "en": "used by",
+        "de": "verwendet von",
+        "pt": "usado por"
       }
     },
     {
@@ -9571,7 +9640,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "4762a808-acb4-4c6c-822d-c1daf85284db",
       "label": {
-        "en": "is made of"
+        "en": "is made of",
+        "de": "besteht aus",
+        "pt": "feito de"
       }
     },
     {
@@ -9583,7 +9654,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "f1e4eefe-d233-427f-a554-264ae7f6e404",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "de": "zur Herstellung von",
+        "pt": "para a produção de"
       }
     },
     {
@@ -9595,7 +9668,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "77c22942-1d9b-42ec-b1dd-43abcdeb7eb5",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "pt": "para a produção de",
+        "de": "zur Herstellung von"
       }
     },
     {
@@ -9607,7 +9682,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "9914c5c3-44c8-4777-b987-60e076e8ce24",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "de": "zur Herstellung von",
+        "pt": "para a produção de"
       }
     },
     {
@@ -9619,7 +9696,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "f1f64dbd-fdcf-499b-8861-096e90271708",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "de": "zur Herstellung von",
+        "pt": "para a produção de"
       }
     },
     {
@@ -9631,7 +9710,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "ff393f64-82f3-4ee7-94a7-b1de17a6f05b",
       "label": {
-        "en": "used by"
+        "en": "used by",
+        "de": "verwendet von",
+        "pt": "usado por"
       }
     },
     {
@@ -9680,7 +9761,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "099f878b-bfef-4728-a9db-c836354b9923",
       "label": {
-        "en": "is made of"
+        "en": "is made of",
+        "de": "bestehen aus",
+        "pt": "feito de"
       }
     },
     {
@@ -9701,7 +9784,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "4a4a5921-b0e8-450e-9d5d-26ea455071af",
       "label": {
-        "en": "used for"
+        "en": "used for",
+        "de": "verwendet für",
+        "pt": "usado para"
       }
     },
     {
@@ -9713,7 +9798,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "2909748a-97cb-4b77-9530-614196928224",
       "label": {
-        "en": "made by"
+        "en": "made by",
+        "de": "hergestellt von",
+        "pt": "feito por"
       }
     },
     {
@@ -9734,7 +9821,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "dfc63d2d-e8dd-460f-ad5a-1795dbc75439",
       "label": {
-        "en": "used by"
+        "en": "used by",
+        "de": "verwendet von",
+        "pt": "usado por"
       }
     },
     {
@@ -9744,7 +9833,12 @@
       ],
       "arrow": "→",
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
-      "id": "95dcdd57-563e-4d7a-acfc-edeff2a8a09d"
+      "id": "95dcdd57-563e-4d7a-acfc-edeff2a8a09d",
+      "label": {
+        "de": "von",
+        "en": " ",
+        "pt": " "
+      }
     },
     {
       "nodes": [
@@ -9755,7 +9849,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "b999d026-b6e5-4fa5-b9a8-67f09a09a3ca",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "de": "zur Herstellung von",
+        "pt": "para a produção de"
       }
     },
     {
@@ -9767,7 +9863,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "c75b2480-d837-401f-9abc-82f6edb63a92",
       "label": {
-        "en": "for squeezing"
+        "en": "for squeezing",
+        "de": "zum Auspressen",
+        "pt": "para apertar"
       }
     },
     {
@@ -9779,7 +9877,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "6416d70b-a1b3-4dc3-b8ba-5959d2881c42",
       "label": {
-        "en": "to cover"
+        "en": "to cover",
+        "de": "zur Abdeckung von",
+        "pt": "para cobrir"
       }
     },
     {
@@ -9791,7 +9891,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "b4d8964b-2eeb-47e6-9837-b51f61631540",
       "label": {
-        "en": "to offer"
+        "en": "to offer",
+        "de": "zum Anbieten von",
+        "pt": "por oferecer"
       }
     },
     {
@@ -9821,7 +9923,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "4b62b65b-9089-4af2-91c6-9d68d66129fe",
       "label": {
-        "en": "to"
+        "en": "to",
+        "de": "für die",
+        "pt": "aos"
       }
     },
     {
@@ -9842,7 +9946,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "34487fd7-64ab-41eb-9ab8-16ab997426c6",
       "label": {
-        "en": "during"
+        "en": "during",
+        "de": "während",
+        "pt": "durante um"
       }
     },
     {
@@ -10060,7 +10166,8 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "4f9f12c1-245b-4919-9b9e-c127d3fa86ff",
       "label": {
-        "en": "made with"
+        "en": "hergestellt mit",
+        "pt": "feito com"
       }
     },
     {
@@ -10114,7 +10221,9 @@
       "graph": "8c54c09e-e000-4878-a807-a82a19132ba1",
       "id": "44ee3794-f5be-4325-9b3b-eeef40ff7237",
       "label": {
-        "en": "used by"
+        "en": "used by",
+        "de": "verwendet von",
+        "pt": "usado por"
       }
     },
     {
@@ -11384,7 +11493,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "78a2c977-9019-4879-922c-cd6191e18ff7",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "pt": "para a produção de",
+        "de": "zur Herstellung von"
       }
     },
     {
@@ -11396,7 +11507,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "a8ae8e88-5014-47f4-bdd6-687bf2c39c8f",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "de": "zur Herstellung von",
+        "pt": "para a produção de"
       }
     },
     {
@@ -11408,7 +11521,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "6268ab09-9ec2-4fee-acb0-a3eb73048c11",
       "label": {
-        "en": "to make"
+        "en": "to make",
+        "de": "zur Herstellung von",
+        "pt": "para a produção de"
       }
     },
     {
@@ -11945,7 +12060,9 @@
       "graph": "6d24e8f3-9832-43dd-83b9-9bb77db501cb",
       "id": "e1831b51-9ed7-4737-9d7b-d1e675521ce8",
       "label": {
-        "en": "to cover"
+        "en": "to cover",
+        "de": "zum Abdecken von",
+        "pt": "para cobrir os"
       }
     },
     {
@@ -13546,7 +13663,35 @@
       "arrow": "→",
       "graph": "28c47119-1798-4f58-95ea-b25d4e7045f2",
       "id": "7428e907-3ec2-470a-8ca2-d2c7cd8dd540"
+    },
+    {
+      "nodes": [
+        "e9e6e79f-d050-4958-b5ba-b3ab76b9ed83",
+        "e2b31ad2-8c3b-46a2-960e-5f3af54c11a3"
+      ],
+      "arrow": "→",
+      "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
+      "id": "e31ecb7c-2d25-4f6f-8d21-c62f23303b82",
+      "label": {
+        "en": "search for",
+        "de": "suchen",
+        "pt": "estão olhando"
+      }
+    },
+    {
+      "nodes": [
+        "e2b31ad2-8c3b-46a2-960e-5f3af54c11a3",
+        "53ed5094-52d8-44dc-959d-0578def009a4"
+      ],
+      "arrow": "→",
+      "graph": "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7",
+      "id": "da72d7c0-ae0c-4c18-9cee-b37724a6cd23",
+      "label": {
+        "en": "eat down to the bones",
+        "de": "fressen bis auf die Knochen",
+        "pt": "coma até os ossos"
+      }
     }
   ],
-  "exported": 1732726891630
+  "exported": 1733144510978
 }
