@@ -5,12 +5,12 @@ Dive into the entangled lifeworld of Indigenous communities from the Amazon! “
 ## How to use  
 The videos show scenes from the Xingú while the visualisation displays elements that appear in the current scene and their interconnections in a flowchart. As the scenes unfold, so do their associated flowcharts by uncovering and highlighting elements. Interactivity allows users to break out of the default linear narrative and navigate between scenes as well as to learn more about specific elements and their wider contexts.
 
-**Overview**
-![wanderer](wanderer.png)
-**Story view**
-![wanderer](wanderer.png)
-**Detail view**
-![detailview](detailview_EN.png)
+**Overview**  
+![overview](overview_EN.png)  
+**Story view**  
+![storyview](storyview_EN.png)  
+**Detail view**  
+![detailview](detailview_EN.png)  
 
 ## Credits
 **Project team**  
