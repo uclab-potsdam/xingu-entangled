@@ -17,7 +17,13 @@ The videos show scenes from the Xingú while the visualisation displays elements
 Fidel Thomet, Nadia Zeissig, Marian Dörk, Andrea Scholz, Thiago da Costa Oliveira, Flavia Heins
 
 **Partner**  
-This interactive station is a result of the project “Amazonia Future Lab”, funded by the German Federal Cultural Foundation and the Humboldt Forum Foundation, in partnership with the Prussian Cultural Heritage Foundation, the National Museum UFRJ (Brazil), the Botanic Garden Berlin, the UCLAB of University of Applied Sciences Potsdam, and representatives from the Indigenous community of Ipatse at the Upper Xingu. The aim is to showcase how academic research, design, and Indigenous traditions can converge to inspire decolonial approaches to museum collections.
+the Indigenous community of Ipatse at the Upper Xingu  
+UCLAB at University of Applied Sciences Potsdam   
+Ethnologisches Museum (Ethnological Museum)  
+National Museum UFRJ Brazil  
+Botanic Garden and Botanical Museum Berlin (BGBM)   
+Ibero-American Institute (IAI)  
+Institut für Museumsforschung (Institute for Museum Research)  
 
 **Images**  
 Collecting and processing for Gimi  
