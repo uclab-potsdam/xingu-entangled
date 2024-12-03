@@ -16,9 +16,9 @@ The videos show scenes from the Xingu while the visualisation displays elements 
 Fidel Thomet, Nadia Zeissig, Marian Dörk, Andrea Scholz, Thiago da Costa Oliveira, Flavia Heins
 
 ## Partner  
-Indigenous community of Ipatse  
+Indigenous community of Ipatse   
 UCLAB at FH Potsdam   
-Ethnologisches Museum  
+[Ethnologisches Museum](https://www.smb.museum/en/museums-institutions/ethnologisches-museum/home/)
 National Museum UFRJ Brazil  
 Botanic Garden and Botanical Museum Berlin   
 Ibero-American Institute  
