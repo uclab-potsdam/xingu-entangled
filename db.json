@@ -1200,7 +1200,7 @@
           "de": "xingu:story of uhi/20220901_2_TL_1080p_23,976fps_Kanu_Yamalui_The Story of Uhi_DE.srt"
         }
       },
-      "image": "xe:the story of the fish trap - jamalui.jpg",
+      "image": "xingu:story of uhi/the story of the fish trap - jamalui.jpg",
       "marker": [
         {
           "time": 0,
@@ -6181,7 +6181,7 @@
       },
       "media": {
         "file": {
-          "original": "xe:places.mp4"
+          "original": "xingu:intro.mp4"
         }
       },
       "marker": [],
@@ -13944,5 +13944,5 @@
       }
     }
   ],
-  "exported": 1733225448266
+  "exported": 1733226176163
 }
