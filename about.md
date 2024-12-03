@@ -16,14 +16,14 @@ The videos show scenes from the Xingu while the visualisation displays elements 
 Fidel Thomet, Nadia Zeissig, Marian Dörk, Andrea Scholz, Thiago da Costa Oliveira, Flavia Heins
 
 ## Partner  
-Indigenous community of Ipatse   
-UCLAB at FH Potsdam   
-[Ethnologisches Museum](https://www.smb.museum/en/museums-institutions/ethnologisches-museum/home/)
-National Museum UFRJ Brazil  
-Botanic Garden and Botanical Museum Berlin   
-Ibero-American Institute  
-Institut für Museumsforschung  
+Indigenous community of Ipatse  
+[UCLAB at FH Potsdam](https://uclab.fh-potsdam.de/)   
+[Ethnologisches Museum](https://www.smb.museum/en/museums-institutions/ethnologisches-museum/home/)  
+[National Museum UFRJ Brazil](https://www.museunacional.ufrj.br/)  
+[Botanic Garden and Botanical Museum Berlin](https://www.bo.berlin/en)  
+[Ibero-American Institute](https://www.iai.spk-berlin.de/en/home.html)  
+[Institut für Museumsforschung](https://www.smb.museum/museen-einrichtungen/institut-fuer-museumsforschung/home/)  
 
 ## Image credits  
 Collecting and processing for Gimi  
-Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum /CC BY-SA 4.0  
+Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum / CC BY-SA 4.0  
