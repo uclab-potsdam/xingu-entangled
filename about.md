@@ -6,11 +6,11 @@ Dive into the entangled lifeworld of Indigenous communities from the Amazon! “
 The videos show scenes from the Xingu while the visualisation displays elements that appear in the current scene and their interconnections in a flowchart. As the scenes unfold, so do their associated flowcharts by uncovering and highlighting elements. Interactivity allows users to break out of the default linear narrative and navigate between scenes as well as to learn more about specific elements and their wider contexts.
 
 
-Overview  
+**Overview**  
 ![overview](overview_EN.png)  
-Story view  
+**Story view**  
 ![storyview](storyview_EN.png)  
-Detail view  
+**Detail view**  
 ![detailview](detailview_EN.png)  
 
 ## Credits
@@ -18,7 +18,7 @@ Detail view
 Fidel Thomet, Nadia Zeissig, Marian Dörk, Andrea Scholz, Thiago da Costa Oliveira, Flavia Heins
 
 **Partner**  
-Indigenous community of Ipatse at the Upper Xingu  
+Indigenous community of Ipatse  
 UCLAB at University of Applied Sciences Potsdam   
 Ethnologisches Museum (Ethnological Museum)  
 National Museum UFRJ Brazil  
