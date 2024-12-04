@@ -7061,7 +7061,9 @@
     "6b05d29c-c9db-4083-9a79-731ce005a7ab": {
       "type": "graph",
       "label": {
-        "en": "Moriche – Scientific Name and Collection History"
+        "en": "Moriche – Scientific Name and Collection History",
+        "de": "Moriche - Wissenschaftlicher Name und Sammlungsgeschichte",
+        "pt": "Moriche - Nome científico e histórico da coleção"
       },
       "media": {
         "file": {
@@ -7649,7 +7651,9 @@
     "ee25c862-f0c9-4315-8b2a-3678283c59fc": {
       "type": "graph",
       "label": {
-        "en": "Moriche – Human and Other than Human Uses"
+        "en": "Moriche – Human and Other than Human Uses",
+        "de": "Moriche - menschliche Nutzformen und andere",
+        "pt": "Moriche – Usos humanos e outros"
       },
       "allocations": {
         "510b12e1-c208-4d00-b7f6-03bb438a3249": {
@@ -7747,7 +7751,8 @@
         },
         "subtitles": {
           "de": "xingu:Nils Moriche Human uses/Nils Moriche Human uses_DE.srt",
-          "pt": "xingu:Nils Moriche Human uses/Nils Moriche Human uses_PT.srt"
+          "pt": "xingu:Nils Moriche Human uses/Nils Moriche Human uses_PT.srt",
+          "en": "xingu:Nils Moriche Human uses/Nils Moriche Human uses_ENG.srt"
         }
       },
       "image": "xingu:Nils Moriche Human uses/Nils Moriche Human uses.png"
@@ -7898,7 +7903,9 @@
     "c6efb392-1bea-4d57-9aa7-13aaad798c33": {
       "type": "graph",
       "label": {
-        "en": "Philodendron - Berlin Collection and Geographical Distribution"
+        "en": "Philodendron - Berlin Collection and Geographical Distribution",
+        "de": "Philodendron - Berliner Sammlung und geografische Verbreitung",
+        "pt": "Philodendron - coleção de Berlim e distribuição geográfica"
       },
       "allocations": {
         "df2eaa63-9e93-4b8c-a6ee-5e3ef80e61e6": {
@@ -7964,7 +7971,7 @@
       },
       "media": {
         "subtitles": {
-          "en": "",
+          "en": "xingu:Nils Berlin collection/Nils Berlin collection_ENG.srt",
           "de": "xingu:Nils Berlin collection/Nils Berlin collection_DE.srt",
           "pt": "xingu:Nils Berlin collection/Nils Berlin collection_PT.srt"
         },
@@ -8095,7 +8102,8 @@
     "ab6e4f78-c78d-4270-9283-d7e81dc18672": {
       "type": "graph",
       "label": {
-        "en": "Philodendron Solimoesense"
+        "en": "Philodendron Solimoesense",
+        "universal": "Philodendron Solimoesense"
       },
       "allocations": {
         "bf285fec-2545-403d-8da2-f55cf2395b1b": {
@@ -8200,7 +8208,7 @@
           "original": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense.mp4"
         },
         "subtitles": {
-          "en": "",
+          "en": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_ENG.srt",
           "pt": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_PT.srt",
           "de": "xingu:Nils Philodendron Solimoisense/Nils Philodendron Solimoisense_DE.srt"
         }
@@ -14238,5 +14246,5 @@
       }
     }
   ],
-  "exported": 1733331485348
+  "exported": 1733333528376
 }
