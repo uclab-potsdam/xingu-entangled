@@ -7657,20 +7657,20 @@
       },
       "allocations": {
         "510b12e1-c208-4d00-b7f6-03bb438a3249": {
-          "x": -840,
+          "x": -920,
           "y": -860
         },
         "a0ab05fe-f155-46d3-a3b6-b93be51e66d8": {
-          "x": -400,
-          "y": -860
+          "x": -560,
+          "y": -900
         },
         "1108c8a3-6af6-4c29-b490-e75c948df002": {
-          "x": -400,
-          "y": -580
+          "x": -460,
+          "y": -620
         },
         "b85b2812-e25a-437d-ae6b-385ac00a718f": {
-          "x": -540,
-          "y": -360
+          "x": -220,
+          "y": -760
         },
         "b78e3d50-c9ad-4b92-a41e-2bac062e11ed": {
           "x": -980,
@@ -7697,52 +7697,60 @@
           "y": -260
         },
         "7f361291-1fe4-4b55-a954-9c1db4d565e7": {
-          "x": 40,
+          "x": 180,
           "y": -460
         },
         "559c5e79-9024-49b3-ac4d-5053db0f90b3": {
-          "x": -160,
-          "y": -240
+          "x": -60,
+          "y": -180
         },
         "9e96974a-cc3a-41ee-b0ec-970354c07464": {
-          "x": 40,
-          "y": -200
+          "x": 120,
+          "y": -160
         },
         "9aaa8bee-e252-4ee3-a59f-612ff3fc6a22": {
-          "x": 280,
-          "y": -240
+          "x": 360,
+          "y": -200
         },
         "0a59a941-1ff5-4402-8bf2-1f7787d850fa": {
-          "x": -140,
-          "y": -500
+          "x": 0,
+          "y": -740
         },
         "558127b5-333e-4d9a-9a77-f6b6a124a68d": {
-          "x": 340,
-          "y": -540
+          "x": 420,
+          "y": -640
         },
         "ad6aeb2a-9e77-461e-8ac1-6a4cd2b847e8": {
-          "x": 360,
-          "y": -440
+          "x": 480,
+          "y": -460
         },
         "1abe659d-bed1-43c6-9e25-a7b17d16a7ae": {
-          "x": 280,
-          "y": -660
+          "x": 320,
+          "y": -780
         },
         "84ee9337-0f98-4e54-be60-1f4b1994cbc2": {
-          "x": 40,
-          "y": -720
+          "x": -180,
+          "y": -360
         },
         "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": {
-          "x": -240,
-          "y": -380
+          "x": 120,
+          "y": -820
         },
         "6de75dd3-c2e2-4800-be0d-67b345b86709": {
-          "x": -400,
-          "y": -220
+          "x": -140,
+          "y": -940
         },
         "0a838d76-504e-4aa1-bd75-49a6791a801f": {
-          "x": 100,
-          "y": -80
+          "x": 200,
+          "y": -1020
+        },
+        "e91bb03e-d9d7-46df-8986-1896da0c7e32": {
+          "x": -420,
+          "y": -820
+        },
+        "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3": {
+          "x": -360,
+          "y": -980
         }
       },
       "media": {
@@ -7755,7 +7763,322 @@
           "en": "xingu:Nils Moriche Human uses/Nils Moriche Human uses_ENG.srt"
         }
       },
-      "image": "xingu:Nils Moriche Human uses/Nils Moriche Human uses.png"
+      "image": "xingu:Nils Moriche Human uses/Nils Moriche Human uses.png",
+      "marker": [
+        {
+          "time": 0,
+          "states": {
+            "6622a5e6-9d71-44a9-8b4d-99402d74b235": "hide",
+            "f511f858-718b-4e56-9cc8-be9755fae16f": "hide",
+            "8e79fa93-eb98-496d-93f9-460e5e82d89e": "hide",
+            "b78e3d50-c9ad-4b92-a41e-2bac062e11ed": "hide",
+            "510b12e1-c208-4d00-b7f6-03bb438a3249": "hide",
+            "a0ab05fe-f155-46d3-a3b6-b93be51e66d8": "hide",
+            "30afa74d-3a19-4a12-90b3-e5cea1c62f79": "hide",
+            "b12f965a-7e17-4589-8511-1ca39b4bf367": "hide",
+            "84ee9337-0f98-4e54-be60-1f4b1994cbc2": "hide",
+            "0a59a941-1ff5-4402-8bf2-1f7787d850fa": "hide",
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "hide",
+            "6de75dd3-c2e2-4800-be0d-67b345b86709": "hide",
+            "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "hide",
+            "1abe659d-bed1-43c6-9e25-a7b17d16a7ae": "hide",
+            "558127b5-333e-4d9a-9a77-f6b6a124a68d": "hide",
+            "ad6aeb2a-9e77-461e-8ac1-6a4cd2b847e8": "hide",
+            "7f361291-1fe4-4b55-a954-9c1db4d565e7": "hide",
+            "559c5e79-9024-49b3-ac4d-5053db0f90b3": "hide",
+            "9e96974a-cc3a-41ee-b0ec-970354c07464": "hide",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide",
+            "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3": "hide",
+            "e91bb03e-d9d7-46df-8986-1896da0c7e32": "hide",
+            "9aaa8bee-e252-4ee3-a59f-612ff3fc6a22": "hide"
+          },
+          "bounds": {
+            "x1": -1080.3566084568374,
+            "y1": -1011.1292987064212,
+            "x2": -139.0842688858289,
+            "y2": -409.3079288389731
+          }
+        },
+        {
+          "time": 13.356134,
+          "states": {
+            "e91bb03e-d9d7-46df-8986-1896da0c7e32": "default",
+            "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3": "default"
+          }
+        },
+        {
+          "time": 5.492394,
+          "states": {
+            "510b12e1-c208-4d00-b7f6-03bb438a3249": "default"
+          }
+        },
+        {
+          "time": 6.577336,
+          "states": {
+            "a0ab05fe-f155-46d3-a3b6-b93be51e66d8": "default"
+          }
+        },
+        {
+          "time": 11.116723,
+          "states": {
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "default"
+          }
+        },
+        {
+          "time": 11.863531,
+          "states": {
+            "e91bb03e-d9d7-46df-8986-1896da0c7e32": "default"
+          }
+        },
+        {
+          "time": 12.526556,
+          "states": {
+            "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3": "default"
+          }
+        },
+        {
+          "time": 16.991465,
+          "bounds": {
+            "x1": -1405.1549480478538,
+            "y1": -984.0186228106272,
+            "x2": -320.7043477706562,
+            "y2": -132.7973739903725
+          },
+          "states": {
+            "b78e3d50-c9ad-4b92-a41e-2bac062e11ed": "default"
+          }
+        },
+        {
+          "time": 19.836805,
+          "states": {
+            "b78e3d50-c9ad-4b92-a41e-2bac062e11ed": "highlight",
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "default"
+          }
+        },
+        {
+          "time": 25.581526,
+          "states": {
+            "8e79fa93-eb98-496d-93f9-460e5e82d89e": "default"
+          }
+        },
+        {
+          "time": 27.892889,
+          "states": {
+            "8e79fa93-eb98-496d-93f9-460e5e82d89e": "highlight",
+            "6622a5e6-9d71-44a9-8b4d-99402d74b235": "default"
+          }
+        },
+        {
+          "time": 31.591575,
+          "states": {
+            "6622a5e6-9d71-44a9-8b4d-99402d74b235": "highlight"
+          }
+        },
+        {
+          "time": 33.856807,
+          "states": {
+            "f511f858-718b-4e56-9cc8-be9755fae16f": "default"
+          }
+        },
+        {
+          "time": 34.647721,
+          "states": {
+            "f511f858-718b-4e56-9cc8-be9755fae16f": "highlight"
+          }
+        },
+        {
+          "time": 39.190755,
+          "bounds": {
+            "x1": -1256.257113501896,
+            "y1": -686.2229537187116,
+            "x2": -484.09666178568966,
+            "y2": -73.50177616233618
+          },
+          "states": {
+            "6622a5e6-9d71-44a9-8b4d-99402d74b235": "default",
+            "30afa74d-3a19-4a12-90b3-e5cea1c62f79": "default"
+          }
+        },
+        {
+          "time": 42.858478,
+          "states": {
+            "30afa74d-3a19-4a12-90b3-e5cea1c62f79": "default",
+            "b12f965a-7e17-4589-8511-1ca39b4bf367": "default"
+          }
+        },
+        {
+          "time": 45.864489,
+          "states": {
+            "b12f965a-7e17-4589-8511-1ca39b4bf367": "highlight"
+          }
+        },
+        {
+          "time": 56.190451,
+          "states": {
+            "b12f965a-7e17-4589-8511-1ca39b4bf367": "highlight"
+          }
+        },
+        {
+          "time": 66.486055,
+          "bounds": {
+            "x1": -1267.3123105703278,
+            "y1": -1082.0538570551655,
+            "x2": 657.7138534396846,
+            "y2": 197.79049606624534
+          }
+        },
+        {
+          "time": 66.486053,
+          "states": {
+            "8e79fa93-eb98-496d-93f9-460e5e82d89e": "default",
+            "b78e3d50-c9ad-4b92-a41e-2bac062e11ed": "default",
+            "f511f858-718b-4e56-9cc8-be9755fae16f": "default",
+            "b12f965a-7e17-4589-8511-1ca39b4bf367": "default"
+          }
+        },
+        {
+          "time": 68.40145,
+          "states": {
+            "30afa74d-3a19-4a12-90b3-e5cea1c62f79": "highlight"
+          }
+        },
+        {
+          "time": 73.929776,
+          "states": {
+            "7f361291-1fe4-4b55-a954-9c1db4d565e7": "highlight"
+          }
+        },
+        {
+          "time": 77.986334,
+          "states": {
+            "0a59a941-1ff5-4402-8bf2-1f7787d850fa": "default"
+          }
+        },
+        {
+          "time": 81.062501,
+          "states": {
+            "559c5e79-9024-49b3-ac4d-5053db0f90b3": "default"
+          }
+        },
+        {
+          "time": 81.990371,
+          "states": {
+            "9e96974a-cc3a-41ee-b0ec-970354c07464": "default"
+          }
+        },
+        {
+          "time": 83.389639,
+          "states": {
+            "9aaa8bee-e252-4ee3-a59f-612ff3fc6a22": "default"
+          }
+        },
+        {
+          "time": 73.895911,
+          "bounds": {
+            "x1": -1069.199417552904,
+            "y1": -726.1519342008553,
+            "x2": 647.1945847838922,
+            "y2": -109.02150639436682
+          }
+        },
+        {
+          "time": 78.04307,
+          "bounds": {
+            "x1": -494.146064369585,
+            "y1": -859.3960038408926,
+            "x2": 687.5184479644298,
+            "y2": 182.01159308255671
+          }
+        },
+        {
+          "time": 99.728378,
+          "states": {
+            "558127b5-333e-4d9a-9a77-f6b6a124a68d": "default"
+          }
+        },
+        {
+          "time": 101.022117,
+          "states": {
+            "ad6aeb2a-9e77-461e-8ac1-6a4cd2b847e8": "default"
+          }
+        },
+        {
+          "time": 103.049387,
+          "states": {
+            "1abe659d-bed1-43c6-9e25-a7b17d16a7ae": "default"
+          }
+        },
+        {
+          "time": 104.08886,
+          "states": {
+            "84ee9337-0f98-4e54-be60-1f4b1994cbc2": "default",
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "hide"
+          }
+        },
+        {
+          "time": 107.655406,
+          "bounds": {
+            "x1": -682.4438627195634,
+            "y1": -1052.2139186750608,
+            "x2": 653.5303292143219,
+            "y2": -12.946584094662997
+          },
+          "states": {
+            "6de75dd3-c2e2-4800-be0d-67b345b86709": "default"
+          }
+        },
+        {
+          "time": 111.646205,
+          "states": {
+            "5b270325-fc4e-4777-bb72-b25a8b4fa3bf": "default"
+          }
+        },
+        {
+          "time": 8.652474,
+          "states": {
+            "1108c8a3-6af6-4c29-b490-e75c948df002": "highlight"
+          }
+        },
+        {
+          "time": 11.314987,
+          "states": {
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "highlight"
+          }
+        },
+        {
+          "time": 74.585369,
+          "states": {
+            "30afa74d-3a19-4a12-90b3-e5cea1c62f79": "default",
+            "7f361291-1fe4-4b55-a954-9c1db4d565e7": "default"
+          }
+        },
+        {
+          "time": 75.998598,
+          "states": {
+            "7f361291-1fe4-4b55-a954-9c1db4d565e7": "highlight"
+          }
+        },
+        {
+          "time": 115.57815,
+          "states": {
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "default"
+          }
+        },
+        {
+          "time": 116.73444,
+          "states": {
+            "0a838d76-504e-4aa1-bd75-49a6791a801f": "highlight"
+          }
+        },
+        {
+          "time": 66.369556,
+          "states": {
+            "b12f965a-7e17-4589-8511-1ca39b4bf367": "default",
+            "f511f858-718b-4e56-9cc8-be9755fae16f": "default",
+            "8e79fa93-eb98-496d-93f9-460e5e82d89e": "default"
+          }
+        }
+      ]
     },
     "510b12e1-c208-4d00-b7f6-03bb438a3249": {
       "type": "entity",
@@ -7922,7 +8245,7 @@
         },
         "b7b95d19-2e7d-477e-a7d5-726e38936924": {
           "x": -360,
-          "y": -940
+          "y": -1000
         },
         "b85b2812-e25a-437d-ae6b-385ac00a718f": {
           "x": -360,
@@ -7930,7 +8253,7 @@
         },
         "ca525fed-851d-4de0-a7ce-ea4803701ed8": {
           "x": -80,
-          "y": -960
+          "y": -1000
         },
         "cfe39ea3-3823-47b6-a8a2-43e646a6606c": {
           "x": -80,
@@ -7949,8 +8272,8 @@
           "y": -440
         },
         "c61171b9-b095-4ba9-891c-54a1288d7014": {
-          "x": -219.5971309277339,
-          "y": -358.8517315715368
+          "x": -220,
+          "y": -360
         },
         "fb1c7bc3-3e72-440c-84f8-6be1ab85e3e3": {
           "x": -1100,
@@ -7967,6 +8290,18 @@
         "872831d9-28c5-4c26-bfe5-c74bcbcdd180": {
           "x": -1100,
           "y": -920
+        },
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": {
+          "x": -80,
+          "y": -860
+        },
+        "a6dcaf6a-e97c-4add-80db-674812a99d8d": {
+          "x": -620,
+          "y": -480
+        },
+        "a5f47020-6260-42fd-a954-4ffd6f16e17e": {
+          "x": 352.2587543000798,
+          "y": -886.8124670456375
         }
       },
       "media": {
@@ -7980,7 +8315,236 @@
           "de": ""
         }
       },
-      "image": "xingu:Nils Berlin collection/Nils Berlin collection.png"
+      "image": "xingu:Nils Berlin collection/Nils Berlin collection.png",
+      "marker": [
+        {
+          "time": 0,
+          "states": {
+            "df2eaa63-9e93-4b8c-a6ee-5e3ef80e61e6": "default",
+            "872831d9-28c5-4c26-bfe5-c74bcbcdd180": "hide",
+            "bf285fec-2545-403d-8da2-f55cf2395b1b": "hide",
+            "fb1c7bc3-3e72-440c-84f8-6be1ab85e3e3": "hide",
+            "025773aa-84a0-4730-82e0-cbf70daa9b8b": "hide",
+            "6c300a7a-c0ef-47ca-8d39-ee604af803f4": "hide",
+            "57123565-80d1-4256-8c61-2c4b940892bd": "hide",
+            "b7b95d19-2e7d-477e-a7d5-726e38936924": "hide",
+            "ca525fed-851d-4de0-a7ce-ea4803701ed8": "hide",
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "hide",
+            "cfe39ea3-3823-47b6-a8a2-43e646a6606c": "hide",
+            "723e9bd9-fcf7-474b-9a76-f608bdd38967": "hide",
+            "ce7bb752-6b1a-48d7-951f-dd7ed7dba862": "hide",
+            "5935aaed-190f-4841-a704-f329f23e1c8f": "hide",
+            "c61171b9-b095-4ba9-891c-54a1288d7014": "hide",
+            "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": "hide",
+            "a6dcaf6a-e97c-4add-80db-674812a99d8d": "hide",
+            "a5f47020-6260-42fd-a954-4ffd6f16e17e": "hide"
+          },
+          "bounds": {
+            "x1": -1037.9687499999998,
+            "y1": -1122.2383657857683,
+            "x2": -538.2812499999999,
+            "y2": -516.2071157857683
+          }
+        },
+        {
+          "time": 21.008303,
+          "states": {
+            "6c300a7a-c0ef-47ca-8d39-ee604af803f4": "default"
+          }
+        },
+        {
+          "time": 10.965682,
+          "states": {
+            "872831d9-28c5-4c26-bfe5-c74bcbcdd180": "default"
+          }
+        },
+        {
+          "time": 16.608039,
+          "states": {
+            "bf285fec-2545-403d-8da2-f55cf2395b1b": "default"
+          }
+        },
+        {
+          "time": 40.525377,
+          "bounds": {
+            "x1": -953.6975145666429,
+            "y1": -1168.1899938531517,
+            "x2": 169.8141842679973,
+            "y2": -190.81338311868137
+          },
+          "states": {
+            "b7b95d19-2e7d-477e-a7d5-726e38936924": "default"
+          }
+        },
+        {
+          "time": 42.572722,
+          "states": {
+            "ca525fed-851d-4de0-a7ce-ea4803701ed8": "default"
+          }
+        },
+        {
+          "time": 45.920515,
+          "states": {
+            "b85b2812-e25a-437d-ae6b-385ac00a718f": "default"
+          }
+        },
+        {
+          "time": 48.613905,
+          "bounds": {
+            "x1": -727.4238297663796,
+            "y1": -985.913969986273,
+            "x2": 199.66973990136538,
+            "y2": -203.38414338536268
+          }
+        },
+        {
+          "time": 50.06031,
+          "states": {
+            "723e9bd9-fcf7-474b-9a76-f608bdd38967": "default"
+          }
+        },
+        {
+          "time": 55.59969,
+          "bounds": {
+            "x1": -636.2858178329403,
+            "y1": -758.0689401526745,
+            "x2": 122.67383326794247,
+            "y2": -275.6660149187801
+          }
+        },
+        {
+          "time": 58.170532,
+          "states": {
+            "c61171b9-b095-4ba9-891c-54a1288d7014": "default"
+          }
+        },
+        {
+          "time": 65.184608,
+          "bounds": {
+            "x1": -1445.5118568913524,
+            "y1": -1128.6876442480761,
+            "x2": 81.68162625327761,
+            "y2": -227.8478936742361
+          },
+          "states": {
+            "bf285fec-2545-403d-8da2-f55cf2395b1b": "highlight"
+          }
+        },
+        {
+          "time": 153.46441,
+          "states": {
+            "fb1c7bc3-3e72-440c-84f8-6be1ab85e3e3": "default"
+          }
+        },
+        {
+          "time": 166.162834,
+          "states": {
+            "57123565-80d1-4256-8c61-2c4b940892bd": "default"
+          }
+        },
+        {
+          "time": 160.778305,
+          "states": {
+            "025773aa-84a0-4730-82e0-cbf70daa9b8b": "default"
+          }
+        },
+        {
+          "time": 126.938448,
+          "states": {
+            "723e9bd9-fcf7-474b-9a76-f608bdd38967": "highlight"
+          },
+          "bounds": {
+            "x1": -1358.3292369650494,
+            "y1": -963.2439095029099,
+            "x2": -237.5804022037956,
+            "y2": -370.2803416079486
+          }
+        },
+        {
+          "time": 56.137368,
+          "states": {
+            "ce7bb752-6b1a-48d7-951f-dd7ed7dba862": "default"
+          }
+        },
+        {
+          "time": 56.984797,
+          "states": {
+            "5935aaed-190f-4841-a704-f329f23e1c8f": "default"
+          }
+        },
+        {
+          "time": 58.117424,
+          "states": {
+            "c61171b9-b095-4ba9-891c-54a1288d7014": "default"
+          }
+        },
+        {
+          "time": 25.340906,
+          "states": {
+            "a6dcaf6a-e97c-4add-80db-674812a99d8d": "default"
+          }
+        },
+        {
+          "time": 44.826233,
+          "states": {
+            "ec20e62e-6bf7-45d7-837b-e02a71beaf6e": "default"
+          }
+        },
+        {
+          "time": 46.680243,
+          "states": {
+            "cfe39ea3-3823-47b6-a8a2-43e646a6606c": "default"
+          }
+        },
+        {
+          "time": 154.706794,
+          "states": {
+            "fb1c7bc3-3e72-440c-84f8-6be1ab85e3e3": "highlight"
+          }
+        },
+        {
+          "time": 162.021421,
+          "states": {
+            "025773aa-84a0-4730-82e0-cbf70daa9b8b": "highlight"
+          }
+        },
+        {
+          "time": 167.802807,
+          "states": {
+            "57123565-80d1-4256-8c61-2c4b940892bd": "highlight"
+          }
+        },
+        {
+          "time": 181.846584,
+          "states": {
+            "57123565-80d1-4256-8c61-2c4b940892bd": "default",
+            "fb1c7bc3-3e72-440c-84f8-6be1ab85e3e3": "default",
+            "025773aa-84a0-4730-82e0-cbf70daa9b8b": "default"
+          }
+        },
+        {
+          "time": 120.622714,
+          "bounds": {
+            "x1": -972.3558212203931,
+            "y1": -1031.0636878353016,
+            "x2": 508.99325381192625,
+            "y2": -639.9209545402509
+          },
+          "states": {
+            "a5f47020-6260-42fd-a954-4ffd6f16e17e": "default"
+          }
+        },
+        {
+          "time": 181.489653,
+          "states": {
+            "57123565-80d1-4256-8c61-2c4b940892bd": "default",
+            "fb1c7bc3-3e72-440c-84f8-6be1ab85e3e3": "default",
+            "025773aa-84a0-4730-82e0-cbf70daa9b8b": "default",
+            "723e9bd9-fcf7-474b-9a76-f608bdd38967": "default",
+            "bf285fec-2545-403d-8da2-f55cf2395b1b": "default"
+          }
+        }
+      ]
     },
     "df2eaa63-9e93-4b8c-a6ee-5e3ef80e61e6": {
       "type": "entity",
@@ -8862,6 +9426,30 @@
         "de": "Fluss",
         "en": "river",
         "pt": "rio"
+      }
+    },
+    "a6dcaf6a-e97c-4add-80db-674812a99d8d": {
+      "type": "entity",
+      "label": {
+        "en": "600 to 1000 described species"
+      }
+    },
+    "a5f47020-6260-42fd-a954-4ffd6f16e17e": {
+      "type": "entity",
+      "label": {
+        "en": "Cerrado"
+      }
+    },
+    "e91bb03e-d9d7-46df-8986-1896da0c7e32": {
+      "type": "entity",
+      "label": {
+        "en": "Orinoco"
+      }
+    },
+    "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3": {
+      "type": "entity",
+      "label": {
+        "en": "Venezuela"
       }
     }
   },
@@ -12635,20 +13223,6 @@
     },
     {
       "nodes": [
-        "1108c8a3-6af6-4c29-b490-e75c948df002",
-        "6de75dd3-c2e2-4800-be0d-67b345b86709"
-      ],
-      "arrow": "→",
-      "graph": "0a838d76-504e-4aa1-bd75-49a6791a801f",
-      "id": "caf51f6f-9f6c-4bbf-92f7-30d3f0617a76",
-      "label": {
-        "en": "found in",
-        "de": "findet sich in",
-        "pt": "encontrado em"
-      }
-    },
-    {
-      "nodes": [
         "c4a73dee-4406-4ecf-abf6-466158961a9f",
         "6e01908e-cc89-4585-b5c7-6fccf2b4cd91"
       ],
@@ -13363,18 +13937,6 @@
     },
     {
       "nodes": [
-        "1108c8a3-6af6-4c29-b490-e75c948df002",
-        "0a59a941-1ff5-4402-8bf2-1f7787d850fa"
-      ],
-      "arrow": "→",
-      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
-      "id": "ebfb0bfd-9bb3-4824-a329-d5403a8b661f",
-      "label": {
-        "en": "in"
-      }
-    },
-    {
-      "nodes": [
         "84ee9337-0f98-4e54-be60-1f4b1994cbc2",
         "1108c8a3-6af6-4c29-b490-e75c948df002"
       ],
@@ -13506,7 +14068,7 @@
       "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
       "id": "f2847c57-3c51-4a03-8f4e-0026d86b2738",
       "label": {
-        "en": "is the center of diversity",
+        "en": "is the actual center of diversity",
         "de": "ist das Zentrum der Vielfalt",
         "pt": "é o centro da diversidade"
       }
@@ -14244,7 +14806,115 @@
         "en": "eaten by",
         "de": "gefressen von"
       }
+    },
+    {
+      "nodes": [
+        "bf285fec-2545-403d-8da2-f55cf2395b1b",
+        "a6dcaf6a-e97c-4add-80db-674812a99d8d"
+      ],
+      "arrow": "→",
+      "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
+      "id": "6d96804a-69d3-4ae3-9f76-a1d94ee88546",
+      "label": {
+        "en": "has about"
+      }
+    },
+    {
+      "nodes": [
+        "b85b2812-e25a-437d-ae6b-385ac00a718f",
+        "ec20e62e-6bf7-45d7-837b-e02a71beaf6e"
+      ],
+      "arrow": "→",
+      "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
+      "id": "56e036e9-db7b-4636-9a23-f8146f92341f"
+    },
+    {
+      "nodes": [
+        "0a59a941-1ff5-4402-8bf2-1f7787d850fa",
+        "b85b2812-e25a-437d-ae6b-385ac00a718f"
+      ],
+      "arrow": "→",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "789ba90d-51f3-4d79-8586-adc600b63369",
+      "label": {
+        "en": "is located in"
+      }
+    },
+    {
+      "nodes": [
+        "0a59a941-1ff5-4402-8bf2-1f7787d850fa",
+        "7f361291-1fe4-4b55-a954-9c1db4d565e7"
+      ],
+      "arrow": "→",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "b45eaf61-0dac-4d90-9332-f3b24d70011d",
+      "label": {
+        "en": "people eat"
+      }
+    },
+    {
+      "nodes": [
+        "7f361291-1fe4-4b55-a954-9c1db4d565e7",
+        "7f361291-1fe4-4b55-a954-9c1db4d565e7"
+      ],
+      "arrow": "→",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "3bdb2f7f-9a06-477c-a63d-525e85df7092"
+    },
+    {
+      "nodes": [
+        "1108c8a3-6af6-4c29-b490-e75c948df002",
+        "e91bb03e-d9d7-46df-8986-1896da0c7e32"
+      ],
+      "arrow": "→",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "1e1b5af9-b5cd-43c5-b642-e61034fe5d4e",
+      "label": {
+        "en": "found in"
+      }
+    },
+    {
+      "nodes": [
+        "e91bb03e-d9d7-46df-8986-1896da0c7e32",
+        "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3"
+      ],
+      "arrow": "→",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "8a1001ed-f272-4028-9c7f-96204e2c3f4d",
+      "label": {
+        "en": "located in"
+      }
+    },
+    {
+      "nodes": [
+        "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3",
+        "e91bb03e-d9d7-46df-8986-1896da0c7e32"
+      ],
+      "arrow": "→",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "dfe40b65-990a-415b-b822-322ac43d8d71"
+    },
+    {
+      "nodes": [
+        "687f29e6-19bd-46b6-a8cf-dce4fa8be8f3",
+        "b85b2812-e25a-437d-ae6b-385ac00a718f"
+      ],
+      "arrow": "→",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "ddfc973d-5d38-4155-9a19-bbdf3a05cb88",
+      "label": {
+        "en": "located in"
+      }
+    },
+    {
+      "nodes": [
+        "7f361291-1fe4-4b55-a954-9c1db4d565e7",
+        "1108c8a3-6af6-4c29-b490-e75c948df002"
+      ],
+      "arrow": "←",
+      "graph": "ee25c862-f0c9-4315-8b2a-3678283c59fc",
+      "id": "b5f25b55-9ff1-4587-b5a1-8194533ba88a"
     }
   ],
-  "exported": 1733333528376
+  "exported": 1733665346827
 }
