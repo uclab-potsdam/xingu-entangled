@@ -27,6 +27,9 @@ Indigenous community of Ipatse
 [Ibero-American Institute](https://www.iai.spk-berlin.de/en/home.html)  
 [Institut für Museumsforschung](https://www.smb.museum/museen-einrichtungen/institut-fuer-museumsforschung/home/)  
 
+## Simple Language
+Xingu Entangled was created by the [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de), a research project conducted from 2021 to 2024. It was funded by the Digital Culture Programme of the German Federal Cultural Foundation and the Stiftung Humboldt Forum im Berliner Schloss. The project’s interface was built using the Wanderer, an online tool that connects videos to data networks. The Wanderer is free to use and available as [open source software on GitHub](https://github.com/uclab-potsdam/wanderer).
+
 ## Image credits  
 Collecting and processing for Gimi  
 Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum / CC BY-SA 4.0  
