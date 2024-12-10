@@ -1057,16 +1057,10 @@
       "type": "entity",
       "label": {
         "en": "Blue-Macaw lagoon",
-        "pt": "Arara-azul lagoon",
-        "de": "Arara-azul lagoon"
+        "pt": "laguna Arara-azul",
+        "de": "Arara-azul Lagune"
       },
       "class": "2d348a0b-b64f-4125-9d76-61e0e2d1e997"
-    },
-    "41cea3c2-940a-47e2-9912-59d761219a93": {
-      "type": "entity",
-      "label": {
-        "en": "lagoon"
-      }
     },
     "eeedfcd9-296b-41c7-9b85-9bfc888c0fc7": {
       "type": "graph",
@@ -1612,7 +1606,7 @@
       "type": "entity",
       "label": {
         "en": "spirit person",
-        "de": "Geisterperson",
+        "de": "Geist",
         "pt": "pessoa espiritu"
       }
     },
@@ -1730,13 +1724,7 @@
         "de": "Uhi's Venen",
         "pt": "as veias de Uhi"
       },
-      "class": "932c8dd7-9e07-441b-9d2c-fadcc5082e6d"
-    },
-    "932c8dd7-9e07-441b-9d2c-fadcc5082e6d": {
-      "type": "entity",
-      "label": {
-        "en": "body part"
-      }
+      "class": "e30d0d75-28a1-43bb-b53d-21f2d12cda26"
     },
     "efbdf327-a16c-43f6-b3ef-24752e441029": {
       "type": "entity",
@@ -1750,7 +1738,9 @@
     "e30d0d75-28a1-43bb-b53d-21f2d12cda26": {
       "type": "entity",
       "label": {
-        "en": "body part"
+        "en": "body part",
+        "de": "Körperteil",
+        "pt": "parte do corpo"
       }
     },
     "3236aa1c-7bbc-4410-a4d1-8f856720f6a8": {
@@ -2114,7 +2104,8 @@
       "type": "entity",
       "label": {
         "en": "fish trap part",
-        "de": "parte da armadilha"
+        "de": "Teil der Fischreuse",
+        "pt": "parte da armadilha"
       }
     },
     "bcfb0cea-8799-499d-902f-35a1b5d0e461": {
@@ -3148,7 +3139,9 @@
     "1c68f8e3-f0d2-4244-9209-23a21799c3b3": {
       "type": "entity",
       "label": {
-        "en": "string"
+        "en": "string",
+        "de": "Frauenschurz",
+        "pt": "string"
       }
     },
     "95adb6d6-ab9d-42ab-8431-98c0027bc3d9": {
@@ -4366,6 +4359,14 @@
         "43cff938-259c-4887-bb11-9adb23c867ee": {
           "x": 160,
           "y": 180
+        },
+        "aade3885-6767-49f7-9223-fae57686f253": {
+          "x": -340,
+          "y": -380
+        },
+        "21026e34-8572-4e7c-8fd1-736f14257a33": {
+          "x": -380,
+          "y": -380
         }
       },
       "media": {
@@ -4621,7 +4622,10 @@
       "label": {
         "en": "Gimi"
       },
-      "class": "344f8ac6-7b3c-403c-a279-76a68bb34792"
+      "class": "344f8ac6-7b3c-403c-a279-76a68bb34792",
+      "url": [
+        "https://recherche.smb.museum/detail/151816/diadem?language=de&question=V+B+2398&limit=15&sort=relevance&controls=none&objIdx=0"
+      ]
     },
     "344f8ac6-7b3c-403c-a279-76a68bb34792": {
       "type": "entity",
@@ -5296,7 +5300,9 @@
     "9393ee3e-93d1-41c3-8931-6d60f3d08128": {
       "type": "entity",
       "label": {
-        "en": "paint"
+        "en": "paint",
+        "de": "Farbe",
+        "pt": "tinta"
       }
     },
     "8b213533-513e-4581-978d-7bf27122fd6b": {
@@ -6228,7 +6234,10 @@
         "en": "annatto fruit",
         "de": "Annatto Frucht",
         "pt": "anato fruta"
-      }
+      },
+      "url": [
+        "https://recherche.smb.museum/detail/1017421/zweige-mit-uruku-fr%C3%BCchten?language=de&limit=15&sort=relevance&controls=none&conditions=AND%2BinvolvedParties%2B%22G%C3%BCnther+Hartmann%22&objIdx=10"
+      ]
     },
     "2d8268cb-87c8-489f-8eeb-e4103cb7de09": {
       "type": "entity",
@@ -7431,20 +7440,12 @@
         "pt": "gênero"
       }
     },
-    "41002595-a393-487e-acb8-365c1811c50a": {
-      "type": "entity",
-      "label": {
-        "en": "species",
-        "de": "Art",
-        "pt": "espécie"
-      }
-    },
     "c205c6d1-04cf-4e82-b7dd-2d180cab1e72": {
       "type": "entity",
       "label": {
         "en": "flexuosa"
       },
-      "class": "41002595-a393-487e-acb8-365c1811c50a"
+      "class": "a6dcaf6a-e97c-4add-80db-674812a99d8d"
     },
     "097bbc0a-efb8-4ad6-afc8-42ea08ef6fd9": {
       "type": "entity",
@@ -8296,12 +8297,8 @@
           "y": -860
         },
         "a6dcaf6a-e97c-4add-80db-674812a99d8d": {
-          "x": -620,
-          "y": -480
-        },
-        "a5f47020-6260-42fd-a954-4ffd6f16e17e": {
-          "x": 352.2587543000798,
-          "y": -886.8124670456375
+          "x": -520,
+          "y": -460
         }
       },
       "media": {
@@ -9431,13 +9428,9 @@
     "a6dcaf6a-e97c-4add-80db-674812a99d8d": {
       "type": "entity",
       "label": {
-        "en": "600 to 1000 described species"
-      }
-    },
-    "a5f47020-6260-42fd-a954-4ffd6f16e17e": {
-      "type": "entity",
-      "label": {
-        "en": "Cerrado"
+        "en": "species",
+        "de": "Arten",
+        "pt": "espécies"
       }
     },
     "e91bb03e-d9d7-46df-8986-1896da0c7e32": {
@@ -9450,6 +9443,21 @@
       "type": "entity",
       "label": {
         "en": "Venezuela"
+      }
+    },
+    "aade3885-6767-49f7-9223-fae57686f253": {
+      "type": "image",
+      "file": "http://web01.fh-potsdam.de/public/media/_/on%20gimi/Hugeku.png",
+      "label": {
+        "universal": "Gimi Hugeku.png"
+      }
+    },
+    "21026e34-8572-4e7c-8fd1-736f14257a33": {
+      "type": "image",
+      "file": "xingu:on%20gimi/Hugeku.png",
+      "label": {
+        "universal": "Gimi Hugeku.png",
+        "en": "Hugeku.png"
       }
     }
   },
@@ -14105,7 +14113,8 @@
       "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
       "id": "62b983f2-ef16-40cc-b636-dccb1414bbaa",
       "label": {
-        "en": "in"
+        "en": "in",
+        "pt": "em"
       }
     },
     {
@@ -14117,7 +14126,8 @@
       "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
       "id": "edc3053b-f073-41d7-b4b7-a84c39e0c811",
       "label": {
-        "en": "in"
+        "en": "in",
+        "pt": "em"
       }
     },
     {
@@ -14129,7 +14139,8 @@
       "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
       "id": "54131ddf-fec5-46d2-b449-46b00db264c6",
       "label": {
-        "en": "in"
+        "en": "in",
+        "pt": "em"
       }
     },
     {
@@ -14816,7 +14827,9 @@
       "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
       "id": "6d96804a-69d3-4ae3-9f76-a1d94ee88546",
       "label": {
-        "en": "has about"
+        "en": "has about 600 – 1000 described",
+        "de": "hat etwa 600 – 1000 beschriebene",
+        "pt": "tem cerca de 600 – 1000 descritas"
       }
     },
     {
@@ -14826,7 +14839,12 @@
       ],
       "arrow": "→",
       "graph": "c6efb392-1bea-4d57-9aa7-13aaad798c33",
-      "id": "56e036e9-db7b-4636-9a23-f8146f92341f"
+      "id": "56e036e9-db7b-4636-9a23-f8146f92341f",
+      "label": {
+        "en": "in",
+        "de": "in",
+        "pt": "em"
+      }
     },
     {
       "nodes": [
@@ -14916,5 +14934,5 @@
       "id": "b5f25b55-9ff1-4587-b5a1-8194533ba88a"
     }
   ],
-  "exported": 1733665346827
+  "exported": 1733836811122
 }
