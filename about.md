@@ -41,7 +41,9 @@ Collecting and Processing for Gimi
 - Gimi: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 
 On Gimi and how to make it
-- Hugeku: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+- Hugeku: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- Kahokuhugu: © Staatliche Museen zu Berlin, Ethnologisches Museum, Helene Tello, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 Harvesting Annatto and turmeric
 - Annatto plant: © J.M.Garg, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
