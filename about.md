@@ -32,4 +32,33 @@ Xingu Entangled was created by the [Amazonia Future Lab](https://amazoniafuturel
 
 ## Image credits  
 Collecting and processing for Gimi  
-Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum / CC BY-SA 4.0  
+- Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+The dispersal and pollination of Moriche  
+- Moriche palm: © Bryan Ramdeen, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+Collecting and Processing for Gimi
+- Gimi: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+On Gimi and how to make it
+- Hugeku: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+Harvesting Annatto and turmeric
+- Annatto plant: © J.M.Garg, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+- Annatto Seeds: © Leonardo Aguiar, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)  
+- annatto cropped images: © Roger Culos, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)  
+
+Collecting Moriche Leaves
+- Moriche spear leavs (b.r.): © Martha Lucia Ortiz-Moreno, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+Uses of Moriche and Mats
+- Hammock: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+Using Utu
+- Pacu: © Dick Culbert, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)  
+
+The story of Uhi
+- Moriche tree: © dc-murayari, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+Using Kusu
+- Crenicichla: © Cláudio D. Timm, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)  
