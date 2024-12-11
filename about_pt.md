@@ -18,7 +18,6 @@ Fidel Thomet, Nadia Zeissig, Marian Dörk, Andrea Scholz, Thiago da Costa Olivei
 ## Projeto  
 Xingu Emaranhado é fruto do [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de), um projeto de pesquisa transdisciplinar realizado entre 2021 e 2024, financiado pelo Programa de Cultura Digital da Fundação Cultural Federal Alemã e pela Fundação Humboldt Forum. As visualizações foram desenvolvidas com o Wanderer, uma interface web que vincula gravações de vídeo a redes de dados. O Wanderer está disponível gratuitamente como [software de código aberto no GitHub](https://github.com/uclab-potsdam/wanderer).
 
-
 ## Parceiros  
 Comunidade Indígena da Aldeia Ipatse
 [UCLAB da Universidade Técnica de Potsdam](https://uclab.fh-potsdam.de/)   
@@ -30,6 +29,10 @@ Comunidade Indígena da Aldeia Ipatse
 
 ## Linguagem simples
 Xingu Emaranhado é parte do projeto [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de), realizado entre 2021 e 2024. Este projeto foi apoiado pelo Programa de Cultura Digital da Alemanha e pela Fundação Humboldt Forum. As visualizações foram feitas com o Wanderer, uma ferramenta online que conecta vídeos a redes de dados. O Wanderer é gratuito e pode ser baixado como [software de código aberto no GitHub](https://github.com/uclab-potsdam/wanderer).
+
+## Acessibilidade
+- [Report Barrier](https://www.preussischer-kulturbesitz.de/en/services/report-barrier.html)
+- [Declaration on Accessibility](https://www.preussischer-kulturbesitz.de/en/services/accessibility.html)
 
 ## Créditos das fotos 
 Sobre Gimi e como fazer  
