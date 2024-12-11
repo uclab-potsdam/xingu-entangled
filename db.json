@@ -45,7 +45,8 @@
     "kiosk": false,
     "about": {
       "en": "local:about.md",
-      "de": "local:about_de.md"
+      "de": "local:about_de.md",
+      "pt": "local:about_pt.md"
     }
   },
   "nodes": {
