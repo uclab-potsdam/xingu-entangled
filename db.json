@@ -38,8 +38,7 @@
       ]
     },
     "shorthands": {
-      "xingu": "https://amazoniafuturelab.fh-potsdam.de/media/xingu-entangled/_/",
-      "xe": "https://amazoniafuturelab.fh-potsdam.de/media/xingu-entangled/",
+      "xingu": "https://amazoniafuturelab.fh-potsdam.de/media/xingu-entangled/",
       "local": "./"
     },
     "defaultShorthand": "local",
