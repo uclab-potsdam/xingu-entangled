@@ -1,66 +1,64 @@
 # Xingu Entangled
 
-Tauchen Sie ein in die vielschichtige Lebenswelt der indigenen Gemeinschaften des Amazonas! Xingu Entangled bietet eine interaktive Erfahrung materieller Praktiken von Indigenen Personen aus der Region des Oberen Xingu, wo Artefakte, Geschichten, Orte, Pflanzen, Tiere, Rituale, Mythen und Ereignisse auf einzigartige Weise miteinander verknüpft sind. Statt einfach nur physische Objekte zu beschreiben, erfahren wir ihre Komplexität mithilfe interaktive Netzwerke und Videoclips. Die visualisierten Beziehungen vermitteln tief verwobene Bedeutungen. In der bewussten Überschreitung disziplinärer Grenzen treten indigene Perspektiven in den Vordergrund.
+Mergulhe no mundo entrelaçado das comunidades Indígenas da Amazônia! “Xingu Entangled/ Xingu Emaranhado” oferece uma experiência multifacetada das práticas materiais Indígenas da região do Alto Xingu, onde artefatos, histórias, lugares, plantas, animais, rituais, mitos e eventos estão única e profundamente conectados. Em vez de aprender apenas sobre objetos físicos, aprecie sua complexidade com o suporte de vídeos e redes interativas. As relações visualizadas carregam significados profundamente entrelaçados.  
 
-## Wie funktioniert es? 
-Die Videos zeigen Szenen der Xingu, während die Visualisierung die in der aktuellen Szene vorkommenden Elemente und ihre Verbindungen in einem Diagramm darstellt. Interagiere mit den Elementen, um aus der Erzählung auszubrechen und zwischen den Geschichten zu navigieren, sowie mehr über bestimmte Elemente und ihre weiteren Zusammenhänge zu erfahren.  
+## Como navegar 
+Os vídeos mostram cenas do Alto Xingu, enquanto os gráficos exibem elementos que aparecem em cena e suas interconexões. À medida que as cenas se desenrolam, seus respectivos diagramas vão evoluindo, revelando os mais diversos componentes. A interatividade permite que você vá além de uma narrativa linear padrão e navegue entre cenas, aprendendo mais sobre entidades específicas e seus contextos mais amplos.  
 
-![Übersicht](overview_DE.png)  
-Die **Übersicht** zeigt alle verfügbaren Geschichten. Die Pfeile geben eine mögliche Reihenfolge vor. Kehre zur Übersicht zurück, durch das Auswählen des Haussymbol ⌂ in der oberen linken Ecke.  
-![Story-Ansicht](storyview_DE.png)  
-Die **Story**-Ansicht zeigt die Elemente der Szene und ihre Verbindungen.    
-![Detailansicht](detailview_DE.png)  
-Die **Detailansicht** zeigt alle Verbindungen der ausgewählten Entität, über alle Geschichten hinweg.  
+![Geral](overview_PT.png)  
+O modo de visualização **Geral** contém todas as histórias disponíveis. As setas sugerem caminhos possíveis de visualização. Você pode retornar à visão Geral selecionando o ícone da casa ⌂ no canto superior esquerdo.  
+![modo Historia](storyview_PT.png)  
+O modo de visualização **História** mostra as entidades conectadas na cena atual.    
+![modo Detalhe](detailview_PT.png)  
+O modo de visualização **Detalhe** mostra todas as conexões da entidade selecionada em todas as histórias.   
 
-## Team  
+## Equipe  
 Fidel Thomet, Nadia Zeissig, Marian Dörk, Andrea Scholz, Thiago da Costa Oliveira, Flavia Heins  
 
-## Projekt
-Xingu Entangled wurde vom [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de) entwickelt, einem transdisziplinären Forschungsprojekt, das 2021-2024 vom Programm Digitale Kultur der Kulturstiftung des Bundes und der Stiftung Humboldt Forum im Berliner Schloss gefördert wurde. Die Anwendung wurde mit dem Wanderer realisiert, einem webbasierten Tool, das Videomaterial mit Diagrammen verbindet. Der Wanderer ist als [Open Source Software auf GitHub](https://github.com/uclab-potsdam/wanderer) frei verfügbar.    
+## Projeto  
+Xingu Emaranhado é fruto do [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de), um projeto de pesquisa transdisciplinar realizado entre 2021 e 2024, financiado pelo Programa de Cultura Digital da Fundação Cultural Federal Alemã e pela Fundação Humboldt Forum. As visualizações foram desenvolvidas com o Wanderer, uma interface web que vincula gravações de vídeo a redes de dados. O Wanderer está disponível gratuitamente como [software de código aberto no GitHub](https://github.com/uclab-potsdam/wanderer).
 
 
-## Partner  
-Indigene Gemeinschaft in Ipatse  
-[UCLAB at FH Potsdam](https://uclab.fh-potsdam.de/)   
-[Ethnologisches Museum](https://www.smb.museum/en/museums-institutions/ethnologisches-museum/home/)  
-[National Museum UFRJ Brazil](https://www.museunacional.ufrj.br/)  
+## Parceiros  
+Comunidade Indígena da Aldeia Ipatse
+[UCLAB da Universidade Técnica de Potsdam](https://uclab.fh-potsdam.de/)   
+[Ethnologisches Museum Berlim](https://www.smb.museum/en/museums-institutions/ethnologisches-museum/home/)  
+[Museu Nacional UFRJ Brasil](https://www.museunacional.ufrj.br/)  
 [Botanic Garden and Botanical Museum Berlin](https://www.bo.berlin/en)  
-[Ibero-American Institute](https://www.iai.spk-berlin.de/en/home.html)  
-[Institut für Museumsforschung](https://www.smb.museum/museen-einrichtungen/institut-fuer-museumsforschung/home/)  
+[Instituto Ibero-Americano Berlim](https://www.iai.spk-berlin.de/en/home.html)  
+[Institut für Museumsforschung Berlim](https://www.smb.museum/museen-einrichtungen/institut-fuer-museumsforschung/home/)  
 
-## Simple Language
-Xingu Entangled wurde vom [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de) entwickelt, einem Forschungsprojekt, das von 2021 bis 2024 durchgeführt wird. Das Forschungsprojekt wurde durch das Programm Digitale Kultur der Kulturstiftung des Bundes und die Stiftung Humboldt Forum im Berliner Schloss gefördert. Die Anwendung wurde mit dem Wanderer erstellt. Dies ist ein webbasiertes Tool, das Videos mit Diagrammen verbindet. Der Wanderer kann kostenlos genutzt werden und ist als [Open-Source-Software auf GitHub](https://github.com/uclab-potsdam/wanderer) verfügbar.
+## Linguagem simples
+Xingu Emaranhado é parte do projeto [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de), realizado entre 2021 e 2024. Este projeto foi apoiado pelo Programa de Cultura Digital da Alemanha e pela Fundação Humboldt Forum. As visualizações foram feitas com o Wanderer, uma ferramenta online que conecta vídeos a redes de dados. O Wanderer é gratuito e pode ser baixado como [software de código aberto no GitHub](https://github.com/uclab-potsdam/wanderer).
 
-## Bildnachweise 
-Sammeln und verarbeiten für Gimi  
-- Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+## Créditos das fotos 
+Sobre Gimi e como fazer  
+- Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- Hugeku: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- Kahokuhugu: © Staatliche Museen zu Berlin, Ethnologisches Museum, Helene Tello, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)   
 
-Die Verbreitung und Bestäubung von Moriche  
-- Moriche Palme: © Bryan Ramdeen, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+A distribuição e polinização do Moriche  
+- Moriche palma: © Bryan Ramdeen, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 
-Sammeln und verarbeiten für Gimi  
+Coleta e processamento para Gimi  
 - Gimi: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 
-Gimi und dessen Herstellung  
-- Hugeku: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-- Kahokuhugu: © Staatliche Museen zu Berlin, Ethnologisches Museum, Helene Tello, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+colheita de urucum e açafrão  
+- urucum planta: © J.M.Garg, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+- urucum sementes: © Leonardo Aguiar, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)  
+- urucum, imagens isoladas: © Roger Culos, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)  
 
-Annatto und Kurkuma ernten  
-- Annatto Pflanze: © J.M.Garg, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
-- Annatto Samen: © Leonardo Aguiar, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)  
-- Annatto, freigestellte Bilder: © Roger Culos, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)  
+Coletando folhas de Moriche  
+- Moriche folhas de moriche: © Martha Lucia Ortiz-Moreno, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 
-Moriche-Blätter sammeln  
-- Moriche Speerblätter (u.r.): © Martha Lucia Ortiz-Moreno, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+Uso de moriche e esteiras
+- rede: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 
-Verwendung von Moriche und Matten  
-- Hängematte: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
-
-Verwendung von Utu  
+O uso de Utu  
 - Pacu: © Dick Culbert, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)  
 
-Uhi's Geschichte  
-- Moriche Baum: © dc-murayari, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+A história de Uhi  
+- Moriche: © dc-murayari, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 
-Verwendung von Kusu  
+O uso de Kusu  
 - Crenicichla: © Cláudio D. Timm, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)  
