@@ -31,6 +31,10 @@ Indigene Gemeinschaft in Ipatse
 ## Simple Language
 Xingu Entangled wurde vom [Amazonia Future Lab](https://amazoniafuturelab.fh-potsdam.de) entwickelt, einem Forschungsprojekt, das von 2021 bis 2024 durchgeführt wird. Das Forschungsprojekt wurde durch das Programm Digitale Kultur der Kulturstiftung des Bundes und die Stiftung Humboldt Forum im Berliner Schloss gefördert. Die Anwendung wurde mit dem Wanderer erstellt. Dies ist ein webbasiertes Tool, das Videos mit Diagrammen verbindet. Der Wanderer kann kostenlos genutzt werden und ist als [Open-Source-Software auf GitHub](https://github.com/uclab-potsdam/wanderer) verfügbar.
 
+## Barrierefreiheit
+- [Barrierefreiheit](https://www.preussischer-kulturbesitz.de/service/barrierefreiheit.html)
+- [Barriere melden](https://www.preussischer-kulturbesitz.de/service/barriere-melden.html)
+
 ## Bildnachweise 
 Sammeln und verarbeiten für Gimi  
 - Gimi 1–3: © Staatliche Museen zu Berlin, Ethnologisches Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
