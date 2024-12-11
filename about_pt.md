@@ -1,6 +1,6 @@
 # Xingu Entangled
 
-Mergulhe no mundo entrelaçado das comunidades Indígenas da Amazônia! “Xingu Entangled/ Xingu Emaranhado” oferece uma experiência multifacetada das práticas materiais Indígenas da região do Alto Xingu, onde artefatos, histórias, lugares, plantas, animais, rituais, mitos e eventos estão única e profundamente conectados. Em vez de aprender apenas sobre objetos físicos, aprecie sua complexidade com o suporte de vídeos e redes interativas. As relações visualizadas carregam significados profundamente entrelaçados.  
+Mergulhe no mundo entrelaçado das comunidades Indígenas da Amazônia! Xingu Entangled (Xingu Emaranhado) oferece uma experiência multifacetada das práticas materiais Indígenas da região do Alto Xingu, onde artefatos, histórias, lugares, plantas, animais, rituais, mitos e eventos estão única e profundamente conectados. Em vez de aprender apenas sobre objetos físicos, aprecie sua complexidade com o suporte de vídeos e redes interativas. As relações visualizadas carregam significados profundamente entrelaçados.  
 
 ## Como navegar 
 Os vídeos mostram cenas do Alto Xingu, enquanto os gráficos exibem elementos que aparecem em cena e suas interconexões. À medida que as cenas se desenrolam, seus respectivos diagramas vão evoluindo, revelando os mais diversos componentes. A interatividade permite que você vá além de uma narrativa linear padrão e navegue entre cenas, aprendendo mais sobre entidades específicas e seus contextos mais amplos.  
