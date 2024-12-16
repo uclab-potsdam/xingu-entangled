@@ -5,11 +5,13 @@ Mergulhe no mundo entrelaçado das comunidades Indígenas da Amazônia! Xingu En
 ## Como navegar 
 Os vídeos mostram cenas do Alto Xingu, enquanto os gráficos exibem elementos que aparecem em cena e suas interconexões. À medida que as cenas se desenrolam, seus respectivos diagramas vão evoluindo, revelando os mais diversos componentes. A interatividade permite que você vá além de uma narrativa linear padrão e navegue entre cenas, aprendendo mais sobre entidades específicas e seus contextos mais amplos.  
 
-![Geral](overview_PT.png)  
+![Geral](about/overview_PT.png)  
 O modo de visualização **Geral** contém todas as histórias disponíveis. As setas sugerem caminhos possíveis de visualização. Você pode retornar à visão Geral selecionando o ícone da casa ⌂ no canto superior esquerdo.  
-![modo Historia](storyview_PT.png)  
+
+![modo Historia](about/storyview_PT.png)  
 O modo de visualização **História** mostra as entidades conectadas na cena atual.    
-![modo Detalhe](detailview_PT.png)  
+
+![modo Detalhe](about/detailview_PT.png)  
 O modo de visualização **Detalhe** mostra todas as conexões da entidade selecionada em todas as histórias.   
 
 ## Equipe  

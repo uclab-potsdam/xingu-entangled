@@ -5,11 +5,13 @@ Dive into the entangled lifeworld of Indigenous communities from the Amazon! Xin
 ## How to use  
 The videos show scenes from the Xingu, while the visualization displays elements appearing in the current scene and their interconnections in a diagram. As the scenes unfold, so do their associated diagrams by uncovering and highlighting elements. The interactivity allows you to break out of the default linear narrative and navigate between scenes, as well as learn more about specific elements and their wider contexts.  
 
-![overview](overview_EN.png)  
+![overview](about/overview_EN.png)  
 The **Overview** contains all stories that are available. The arrows suggest possible viewing paths. You can return to the Overview by selecting the house icon ⌂ in the top left corner.  
-![storyview](storyview_EN.png)  
+
+![storyview](about/storyview_EN.png)  
 The **Story** view shows the entities as they are connected in the current scene.  
-![detailview](detailview_EN.png)  
+
+![detailview](about/detailview_EN.png)  
 The **Detail** view shows all of the connections of the selected entity across all stories.  
 
 ## Team  

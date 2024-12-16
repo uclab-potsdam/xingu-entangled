@@ -5,11 +5,13 @@ Tauchen Sie ein in die vielschichtige Lebenswelt der indigenen Gemeinschaften de
 ## Wie funktioniert es? 
 Die Videos zeigen Szenen der Xingu, während die Visualisierung die in der aktuellen Szene vorkommenden Elemente und ihre Verbindungen in einem Diagramm darstellt. Interagiere mit den Elementen, um aus der Erzählung auszubrechen und zwischen den Geschichten zu navigieren, sowie mehr über bestimmte Elemente und ihre weiteren Zusammenhänge zu erfahren.  
 
-![Übersicht](overview_DE.png)  
+![Übersicht](about/overview_DE.png)  
 Die **Übersicht** zeigt alle verfügbaren Geschichten. Die Pfeile geben eine mögliche Reihenfolge vor. Kehre zur Übersicht zurück, durch das Auswählen des Haussymbol ⌂ in der oberen linken Ecke.  
-![Story-Ansicht](storyview_DE.png)  
+
+![Story-Ansicht](about/storyview_DE.png)  
 Die **Story**-Ansicht zeigt die Elemente der Szene und ihre Verbindungen.    
-![Detailansicht](detailview_DE.png)  
+
+![Detailansicht](about/detailview_DE.png)  
 Die **Detailansicht** zeigt alle Verbindungen der ausgewählten Entität, über alle Geschichten hinweg.  
 
 ## Team  
