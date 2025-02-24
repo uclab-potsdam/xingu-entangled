@@ -2,6 +2,8 @@
 
 wanderer instance: [uclab-potsdam.github.io/xingu-entangled](https://uclab-potsdam.github.io/xingu-entangled/)
 
+wanderer framework: [github.com/uclab-potsdam/wanderer](https://github.com/uclab-potsdam/wanderer)
+
 ## modes
 the wanderer has three operating modes. you can switch between modes in settings.
 
